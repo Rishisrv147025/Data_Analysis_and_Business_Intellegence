@@ -6,9 +6,11 @@ This project is focused on analyzing GitHub repositories using Python, SQL, and 
 
 ## Table of Contents
 
-- [Technologies Used](#Python-R-Sql)
-- [Dataset](#Multiple-Dataset)
-- [Installation](Visualization-)
+## Table of Contents
+
+- [Technologies Used](#technologies-used)
+- [Dataset](#dataset)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Analysis](#analysis)
 - [Results](#results)
@@ -20,3 +22,16 @@ This project is focused on analyzing GitHub repositories using Python, SQL, and 
 - **Python**: For data manipulation and analysis using libraries such as Pandas, NumPy, and Matplotlib.
 - **SQL**: For querying and managing data in relational databases.
 - **R**: For statistical analysis and advanced data visualization using ggplot2 and dplyr.
+
+## Dataset
+
+The dataset used for this analysis and prediction we collected datas from differnet websites. You can find the dataset in the `data/` directory or access it from kaggle, data.world .
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Rishisrv147025/Data_Science_Project
+   cd Data_Science_Project
