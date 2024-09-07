@@ -39,7 +39,7 @@ To run this project locally, follow these steps:
 ## Analysis
 This section provides a brief overview of the analysis performed:
 
-Data Cleaning: [Describe the data cleaning process, including any techniques used to handle missing values, outliers, etc.]
-Exploratory Data Analysis (EDA): [Summarize the EDA performed, including key findings and visualizations.]
-Statistical Analysis: [Explain any statistical tests or models applied to the data.]
-Machine Learning: [Describe any machine learning models used, including their purpose and performance metrics.]
+- Data Cleaning: [Describe the data cleaning process, including any techniques used to handle missing values, outliers, etc.]
+- Exploratory Data Analysis (EDA): [Summarize the EDA performed, including key findings and visualizations.]
+- Statistical Analysis: [Explain any statistical tests or models applied to the data.]
+- Machine Learning: [Describe any machine learning models used, including their purpose and performance metrics.]
