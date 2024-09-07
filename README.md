@@ -49,16 +49,16 @@ The key findings from the analysis include:
 - Python: Handled data extraction, cleaning, and automation, while generating visualizations such as repository activity and commit frequency trends.
 - R: Conducted advanced statistical analysis and produced detailed visualizations, revealing insights like language popularity trends and issue resolution times.
 - SQL: Used to query dataset for repository metrics, contributor activity, and language trends, providing insights like top repositories by stars and contributor growth over time.]
-Visualizations and detailed results can be found in the results/ directory.
+Visualizations and detailed results can be found in the results/ Analysis_image.
 
 ## Contributing
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Make your changes and commit them (git commit -m 'Add new feature').
-Push to the branch (git push origin feature-branch).
-Open a pull request.
+- Fork the repository.
+- Create a new branch (git checkout -b feature-branch).
+- Make your changes and commit them (git commit -m 'Add new feature').
+- Push to the branch (git push origin feature-branch).
+- Open a pull request.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
