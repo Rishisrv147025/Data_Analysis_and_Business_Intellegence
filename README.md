@@ -25,7 +25,7 @@ This project is focused on analyzing GitHub repositories using Python, SQL, and 
 
 ## Dataset
 
-The dataset used for this analysis and prediction we collected datas from differnet websites. You can find the dataset in the `data/` directory or access it from kaggle, data.world .
+The dataset used for this analysis and prediction we collected datas from differnet websites. You can find the dataset in the every folder of the project or access it from kaggle, data.world .
 
 ## Installation
 
@@ -39,7 +39,7 @@ To run this project locally, follow these steps:
 ## Analysis
 This section provides a brief overview of the analysis performed:
 
-- Data Cleaning: [Performed data cleaning process, including Fillna and Imputer to handle missing values, outliers, etc.]
+- Data Cleaning: [Performed data cleaning process, including Fillna and Imputer to handle missing values, outliers, etc. on Python and R.]
 - Exploratory Data Analysis (EDA): [Visualized the data's available in the dataset using matplotlib, Seaborn, etc..,]
-- Statistical Analysis: [Performed statitical test, Feature engineering and indepth analysis on the dataset.]
-- Machine Learning: [Used multiple machine Learning model to predict the future outcome of the dataset.]
+- Statistical Analysis: [Performed statitical test, Feature engineering and indepth analysis on the dataset. Used SQL to perform Power analysis to extract the required data from the dataset.]
+- Machine Learning: [Used multiple machine Learning model to predict the future outcome of the datasetusing Python and R.]
