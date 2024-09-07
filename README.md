@@ -1,7 +1,7 @@
 # Data_Science_Project
 
 Overview
-This project is focused on analyzing GitHub repositories using Python, SQL, and R. The primary goal of this analysis and modle buiding to predict dataset and to gather insights about repository trends, contributor activities, and other key metrics from GitHub data.
+This project is focused on analyzing the dataset using Python, SQL, and R. The primary goal of this analysis and modle buiding to predict dataset and to gather insights about dataset trends, contributor activities, and other key metrics from the available dataset.
 
 ## Table of Contents
 
