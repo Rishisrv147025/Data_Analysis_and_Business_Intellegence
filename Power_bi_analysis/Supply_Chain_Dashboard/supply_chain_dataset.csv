@@ -1,0 +1,1001 @@
+Order_ID,Supplier_Name,Product_Name,Order_Quantity,Order_Date,Expected_Delivery_Date,Actual_Delivery_Date,Unit_Cost,Total_Cost,Currency,Shipment_Method,Shipment_Status,Warehouse_Location,Inventory_Level,Reorder_Level,Lead_Time_Days,Delay_Days,Quality_Check,Returned_Quantity,Supplier_Rating,Payment_Terms,Payment_Status,Order_Priority,Currency_Conversion_Rate,Supplier_Contact
+ORD100000,Nova Supply Co.,Industrial Paint,500,1/15/2024,4/15/2024,26/02/2024,188.21,94105,EUR,Rail,Cancelled,New York,0,5,7,5,Failed,1,3,Net 60,Unpaid,High,0.86,-1788
+ORD100001,Nova Supply Co.,Rubber Tires,50,15/02/2024,4/15/2024,1/24/2024,250.22,43070.6,EUR,Sea,Cancelled,New York,50,15,10,0,Passed,0,1,Net 60,Paid,High,0.86,-1210
+ORD100002,Nova Supply Co.,Electronic Components,100,1/15/2024,1/25/2024,26/02/2024,250.22,43070.6,USD,Road,Delayed,New York,0,15,5,0,Failed,0,4,COD,Paid,High,0.86,-1210
+ORD100003,Nova Supply Co.,Industrial Paint,10,4/5/2024,4/15/2024,4/18/2024,299.93,2999.3,USD,Rail,In Transit,Houston,50,10,6,1,Passed,0,3,COD,Unpaid,High,0.85,-1788
+ORD100004,Global Supplies Inc.,Rubber Tires,500,1/15/2024,1/25/2024,26/02/2024,250.22,43070.6,EUR,Road,Delivered,New York,0,10,3,5,Failed,1,4,Net 60,Paid,Medium,0.85,-1210
+ORD100005,Sunrise Traders,Plastic Sheets,50,1/15/2024,25/02/2024,4/18/2024,250.22,43070.6,USD,Sea,Shipped,Los Angeles,0,5,7,1,Passed,1,3,Net 60,Paid,Low,0.85,-1503
+ORD100006,Nova Supply Co.,Packaging Boxes,200,1/15/2024,25/02/2024,1/24/2024,30.45,6090,USD,Air,Delivered,Chicago,0,10,3,2,Passed,1,3,COD,Paid,High,1,-1210
+ORD100007,Sunrise Traders,Steel Rods,500,4/5/2024,25/02/2024,1/24/2024,250.22,43070.6,USD,Air,Cancelled,Chicago,10,15,7,2,Passed,1,3,COD,Paid,High,0.86,-1210
+ORD100008,Nova Supply Co.,Industrial Paint,50,1/15/2024,25/02/2024,26/02/2024,301.16,15058,USD,Sea,In Transit,Houston,50,5,3,1,Passed,1,4,Net 30,Unpaid,High,0.86,-1503
+ORD100009,Nova Supply Co.,Industrial Paint,50,2024.03.10,25/02/2024,4/18/2024,250.22,43070.6,EUR,Rail,Delivered,New York,50,10,5,2,Passed,0,3,COD,Paid,High,0.75,-1788
+ORD100010,Prime Logistics,Plastic Sheets,500,1/15/2024,2024.03.20,2024.03.22,250.22,43070.6,USD,Air,Delayed,Houston,0,20,3,0,Failed,2,4,COD,Unpaid,Medium,1,-1503
+ORD100011,Sunrise Traders,Packaging Boxes,100,2024.03.10,4/15/2024,2024.03.22,485,48500,USD,Rail,In Transit,Houston,50,10,6,2,Passed,1,2,Net 60,Unpaid,Low,1,-1788
+ORD100012,Sunrise Traders,Rubber Tires,200,4/5/2024,25/02/2024,1/24/2024,416.47,83294,USD,Rail,In Transit,New York,0,15,5,0,Passed,1,3,Net 30,Paid,Low,1,-1503
+ORD100013,Acme Corp.,Industrial Paint,167,1/15/2024,4/15/2024,4/18/2024,107.35,43070.6,EUR,Road,In Transit,New York,100,15,10,2,Failed,1,4,Net 60,Pending,High,0.85,-1788
+ORD100014,Acme Corp.,Rubber Tires,50,2024.03.10,1/25/2024,1/24/2024,92.14,4607,USD,Road,Delayed,Los Angeles,10,5,7,1,Failed,1,4,Net 60,Paid,High,0.75,-1503
+ORD100015,Nova Supply Co.,Packaging Boxes,500,1/15/2024,4/15/2024,26/02/2024,92.93,46465,USD,Rail,Delayed,Houston,100,15,7,2,Passed,0,1,Net 30,Paid,High,0.86,-1210
+ORD100016,Prime Logistics,Plastic Sheets,10,4/5/2024,1/25/2024,26/02/2024,153.16,1531.6,EUR,Road,Shipped,Houston,100,10,7,1,Passed,2,1,COD,Unpaid,High,0.85,-1210
+ORD100017,Nova Supply Co.,Steel Rods,500,4/5/2024,4/15/2024,1/24/2024,263.09,131545,USD,Rail,shipped,New York,36,5,3,0,Failed,1,4,COD,Paid,High,0.85,-1210
+ORD100018,Blue Ocean Ltd.,Packaging Boxes,167,15/02/2024,25/02/2024,26/02/2024,216.82,43070.6,USD,Sea,In Transit,Los Angeles,10,15,10,5,Passed,1,3,Net 30,Paid,Medium,0.86,-1788
+ORD100019,Blue Ocean Ltd.,Industrial Paint,100,4/5/2024,4/15/2024,1/24/2024,146.68,14668,USD,Sea,Pending,New York,50,10,5,2,Passed,1,3,COD,Paid,High,0.85,-1503
+ORD100020,Prime Logistics,Packaging Boxes,10,4/5/2024,4/15/2024,1/24/2024,306.51,3065.1,USD,Sea,Pending,New York,0,10,5,1,Failed,1,5,COD,Paid,Low,0.75,-1503
+ORD100021,Prime Logistics,Electronic Components,10,1/15/2024,2024.03.20,4/18/2024,250.22,43070.6,USD,Road,Delayed,Los Angeles,0,20,10,5,Passed,2,3,COD,Pending,High,0.86,-1788
+ORD100022,Blue Ocean Ltd.,Plastic Sheets,500,1/15/2024,25/02/2024,1/24/2024,250.22,43070.6,USD,Sea,Delayed,Houston,0,5,7,1,Failed,1,4,COD,Paid,Medium,0.86,-1210
+ORD100023,Prime Logistics,Rubber Tires,10,1/15/2024,25/02/2024,2024.03.22,184.13,1841.3,EUR,Air,Shipped,Houston,36,15,3,0,Failed,2,3,COD,Pending,High,0.86,-1503
+ORD100024,Acme Corp.,Plastic Sheets,200,1/15/2024,1/25/2024,2024.03.22,250.22,43070.6,USD,Sea,shipped,Houston,0,20,6,2,Failed,1,2,COD,Unpaid,High,1,-1503
+ORD100025,Nova Supply Co.,Industrial Paint,167,15/02/2024,25/02/2024,26/02/2024,250.22,43070.6,USD,Road,Delivered,Miami,100,10,7,2,Passed,1,3,Net 30,Paid,High,0.86,-1503
+ORD100026,Nova Supply Co.,Rubber Tires,200,1/15/2024,4/15/2024,26/02/2024,250.22,43070.6,EUR,Sea,Pending,Los Angeles,50,10,6,5,Passed,1,5,Net 30,Pending,Medium,1,-1788
+ORD100027,Nova Supply Co.,Copper Wire,10,15/02/2024,4/15/2024,2024.03.22,250.22,43070.6,USD,Rail,Delayed,Houston,0,20,7,1,Failed,1,2,Net 30,Pending,High,0.86,-1210
+ORD100028,Nova Supply Co.,Rubber Tires,10,1/15/2024,25/02/2024,1/24/2024,250.22,43070.6,EUR,Sea,Shipped,Chicago,20,10,10,5,Passed,0,1,Net 60,Paid,High,0.75,-1503
+ORD100029,Acme Corp.,Electronic Components,10,1/15/2024,1/25/2024,26/02/2024,250.22,43070.6,EUR,Air,Delayed,Miami,50,5,3,1,Passed,1,3,Net 60,Unpaid,Low,1,-1788
+ORD100030,Acme Corp.,Plastic Sheets,200,15/02/2024,1/25/2024,26/02/2024,250.22,43070.6,USD,Air,Cancelled,Los Angeles,0,15,10,2,Failed,1,1,COD,Pending,High,0.86,-1503
+ORD100031,Sunrise Traders,Industrial Paint,10,1/15/2024,4/15/2024,2024.03.22,86.51,865.1,USD,Rail,Cancelled,New York,20,10,10,2,Passed,2,1,Net 30,Paid,Low,0.75,-1788
+ORD100032,Sunrise Traders,Industrial Paint,50,2024.03.10,,26/02/2024,250.22,43070.6,EUR,Rail,In Transit,New York,10,10,5,2,Passed,2,3,Net 30,Paid,High,1,-1503
+ORD100033,Nova Supply Co.,Electronic Components,200,1/15/2024,,1/24/2024,250.22,43070.6,EUR,Sea,In Transit,New York,50,10,3,2,Passed,2,3,Net 30,Unpaid,High,0.85,-1503
+ORD100034,Prime Logistics,Plastic Sheets,200,1/15/2024,4/15/2024,2024.03.22,482.87,96574,EUR,Sea,Pending,New York,20,10,7,5,Failed,0,5,COD,Unpaid,High,1,-1788
+ORD100035,Nova Supply Co.,Packaging Boxes,167,1/15/2024,25/02/2024,1/24/2024,250.22,43070.6,USD,Sea,Shipped,New York,10,10,10,0,Passed,1,2,COD,Paid,Low,0.85,-1788
+ORD100036,Nova Supply Co.,Plastic Sheets,50,15/02/2024,,1/24/2024,250.22,43070.6,EUR,Rail,Delayed,New York,100,10,3,2,Passed,1,1,COD,Unpaid,Low,1,-1788
+ORD100037,Prime Logistics,Electronic Components,10,4/5/2024,1/25/2024,1/24/2024,250.22,43070.6,EUR,Air,Shipped,Houston,20,20,3,2,Failed,1,3,COD,Unpaid,High,0.86,-1210
+ORD100038,Prime Logistics,Copper Wire,200,2024.03.10,25/02/2024,26/02/2024,250.22,43070.6,EUR,Rail,shipped,Chicago,10,10,3,1,Passed,1,3,COD,Paid,High,0.85,-1210
+ORD100039,Sunrise Traders,Industrial Paint,500,4/5/2024,2024.03.20,26/02/2024,220.92,110460,USD,Sea,Shipped,New York,36,15,7,2,Passed,1,3,Net 30,Pending,High,0.85,-1210
+ORD100040,Prime Logistics,Steel Rods,500,1/15/2024,2024.03.20,26/02/2024,250.22,43070.6,EUR,Sea,Pending,Houston,100,15,6,5,Passed,1,2,COD,Paid,Medium,0.86,-1503
+ORD100041,Nova Supply Co.,Copper Wire,10,4/5/2024,1/25/2024,26/02/2024,248.35,2483.5,USD,Sea,shipped,Los Angeles,100,15,6,5,Passed,0,5,Net 60,Paid,Low,0.86,-1503
+ORD100042,Acme Corp.,Industrial Paint,200,1/15/2024,,2024.03.22,250.22,43070.6,USD,Rail,Pending,Miami,0,15,3,0,Passed,1,2,Net 60,Unpaid,High,0.86,-1210
+ORD100043,Global Supplies Inc.,Copper Wire,50,1/15/2024,2024.03.20,2024.03.22,454.8,22740,USD,Air,Delivered,New York,10,5,6,1,Failed,1,4,COD,Paid,Medium,1,-1210
+ORD100044,Nova Supply Co.,Copper Wire,200,1/15/2024,1/25/2024,26/02/2024,250.22,43070.6,USD,Sea,In Transit,Houston,100,15,3,5,Failed,0,3,Net 30,Paid,Low,1,-1503
+ORD100045,Blue Ocean Ltd.,Plastic Sheets,167,15/02/2024,,2024.03.22,331.77,43070.6,USD,Sea,shipped,New York,36,10,5,5,Failed,2,2,COD,Paid,High,0.86,-1788
+ORD100046,Blue Ocean Ltd.,Electronic Components,167,2024.03.10,4/15/2024,1/24/2024,250.22,43070.6,USD,Rail,In Transit,New York,36,10,6,0,Passed,2,5,COD,Paid,Low,0.86,-1503
+ORD100047,Blue Ocean Ltd.,Industrial Paint,50,2024.03.10,1/25/2024,1/24/2024,260.75,13037.5,EUR,Road,shipped,Los Angeles,10,10,5,0,Passed,2,1,COD,Unpaid,High,1,-1503
+ORD100048,Blue Ocean Ltd.,Industrial Paint,200,15/02/2024,2024.03.20,1/24/2024,250.22,43070.6,USD,Air,Shipped,New York,0,15,5,5,Passed,2,4,COD,Unpaid,Low,0.75,-1210
+ORD100049,Blue Ocean Ltd.,Steel Rods,50,4/5/2024,1/25/2024,1/24/2024,250.22,43070.6,EUR,Air,Delayed,New York,100,10,3,2,Passed,1,4,COD,Pending,Low,1,-1210
+ORD100050,Sunrise Traders,Steel Rods,50,1/15/2024,,26/02/2024,484.84,24242,USD,Sea,In Transit,New York,36,10,10,2,Passed,1,4,Net 30,Paid,High,0.86,-1788
+ORD100051,Global Supplies Inc.,Industrial Paint,500,1/15/2024,1/25/2024,2024.03.22,250.22,43070.6,EUR,Sea,Delayed,Houston,36,15,5,2,Passed,1,1,COD,Paid,Medium,0.75,-1788
+ORD100052,Blue Ocean Ltd.,Rubber Tires,167,4/5/2024,,2024.03.22,250.22,43070.6,USD,Sea,In Transit,Chicago,36,15,6,0,Failed,1,2,Net 30,Paid,Low,0.75,-1788
+ORD100053,Global Supplies Inc.,Packaging Boxes,167,1/15/2024,1/25/2024,1/24/2024,250.22,43070.6,USD,Air,shipped,New York,36,10,3,0,Passed,0,1,COD,Paid,High,0.75,-1210
+ORD100054,Global Supplies Inc.,Plastic Sheets,200,4/5/2024,2024.03.20,1/24/2024,299.55,59910,USD,Sea,shipped,Houston,20,10,5,2,Failed,2,5,COD,Paid,High,0.86,-1503
+ORD100055,Blue Ocean Ltd.,Electronic Components,10,4/5/2024,,26/02/2024,250.22,43070.6,USD,Road,In Transit,New York,0,5,6,2,Passed,1,1,Net 30,Paid,Low,1,-1788
+ORD100056,Acme Corp.,Industrial Paint,500,15/02/2024,25/02/2024,26/02/2024,250.22,43070.6,USD,Sea,Pending,Miami,36,15,3,2,Failed,2,2,COD,Paid,High,0.86,-1503
+ORD100057,Prime Logistics,Steel Rods,100,15/02/2024,2024.03.20,4/18/2024,99.2,9920,USD,Sea,Pending,New York,50,20,5,5,Failed,1,4,COD,Paid,Low,0.85,-1503
+ORD100058,Acme Corp.,Rubber Tires,167,1/15/2024,4/15/2024,1/24/2024,24.05,43070.6,USD,Rail,shipped,Houston,20,10,10,0,Passed,1,3,COD,Paid,Medium,0.85,-1210
+ORD100059,Acme Corp.,Copper Wire,500,1/15/2024,,4/18/2024,163.68,81840,EUR,Sea,In Transit,New York,0,10,6,0,Failed,0,1,Net 60,Paid,Medium,1,-1210
+ORD100060,Nova Supply Co.,Industrial Paint,167,1/15/2024,4/15/2024,4/18/2024,195.26,43070.6,USD,Road,Delayed,Miami,0,10,6,5,Failed,1,3,Net 60,Unpaid,High,0.85,-1503
+ORD100061,Acme Corp.,Industrial Paint,50,1/15/2024,25/02/2024,1/24/2024,136.77,6838.5,USD,Sea,Delayed,New York,20,15,3,2,Passed,0,3,COD,Unpaid,High,0.75,-1210
+ORD100062,Nova Supply Co.,Industrial Paint,10,15/02/2024,2024.03.20,1/24/2024,414.63,4146.3,USD,Sea,Delivered,New York,36,15,7,0,Passed,1,3,Net 30,Paid,Medium,0.86,-1503
+ORD100063,Global Supplies Inc.,Industrial Paint,10,15/02/2024,25/02/2024,1/24/2024,250.22,43070.6,EUR,Air,In Transit,New York,10,15,7,2,Passed,1,1,COD,Unpaid,High,1,-1788
+ORD100064,Nova Supply Co.,Electronic Components,167,4/5/2024,4/15/2024,1/24/2024,250.22,43070.6,USD,Sea,Pending,Los Angeles,36,10,3,2,Passed,2,4,COD,Unpaid,Medium,0.86,-1788
+ORD100065,Acme Corp.,Electronic Components,50,4/5/2024,25/02/2024,2024.03.22,272.03,13601.5,USD,Sea,Shipped,Miami,10,10,10,2,Passed,1,4,Net 60,Pending,High,0.86,-1210
+ORD100066,Global Supplies Inc.,Packaging Boxes,200,1/15/2024,2024.03.20,4/18/2024,71.75,14350,EUR,Sea,Delivered,Los Angeles,100,10,5,2,Passed,1,4,Net 60,Pending,High,0.75,-1210
+ORD100067,Nova Supply Co.,Rubber Tires,100,4/5/2024,,1/24/2024,250.22,43070.6,USD,Sea,Delivered,New York,10,10,5,5,Failed,1,5,Net 60,Unpaid,High,0.85,-1788
+ORD100068,Nova Supply Co.,Industrial Paint,10,4/5/2024,25/02/2024,2024.03.22,250.22,43070.6,EUR,Air,Cancelled,New York,36,10,6,2,Passed,1,5,COD,Pending,High,0.86,-1210
+ORD100069,Prime Logistics,Industrial Paint,10,15/02/2024,25/02/2024,1/24/2024,493.46,4934.6,USD,Air,Delayed,Chicago,0,10,7,2,Failed,0,4,Net 60,Pending,Low,0.85,-1788
+ORD100070,Prime Logistics,Electronic Components,500,1/15/2024,2024.03.20,4/18/2024,386.46,193230,USD,Air,In Transit,Los Angeles,50,5,7,5,Passed,1,1,COD,Paid,High,0.86,-1503
+ORD100071,Global Supplies Inc.,Steel Rods,50,1/15/2024,,1/24/2024,250.22,43070.6,USD,Sea,In Transit,Los Angeles,20,10,7,5,Passed,1,5,Net 30,Paid,High,0.75,-1210
+ORD100072,Global Supplies Inc.,Industrial Paint,10,1/15/2024,1/25/2024,1/24/2024,4.25,42.5,USD,Rail,Cancelled,Chicago,10,20,7,2,Passed,1,5,COD,Paid,High,0.85,-1503
+ORD100073,Global Supplies Inc.,Plastic Sheets,167,1/15/2024,25/02/2024,26/02/2024,250.22,43070.6,USD,Sea,Delivered,Miami,50,10,7,0,Failed,2,3,Net 60,Paid,High,0.75,-1210
+ORD100074,Global Supplies Inc.,Industrial Paint,50,1/15/2024,2024.03.20,1/24/2024,353.87,17693.5,USD,Sea,In Transit,Miami,100,15,3,1,Passed,2,1,Net 30,Unpaid,Low,0.86,-1788
+ORD100075,Nova Supply Co.,Copper Wire,100,4/5/2024,1/25/2024,2024.03.22,250.22,43070.6,USD,Road,Delayed,Miami,100,10,6,2,Passed,1,1,Net 30,Unpaid,Medium,1,-1210
+ORD100076,Sunrise Traders,Industrial Paint,50,2024.03.10,25/02/2024,26/02/2024,385.98,19299,USD,Sea,Delayed,Houston,50,5,10,2,Passed,2,2,COD,Paid,Low,0.75,-1503
+ORD100077,Prime Logistics,Steel Rods,200,4/5/2024,25/02/2024,4/18/2024,250.22,43070.6,USD,Air,Delivered,Miami,36,15,3,0,Passed,1,3,Net 30,Paid,High,1,-1503
+ORD100078,Nova Supply Co.,Copper Wire,50,4/5/2024,25/02/2024,1/24/2024,250.22,43070.6,EUR,Air,Pending,Los Angeles,10,20,6,2,Failed,1,3,Net 60,Paid,High,1,-1210
+ORD100079,Blue Ocean Ltd.,Electronic Components,50,2024.03.10,4/15/2024,2024.03.22,250.22,43070.6,USD,Sea,In Transit,Miami,100,5,3,5,Passed,1,2,Net 60,Paid,Low,0.86,-1210
+ORD100080,Acme Corp.,Industrial Paint,167,1/15/2024,25/02/2024,1/24/2024,431.76,43070.6,USD,Sea,Delayed,Los Angeles,0,5,7,1,Passed,1,2,COD,Pending,Low,0.75,-1788
+ORD100081,Global Supplies Inc.,Rubber Tires,500,1/15/2024,2024.03.20,2024.03.22,250.22,43070.6,EUR,Air,Pending,Houston,100,5,10,1,Passed,1,2,Net 60,Unpaid,High,1,-1788
+ORD100082,Acme Corp.,Steel Rods,167,1/15/2024,1/25/2024,1/24/2024,166.45,43070.6,USD,Rail,In Transit,New York,50,20,5,1,Passed,0,2,Net 30,Unpaid,High,0.85,-1788
+ORD100083,Global Supplies Inc.,Industrial Paint,200,15/02/2024,4/15/2024,2024.03.22,250.22,43070.6,USD,Sea,Cancelled,New York,50,10,6,2,Passed,2,5,Net 30,Pending,High,0.75,-1788
+ORD100084,Global Supplies Inc.,Copper Wire,200,15/02/2024,1/25/2024,1/24/2024,250.22,43070.6,USD,Sea,Shipped,Chicago,100,10,6,2,Passed,0,3,Net 60,Unpaid,High,0.85,-1788
+ORD100085,Sunrise Traders,Industrial Paint,200,4/5/2024,4/15/2024,26/02/2024,163.6,32720,EUR,Sea,In Transit,Chicago,0,15,6,2,Failed,1,5,Net 60,Paid,High,0.85,-1210
+ORD100086,Nova Supply Co.,Plastic Sheets,500,1/15/2024,1/25/2024,26/02/2024,365.21,182605,USD,Sea,Shipped,Los Angeles,10,10,3,5,Passed,0,1,Net 60,Unpaid,High,0.85,-1503
+ORD100087,Global Supplies Inc.,Industrial Paint,200,1/15/2024,25/02/2024,1/24/2024,250.22,43070.6,USD,Sea,Delivered,Los Angeles,100,20,5,5,Passed,1,2,COD,Unpaid,High,0.85,-1503
+ORD100088,Sunrise Traders,Rubber Tires,167,1/15/2024,2024.03.20,1/24/2024,250.22,43070.6,USD,Road,Delayed,Houston,0,5,7,0,Passed,1,2,COD,Unpaid,Low,0.75,-1210
+ORD100089,Prime Logistics,Rubber Tires,167,1/15/2024,1/25/2024,26/02/2024,250.22,43070.6,USD,Rail,In Transit,New York,10,10,3,1,Passed,2,5,COD,Paid,Medium,0.85,-1210
+ORD100090,Sunrise Traders,Plastic Sheets,50,1/15/2024,25/02/2024,1/24/2024,250.22,43070.6,EUR,Sea,Delivered,Los Angeles,0,10,6,2,Passed,1,3,COD,Paid,High,0.86,-1788
+ORD100091,Blue Ocean Ltd.,Plastic Sheets,50,4/5/2024,2024.03.20,4/18/2024,357.05,17852.5,EUR,Air,Shipped,New York,20,5,5,2,Failed,0,2,COD,Unpaid,Low,1,-1788
+ORD100092,Prime Logistics,Steel Rods,10,4/5/2024,4/15/2024,1/24/2024,250.22,43070.6,USD,Road,Delivered,Chicago,20,10,6,2,Passed,2,1,Net 30,Paid,High,0.86,-1788
+ORD100093,Prime Logistics,Industrial Paint,10,15/02/2024,,4/18/2024,250.22,43070.6,USD,Air,Delivered,Chicago,100,10,10,5,Passed,2,2,COD,Pending,Low,0.75,-1503
+ORD100094,Blue Ocean Ltd.,Rubber Tires,500,2024.03.10,,1/24/2024,250.22,43070.6,EUR,Air,Delivered,Miami,0,5,7,5,Passed,1,2,COD,Paid,High,0.75,-1788
+ORD100095,Nova Supply Co.,Industrial Paint,200,1/15/2024,25/02/2024,26/02/2024,247.66,49532,USD,Sea,Delayed,Chicago,20,10,6,2,Passed,2,3,Net 60,Paid,High,0.86,-1788
+ORD100096,Blue Ocean Ltd.,Copper Wire,50,2024.03.10,25/02/2024,2024.03.22,262.08,13104,USD,Rail,Shipped,New York,36,20,6,5,Passed,1,5,Net 60,Paid,Medium,1,-1788
+ORD100097,Sunrise Traders,Rubber Tires,200,4/5/2024,2024.03.20,4/18/2024,214.63,42926,USD,Road,Shipped,Chicago,50,20,6,2,Passed,1,4,COD,Pending,Medium,0.85,-1210
+ORD100098,Blue Ocean Ltd.,Copper Wire,100,4/5/2024,1/25/2024,2024.03.22,14.17,1417,USD,Sea,Pending,Los Angeles,50,15,3,2,Failed,1,2,COD,Pending,High,0.86,-1503
+ORD100099,Acme Corp.,Packaging Boxes,10,4/5/2024,4/15/2024,2024.03.22,55.28,552.8,EUR,Rail,Cancelled,New York,50,20,3,0,Passed,2,3,Net 30,Paid,Medium,0.86,-1503
+ORD100100,Acme Corp.,Packaging Boxes,500,1/15/2024,,4/18/2024,17.17,8585,EUR,Air,Shipped,New York,36,10,10,2,Passed,2,5,Net 30,Unpaid,Medium,0.85,-1210
+ORD100101,Nova Supply Co.,Copper Wire,50,4/5/2024,4/15/2024,26/02/2024,318.75,15937.5,USD,Sea,Shipped,Houston,10,15,7,2,Passed,0,5,COD,Pending,Medium,0.85,-1503
+ORD100102,Global Supplies Inc.,Copper Wire,10,2024.03.10,1/25/2024,26/02/2024,158.21,1582.1,EUR,Sea,shipped,Chicago,50,10,10,2,Failed,2,4,Net 30,Paid,High,0.86,-1503
+ORD100103,Nova Supply Co.,Industrial Paint,10,4/5/2024,4/15/2024,26/02/2024,255.02,2550.2,USD,Road,Pending,Houston,36,15,10,2,Passed,2,4,Net 30,Unpaid,Medium,0.85,-1788
+ORD100104,Prime Logistics,Electronic Components,10,15/02/2024,,26/02/2024,453.92,4539.2,EUR,Rail,Delivered,Miami,0,10,7,1,Passed,0,3,Net 30,Paid,Low,0.75,-1503
+ORD100105,Global Supplies Inc.,Copper Wire,200,2024.03.10,,1/24/2024,125.77,25154,EUR,Rail,Shipped,New York,0,5,3,2,Passed,1,1,Net 60,Pending,High,0.86,-1503
+ORD100106,Prime Logistics,Electronic Components,200,15/02/2024,2024.03.20,4/18/2024,206.08,41216,USD,Road,Delivered,Houston,10,10,5,2,Failed,1,3,Net 60,Pending,High,0.75,-1210
+ORD100107,Global Supplies Inc.,Electronic Components,50,2024.03.10,,1/24/2024,250.22,43070.6,EUR,Rail,Delayed,Miami,36,20,6,0,Passed,0,3,COD,Unpaid,Medium,0.86,-1503
+ORD100108,Global Supplies Inc.,Industrial Paint,100,2024.03.10,4/15/2024,26/02/2024,115.56,11556,USD,Sea,shipped,New York,36,20,10,2,Failed,1,3,Net 60,Paid,High,0.85,-1210
+ORD100109,Nova Supply Co.,Copper Wire,100,2024.03.10,25/02/2024,26/02/2024,250.22,43070.6,USD,Sea,Delivered,New York,50,20,3,1,Passed,1,4,COD,Pending,Low,1,-1503
+ORD100110,Prime Logistics,Plastic Sheets,100,4/5/2024,25/02/2024,4/18/2024,145.94,14594,USD,Air,Delivered,Houston,36,20,3,0,Passed,1,5,COD,Pending,High,0.75,-1210
+ORD100111,Nova Supply Co.,Packaging Boxes,500,1/15/2024,1/25/2024,26/02/2024,81.87,40935,USD,Rail,shipped,New York,50,15,10,1,Passed,1,3,Net 30,Paid,Low,1,-1503
+ORD100112,Prime Logistics,Plastic Sheets,500,1/15/2024,4/15/2024,26/02/2024,464.95,232475,USD,Air,Shipped,New York,0,5,10,2,Passed,1,3,Net 60,Paid,Medium,1,-1503
+ORD100113,Nova Supply Co.,Rubber Tires,50,1/15/2024,25/02/2024,26/02/2024,404.35,20217.5,USD,Road,Cancelled,New York,50,5,10,2,Passed,0,3,Net 60,Paid,Medium,0.86,-1788
+ORD100114,Nova Supply Co.,Steel Rods,167,1/15/2024,2024.03.20,1/24/2024,250.22,43070.6,EUR,Sea,Shipped,Los Angeles,36,5,7,1,Passed,2,3,COD,Paid,High,0.85,-1503
+ORD100115,Acme Corp.,Plastic Sheets,200,1/15/2024,,1/24/2024,250.22,43070.6,USD,Sea,Delivered,Chicago,20,10,6,1,Passed,1,3,COD,Unpaid,Medium,0.75,-1788
+ORD100116,Nova Supply Co.,Steel Rods,200,1/15/2024,2024.03.20,4/18/2024,250.22,43070.6,USD,Air,Delayed,Los Angeles,20,10,6,5,Passed,2,3,COD,Unpaid,Medium,0.85,-1788
+ORD100117,Blue Ocean Ltd.,Steel Rods,10,1/15/2024,25/02/2024,1/24/2024,94.51,945.1,EUR,Road,Cancelled,New York,100,15,5,0,Failed,0,3,COD,Unpaid,High,1,-1210
+ORD100118,Nova Supply Co.,Industrial Paint,10,15/02/2024,25/02/2024,4/18/2024,250.22,43070.6,EUR,Air,In Transit,Chicago,100,10,10,0,Failed,0,1,COD,Pending,High,0.75,-1503
+ORD100119,Nova Supply Co.,Plastic Sheets,500,1/15/2024,25/02/2024,1/24/2024,250.22,43070.6,USD,Road,Cancelled,New York,50,20,6,1,Passed,1,3,Net 60,Paid,Medium,0.86,-1788
+ORD100120,Nova Supply Co.,Plastic Sheets,50,1/15/2024,4/15/2024,1/24/2024,404.01,20200.5,EUR,Sea,Shipped,Chicago,36,15,10,0,Passed,1,3,COD,Pending,Medium,0.85,-1503
+ORD100121,Acme Corp.,Copper Wire,167,2024.03.10,4/15/2024,2024.03.22,448.2,43070.6,USD,Sea,Pending,Miami,10,5,5,2,Passed,2,2,COD,Paid,Low,1,-1503
+ORD100122,Global Supplies Inc.,Copper Wire,50,2024.03.10,25/02/2024,2024.03.22,250.22,43070.6,USD,Sea,In Transit,Chicago,50,15,10,5,Passed,0,3,COD,Paid,Low,0.85,-1503
+ORD100123,Global Supplies Inc.,Plastic Sheets,167,1/15/2024,25/02/2024,1/24/2024,56.36,43070.6,USD,Sea,Delayed,Los Angeles,50,10,6,2,Passed,0,5,COD,Pending,High,0.86,-1503
+ORD100124,Sunrise Traders,Rubber Tires,500,1/15/2024,4/15/2024,2024.03.22,115.13,57565,USD,Rail,In Transit,Los Angeles,10,10,5,1,Failed,1,3,Net 30,Paid,High,0.85,-1210
+ORD100125,Global Supplies Inc.,Packaging Boxes,200,2024.03.10,1/25/2024,1/24/2024,214.41,42882,EUR,Road,Cancelled,New York,100,15,7,0,Failed,0,5,COD,Paid,High,0.75,-1503
+ORD100126,Acme Corp.,Industrial Paint,200,1/15/2024,25/02/2024,1/24/2024,250.22,43070.6,USD,Sea,Cancelled,Los Angeles,10,10,3,2,Passed,1,4,Net 60,Pending,High,0.75,-1210
+ORD100127,Nova Supply Co.,Packaging Boxes,100,15/02/2024,25/02/2024,2024.03.22,430.57,43057,EUR,Sea,Shipped,Miami,50,15,3,2,Passed,0,2,Net 60,Paid,High,0.85,-1210
+ORD100128,Blue Ocean Ltd.,Industrial Paint,100,1/15/2024,1/25/2024,1/24/2024,250.22,43070.6,EUR,Road,Delivered,Miami,50,20,7,0,Passed,2,2,COD,Paid,High,0.85,-1503
+ORD100129,Nova Supply Co.,Rubber Tires,500,4/5/2024,2024.03.20,26/02/2024,250.22,43070.6,USD,Air,Delayed,Houston,0,20,6,2,Passed,1,5,COD,Paid,High,0.85,-1210
+ORD100130,Sunrise Traders,Industrial Paint,100,15/02/2024,,1/24/2024,250.22,43070.6,USD,Sea,shipped,Miami,20,20,3,2,Failed,2,1,Net 30,Unpaid,Low,0.75,-1503
+ORD100131,Nova Supply Co.,Packaging Boxes,100,1/15/2024,4/15/2024,1/24/2024,250.22,43070.6,EUR,Rail,Delivered,Miami,36,10,10,2,Failed,1,2,COD,Paid,Medium,0.86,-1503
+ORD100132,Global Supplies Inc.,Electronic Components,200,15/02/2024,2024.03.20,2024.03.22,250.22,43070.6,USD,Sea,Delayed,Miami,36,10,3,0,Failed,1,3,Net 30,Paid,High,0.75,-1210
+ORD100133,Acme Corp.,Plastic Sheets,100,2024.03.10,2024.03.20,1/24/2024,169.8,16980,USD,Air,Cancelled,New York,100,5,3,2,Failed,0,2,COD,Pending,High,0.75,-1210
+ORD100134,Sunrise Traders,Electronic Components,167,2024.03.10,,4/18/2024,250.22,43070.6,USD,Sea,Cancelled,Houston,36,20,6,2,Passed,1,2,Net 60,Paid,High,0.85,-1503
+ORD100135,Prime Logistics,Plastic Sheets,100,4/5/2024,,4/18/2024,162.62,16262,USD,Air,Delivered,Chicago,0,20,3,0,Passed,0,4,Net 60,Paid,High,1,-1503
+ORD100136,Sunrise Traders,Steel Rods,167,4/5/2024,2024.03.20,4/18/2024,260.12,43070.6,EUR,Air,Delayed,New York,100,5,10,0,Passed,2,3,COD,Paid,High,0.86,-1210
+ORD100137,Global Supplies Inc.,Steel Rods,50,4/5/2024,25/02/2024,4/18/2024,250.22,43070.6,EUR,Sea,Delayed,New York,20,10,3,5,Passed,2,4,COD,Paid,Low,0.86,-1503
+ORD100138,Nova Supply Co.,Rubber Tires,100,1/15/2024,,4/18/2024,182.77,18277,USD,Road,Cancelled,Houston,20,10,7,2,Failed,1,2,Net 60,Pending,High,0.86,-1788
+ORD100139,Nova Supply Co.,Industrial Paint,200,2024.03.10,25/02/2024,4/18/2024,250.22,43070.6,USD,Air,Delayed,New York,100,5,5,0,Failed,2,3,COD,Paid,High,0.86,-1788
+ORD100140,Blue Ocean Ltd.,Packaging Boxes,200,2024.03.10,,1/24/2024,481.28,96256,USD,Road,Pending,Houston,20,20,10,5,Passed,0,3,COD,Pending,Medium,0.85,-1210
+ORD100141,Acme Corp.,Copper Wire,10,1/15/2024,,26/02/2024,250.22,43070.6,EUR,Road,In Transit,New York,36,5,7,0,Failed,1,3,COD,Unpaid,Medium,0.75,-1503
+ORD100142,Global Supplies Inc.,Rubber Tires,10,1/15/2024,2024.03.20,2024.03.22,250.22,43070.6,USD,Sea,Delayed,Chicago,20,5,3,1,Failed,1,3,Net 60,Pending,High,0.75,-1210
+ORD100143,Nova Supply Co.,Copper Wire,50,15/02/2024,1/25/2024,4/18/2024,151.49,7574.5,USD,Sea,Delivered,Chicago,50,10,5,2,Passed,1,3,Net 30,Unpaid,High,0.86,-1210
+ORD100144,Acme Corp.,Plastic Sheets,100,1/15/2024,,1/24/2024,143.49,14349,USD,Air,Delayed,Chicago,100,15,10,0,Passed,1,4,Net 30,Paid,High,0.85,-1503
+ORD100145,Nova Supply Co.,Electronic Components,10,2024.03.10,2024.03.20,2024.03.22,250.22,43070.6,EUR,Road,Delivered,Miami,10,10,10,5,Passed,1,3,Net 30,Paid,High,0.86,-1788
+ORD100146,Nova Supply Co.,Rubber Tires,500,1/15/2024,25/02/2024,1/24/2024,305.37,152685,EUR,Rail,Pending,Miami,0,10,5,0,Passed,2,2,Net 60,Unpaid,Medium,0.85,-1210
+ORD100147,Nova Supply Co.,Rubber Tires,10,1/15/2024,1/25/2024,1/24/2024,250.22,43070.6,EUR,Road,shipped,Chicago,0,15,3,0,Failed,1,2,COD,Unpaid,High,0.75,-1788
+ORD100148,Sunrise Traders,Packaging Boxes,10,1/15/2024,,26/02/2024,27.16,271.6,EUR,Rail,shipped,New York,10,10,10,0,Failed,0,5,Net 30,Paid,Medium,0.86,-1503
+ORD100149,Sunrise Traders,Rubber Tires,500,1/15/2024,2024.03.20,26/02/2024,250.22,43070.6,USD,Sea,Delivered,New York,36,10,7,1,Passed,0,2,COD,Pending,High,1,-1788
+ORD100150,Acme Corp.,Rubber Tires,500,1/15/2024,2024.03.20,1/24/2024,454.27,227135,USD,Road,Delivered,Miami,50,10,7,0,Passed,0,3,COD,Paid,High,0.75,-1788
+ORD100151,Sunrise Traders,Rubber Tires,100,2024.03.10,4/15/2024,26/02/2024,250.22,43070.6,EUR,Sea,Delivered,Miami,100,10,5,0,Passed,1,2,COD,Paid,High,1,-1788
+ORD100152,Sunrise Traders,Packaging Boxes,167,1/15/2024,25/02/2024,26/02/2024,250.22,43070.6,USD,Road,Delayed,Houston,100,20,3,2,Passed,2,4,COD,Paid,Low,0.75,-1503
+ORD100153,Acme Corp.,Rubber Tires,167,1/15/2024,4/15/2024,26/02/2024,245.49,43070.6,EUR,Rail,Pending,Houston,10,10,6,5,Passed,0,3,COD,Paid,Medium,0.75,-1503
+ORD100154,Blue Ocean Ltd.,Packaging Boxes,500,2024.03.10,25/02/2024,26/02/2024,250.22,43070.6,USD,Sea,Pending,Houston,100,5,5,2,Failed,0,2,COD,Pending,High,0.85,-1788
+ORD100155,Acme Corp.,Packaging Boxes,100,1/15/2024,,4/18/2024,122.16,12216,USD,Sea,Pending,Los Angeles,0,15,10,0,Passed,1,1,COD,Pending,High,1,-1503
+ORD100156,Global Supplies Inc.,Electronic Components,200,4/5/2024,1/25/2024,2024.03.22,250.22,43070.6,USD,Air,Shipped,Chicago,100,20,6,1,Failed,2,2,Net 60,Paid,Medium,0.75,-1210
+ORD100157,Nova Supply Co.,Industrial Paint,50,1/15/2024,,4/18/2024,381.17,19058.5,USD,Rail,In Transit,Miami,100,10,6,2,Failed,1,3,COD,Unpaid,Low,0.75,-1503
+ORD100158,Sunrise Traders,Plastic Sheets,200,1/15/2024,1/25/2024,1/24/2024,119.96,23992,USD,Road,In Transit,Miami,100,10,10,1,Passed,0,2,Net 30,Pending,High,0.86,-1210
+ORD100159,Global Supplies Inc.,Industrial Paint,200,2024.03.10,25/02/2024,26/02/2024,250.22,43070.6,USD,Sea,Pending,Los Angeles,10,10,6,1,Passed,1,2,Net 60,Unpaid,Low,0.86,-1210
+ORD100160,Acme Corp.,Packaging Boxes,500,2024.03.10,2024.03.20,2024.03.22,184.84,92420,USD,Road,Cancelled,New York,20,5,10,2,Failed,0,4,Net 60,Unpaid,Low,0.86,-1503
+ORD100161,Acme Corp.,Rubber Tires,200,1/15/2024,25/02/2024,1/24/2024,316.7,63340,USD,Rail,Delayed,New York,100,10,10,0,Failed,1,1,Net 60,Unpaid,Low,0.75,-1210
+ORD100162,Nova Supply Co.,Copper Wire,50,2024.03.10,,2024.03.22,250.22,43070.6,USD,Sea,In Transit,Los Angeles,10,20,3,2,Passed,0,1,Net 30,Unpaid,Medium,0.75,-1788
+ORD100163,Prime Logistics,Plastic Sheets,50,1/15/2024,25/02/2024,2024.03.22,268.58,13429,EUR,Rail,shipped,Houston,20,10,7,0,Failed,2,3,COD,Unpaid,Medium,0.85,-1788
+ORD100164,Acme Corp.,Industrial Paint,10,1/15/2024,25/02/2024,1/24/2024,250.22,43070.6,USD,Rail,shipped,Chicago,50,15,10,2,Passed,2,2,Net 60,Paid,Medium,0.75,-1503
+ORD100165,Nova Supply Co.,Industrial Paint,500,15/02/2024,1/25/2024,26/02/2024,250.22,43070.6,USD,Rail,Shipped,Chicago,50,20,7,2,Passed,0,2,COD,Pending,High,1,-1210
+ORD100166,Sunrise Traders,Rubber Tires,100,15/02/2024,,2024.03.22,250.22,43070.6,USD,Road,Delivered,Miami,100,10,10,2,Failed,1,1,Net 30,Pending,High,0.85,-1788
+ORD100167,Blue Ocean Ltd.,Industrial Paint,200,1/15/2024,,26/02/2024,94.48,18896,USD,Road,In Transit,Miami,0,15,3,2,Passed,1,2,COD,Unpaid,High,0.86,-1210
+ORD100168,Sunrise Traders,Electronic Components,167,1/15/2024,4/15/2024,4/18/2024,21.83,43070.6,USD,Air,Pending,Houston,100,5,7,0,Passed,1,3,COD,Paid,Medium,0.86,-1210
+ORD100169,Nova Supply Co.,Industrial Paint,50,15/02/2024,4/15/2024,1/24/2024,296.06,14803,EUR,Road,In Transit,New York,36,20,10,2,Failed,1,2,Net 30,Unpaid,Medium,0.85,-1210
+ORD100170,Sunrise Traders,Plastic Sheets,100,4/5/2024,2024.03.20,26/02/2024,250.22,43070.6,EUR,Road,shipped,Los Angeles,0,5,5,0,Passed,0,4,Net 30,Paid,Medium,0.86,-1788
+ORD100171,Blue Ocean Ltd.,Steel Rods,100,2024.03.10,,1/24/2024,250.22,43070.6,EUR,Road,Delivered,New York,50,15,6,2,Failed,0,5,COD,Paid,High,0.75,-1503
+ORD100172,Prime Logistics,Rubber Tires,100,1/15/2024,,2024.03.22,250.22,43070.6,USD,Air,Shipped,New York,100,15,7,5,Passed,1,3,Net 30,Pending,Medium,0.85,-1503
+ORD100173,Prime Logistics,Rubber Tires,200,1/15/2024,25/02/2024,1/24/2024,114.41,22882,USD,Road,Cancelled,Los Angeles,10,15,3,0,Passed,0,3,COD,Unpaid,High,0.75,-1503
+ORD100174,Global Supplies Inc.,Plastic Sheets,100,4/5/2024,25/02/2024,4/18/2024,323.12,32312,USD,Sea,In Transit,Los Angeles,20,15,3,0,Passed,1,1,Net 60,Unpaid,Medium,0.86,-1788
+ORD100175,Sunrise Traders,Rubber Tires,50,2024.03.10,25/02/2024,1/24/2024,250.22,43070.6,USD,Sea,Delivered,New York,0,20,6,5,Failed,1,4,Net 60,Unpaid,Medium,1,-1210
+ORD100176,Nova Supply Co.,Copper Wire,167,15/02/2024,4/15/2024,1/24/2024,250.22,43070.6,EUR,Rail,shipped,Miami,36,5,7,5,Failed,0,3,Net 60,Unpaid,High,1,-1210
+ORD100177,Nova Supply Co.,Packaging Boxes,100,1/15/2024,,2024.03.22,194.29,19429,USD,Sea,Delayed,Chicago,36,5,5,2,Passed,1,5,COD,Unpaid,Low,0.75,-1788
+ORD100178,Global Supplies Inc.,Steel Rods,100,15/02/2024,,26/02/2024,468.46,46846,USD,Sea,Cancelled,Houston,20,10,6,2,Failed,2,3,COD,Unpaid,Medium,0.85,-1503
+ORD100179,Global Supplies Inc.,Copper Wire,500,4/5/2024,1/25/2024,2024.03.22,250.22,43070.6,USD,Rail,Cancelled,Chicago,10,5,10,5,Passed,2,5,Net 60,Unpaid,Medium,1,-1503
+ORD100180,Prime Logistics,Electronic Components,100,15/02/2024,4/15/2024,1/24/2024,250.22,43070.6,USD,Sea,Delayed,New York,20,10,10,0,Passed,1,5,Net 30,Pending,Low,1,-1788
+ORD100181,Prime Logistics,Packaging Boxes,50,1/15/2024,4/15/2024,26/02/2024,58.07,2903.5,USD,Air,Delivered,Los Angeles,50,10,6,2,Passed,1,5,Net 30,Unpaid,Low,0.85,-1503
+ORD100182,Nova Supply Co.,Steel Rods,100,1/15/2024,,26/02/2024,462.46,46246,USD,Sea,In Transit,New York,20,5,5,0,Passed,1,5,COD,Pending,Medium,1,-1503
+ORD100183,Sunrise Traders,Rubber Tires,500,2024.03.10,2024.03.20,2024.03.22,250.22,43070.6,USD,Air,shipped,New York,100,5,6,2,Failed,1,5,COD,Paid,Medium,0.75,-1503
+ORD100184,Nova Supply Co.,Industrial Paint,100,15/02/2024,2024.03.20,2024.03.22,130.08,13008,EUR,Road,Cancelled,New York,10,10,7,1,Failed,2,5,Net 30,Paid,Medium,0.75,-1210
+ORD100185,Acme Corp.,Rubber Tires,10,1/15/2024,25/02/2024,1/24/2024,330.5,3305,USD,Road,In Transit,New York,10,10,5,1,Passed,1,1,COD,Unpaid,Medium,0.75,-1503
+ORD100186,Blue Ocean Ltd.,Electronic Components,100,1/15/2024,,2024.03.22,250.22,43070.6,USD,Rail,Shipped,Houston,36,5,6,2,Passed,0,3,Net 30,Pending,Medium,0.86,-1788
+ORD100187,Nova Supply Co.,Electronic Components,200,1/15/2024,2024.03.20,1/24/2024,278.27,55654,EUR,Air,Delayed,Chicago,0,10,7,1,Failed,2,3,COD,Pending,Medium,0.85,-1788
+ORD100188,Prime Logistics,Packaging Boxes,100,4/5/2024,1/25/2024,26/02/2024,265.53,26553,EUR,Air,Cancelled,Miami,20,10,10,5,Passed,1,5,Net 30,Pending,High,0.86,-1210
+ORD100189,Nova Supply Co.,Rubber Tires,200,1/15/2024,2024.03.20,4/18/2024,250.22,43070.6,USD,Air,In Transit,Miami,0,5,5,2,Failed,0,2,Net 60,Pending,Medium,0.86,-1503
+ORD100190,Nova Supply Co.,Electronic Components,50,15/02/2024,1/25/2024,26/02/2024,250.22,43070.6,USD,Sea,In Transit,Miami,20,20,7,5,Passed,1,2,Net 60,Pending,High,1,-1788
+ORD100191,Blue Ocean Ltd.,Electronic Components,200,15/02/2024,,1/24/2024,448.76,89752,EUR,Rail,In Transit,Houston,100,20,7,5,Passed,1,5,COD,Pending,Low,0.86,-1788
+ORD100192,Global Supplies Inc.,Plastic Sheets,167,1/15/2024,,1/24/2024,450.36,43070.6,USD,Rail,Delayed,Chicago,20,10,10,1,Passed,1,3,Net 30,Pending,Low,0.85,-1788
+ORD100193,Sunrise Traders,Rubber Tires,167,1/15/2024,,4/18/2024,250.22,43070.6,USD,Sea,Shipped,Houston,50,15,3,2,Failed,0,5,COD,Paid,High,0.85,-1788
+ORD100194,Nova Supply Co.,Industrial Paint,10,4/5/2024,,1/24/2024,170.51,1705.1,EUR,Rail,In Transit,Miami,36,20,6,5,Failed,2,4,Net 30,Pending,High,0.75,-1503
+ORD100195,Nova Supply Co.,Steel Rods,500,1/15/2024,4/15/2024,4/18/2024,250.22,43070.6,USD,Road,shipped,New York,36,15,7,5,Failed,1,1,Net 60,Unpaid,High,0.86,-1503
+ORD100196,Acme Corp.,Industrial Paint,500,2024.03.10,2024.03.20,2024.03.22,250.22,43070.6,USD,Rail,Delayed,New York,36,15,6,0,Passed,2,2,COD,Paid,Medium,0.85,-1788
+ORD100197,Nova Supply Co.,Steel Rods,100,4/5/2024,25/02/2024,26/02/2024,250.22,43070.6,EUR,Rail,Delivered,Los Angeles,50,15,6,5,Passed,1,3,Net 60,Unpaid,High,0.75,-1788
+ORD100198,Global Supplies Inc.,Copper Wire,200,15/02/2024,,1/24/2024,443.71,88742,USD,Sea,shipped,New York,0,15,3,1,Passed,0,4,COD,Paid,Medium,0.85,-1210
+ORD100199,Sunrise Traders,Copper Wire,167,2024.03.10,4/15/2024,1/24/2024,250.22,43070.6,USD,Sea,shipped,Los Angeles,0,15,7,5,Passed,1,2,COD,Paid,Medium,0.75,-1788
+ORD100200,Global Supplies Inc.,Packaging Boxes,50,1/15/2024,4/15/2024,1/24/2024,321.55,16077.5,USD,Air,In Transit,Miami,36,10,6,5,Passed,2,3,COD,Paid,Low,0.85,-1210
+ORD100201,Nova Supply Co.,Industrial Paint,50,1/15/2024,2024.03.20,2024.03.22,43.44,2172,USD,Sea,shipped,New York,20,20,3,0,Passed,2,5,COD,Unpaid,High,0.86,-1210
+ORD100202,Sunrise Traders,Steel Rods,100,4/5/2024,,1/24/2024,82.07,8207,USD,Sea,Pending,Chicago,100,20,6,2,Passed,1,5,Net 60,Paid,High,1,-1503
+ORD100203,Nova Supply Co.,Electronic Components,100,1/15/2024,4/15/2024,1/24/2024,449.43,44943,EUR,Rail,In Transit,Chicago,10,10,6,2,Passed,1,4,COD,Pending,Medium,0.75,-1788
+ORD100204,Prime Logistics,Copper Wire,500,1/15/2024,,2024.03.22,250.22,43070.6,EUR,Road,Delivered,Chicago,10,10,10,5,Passed,2,5,COD,Unpaid,High,0.85,-1503
+ORD100205,Nova Supply Co.,Packaging Boxes,167,1/15/2024,4/15/2024,1/24/2024,250.22,43070.6,EUR,Road,Delayed,New York,100,15,10,5,Passed,1,2,Net 30,Paid,High,0.86,-1503
+ORD100206,Nova Supply Co.,Plastic Sheets,500,1/15/2024,25/02/2024,2024.03.22,250.22,43070.6,USD,Sea,Pending,Chicago,100,10,10,2,Passed,1,5,Net 60,Paid,High,0.75,-1788
+ORD100207,Prime Logistics,Industrial Paint,200,15/02/2024,4/15/2024,2024.03.22,332.26,66452,USD,Road,In Transit,New York,100,10,10,1,Passed,2,4,COD,Pending,Medium,0.86,-1503
+ORD100208,Nova Supply Co.,Electronic Components,50,2024.03.10,4/15/2024,4/18/2024,4.02,201,EUR,Rail,In Transit,Houston,50,10,5,5,Passed,1,1,Net 60,Paid,High,0.75,-1788
+ORD100209,Sunrise Traders,Industrial Paint,100,15/02/2024,4/15/2024,1/24/2024,81.66,8166,USD,Road,Shipped,New York,100,20,7,2,Passed,1,2,Net 30,Paid,Medium,1,-1788
+ORD100210,Global Supplies Inc.,Electronic Components,50,4/5/2024,25/02/2024,2024.03.22,275.04,13752,USD,Road,Delivered,New York,0,10,10,5,Passed,2,1,Net 30,Unpaid,High,0.75,-1210
+ORD100211,Acme Corp.,Plastic Sheets,200,1/15/2024,4/15/2024,26/02/2024,346.41,69282,USD,Road,shipped,New York,10,5,3,5,Failed,1,2,Net 30,Pending,High,0.86,-1788
+ORD100212,Global Supplies Inc.,Electronic Components,500,4/5/2024,25/02/2024,4/18/2024,326.5,163250,USD,Sea,Pending,Chicago,36,10,10,2,Passed,0,4,COD,Pending,High,0.86,-1788
+ORD100213,Sunrise Traders,Copper Wire,100,2024.03.10,2024.03.20,26/02/2024,113.3,11330,EUR,Rail,Shipped,Houston,10,15,5,2,Passed,0,3,Net 60,Unpaid,High,0.75,-1788
+ORD100214,Global Supplies Inc.,Electronic Components,200,4/5/2024,1/25/2024,26/02/2024,356.52,71304,EUR,Sea,Shipped,Chicago,100,10,6,1,Failed,1,3,COD,Unpaid,Low,0.86,-1503
+ORD100215,Blue Ocean Ltd.,Rubber Tires,500,15/02/2024,2024.03.20,1/24/2024,119.77,59885,USD,Sea,Shipped,Los Angeles,36,10,5,1,Failed,0,2,Net 60,Paid,Low,0.85,-1503
+ORD100216,Sunrise Traders,Industrial Paint,10,1/15/2024,25/02/2024,4/18/2024,250.22,43070.6,USD,Air,Pending,Houston,50,15,7,5,Failed,1,1,Net 60,Paid,Low,0.86,-1210
+ORD100217,Acme Corp.,Industrial Paint,100,4/5/2024,4/15/2024,4/18/2024,373.63,37363,USD,Air,Cancelled,Houston,36,20,7,2,Passed,1,5,Net 30,Pending,High,0.75,-1788
+ORD100218,Nova Supply Co.,Packaging Boxes,200,4/5/2024,4/15/2024,4/18/2024,250.22,43070.6,USD,Road,shipped,New York,36,20,6,2,Failed,1,5,COD,Unpaid,Medium,1,-1503
+ORD100219,Nova Supply Co.,Industrial Paint,10,1/15/2024,2024.03.20,2024.03.22,250.22,43070.6,USD,Air,Delayed,Chicago,20,10,5,2,Passed,1,1,Net 30,Paid,Medium,1,-1210
+ORD100220,Acme Corp.,Electronic Components,500,4/5/2024,4/15/2024,1/24/2024,250.22,43070.6,USD,Sea,shipped,New York,50,20,7,5,Passed,1,2,Net 30,Paid,Low,0.85,-1210
+ORD100221,Sunrise Traders,Industrial Paint,100,4/5/2024,2024.03.20,4/18/2024,250.22,43070.6,USD,Road,shipped,Houston,0,5,10,1,Failed,0,3,Net 60,Paid,Medium,0.75,-1503
+ORD100222,Nova Supply Co.,Copper Wire,500,1/15/2024,,4/18/2024,48.2,24100,USD,Sea,Delayed,Houston,10,10,10,2,Failed,1,3,COD,Unpaid,Low,0.75,-1788
+ORD100223,Global Supplies Inc.,Plastic Sheets,100,15/02/2024,25/02/2024,1/24/2024,250.22,43070.6,USD,Road,In Transit,Chicago,100,15,6,2,Passed,0,4,Net 60,Pending,High,1,-1503
+ORD100224,Blue Ocean Ltd.,Rubber Tires,200,4/5/2024,4/15/2024,4/18/2024,133.7,26740,EUR,Sea,Shipped,Miami,36,5,7,2,Failed,0,1,COD,Paid,Medium,0.86,-1788
+ORD100225,Acme Corp.,Steel Rods,50,4/5/2024,,2024.03.22,250.22,43070.6,USD,Road,Shipped,Miami,10,10,10,0,Passed,2,5,Net 30,Unpaid,Medium,0.75,-1788
+ORD100226,Blue Ocean Ltd.,Electronic Components,100,1/15/2024,25/02/2024,2024.03.22,486.55,48655,USD,Sea,shipped,New York,36,15,6,2,Passed,1,3,Net 60,Paid,High,0.86,-1503
+ORD100227,Nova Supply Co.,Rubber Tires,200,1/15/2024,4/15/2024,26/02/2024,197.46,39492,USD,Road,In Transit,New York,0,15,10,2,Failed,1,1,Net 60,Pending,High,0.75,-1788
+ORD100228,Acme Corp.,Packaging Boxes,167,15/02/2024,4/15/2024,1/24/2024,250.22,43070.6,USD,Air,Delayed,Los Angeles,10,10,3,0,Passed,1,3,Net 60,Paid,High,1,-1503
+ORD100229,Prime Logistics,Copper Wire,10,1/15/2024,,26/02/2024,316.12,3161.2,USD,Sea,Delayed,Miami,0,5,10,1,Passed,1,1,Net 30,Paid,Low,1,-1210
+ORD100230,Prime Logistics,Rubber Tires,10,4/5/2024,2024.03.20,2024.03.22,250.22,43070.6,EUR,Sea,Delivered,New York,100,5,6,5,Failed,0,3,Net 60,Paid,High,0.85,-1788
+ORD100231,Acme Corp.,Copper Wire,500,15/02/2024,,26/02/2024,250.22,43070.6,USD,Air,Pending,New York,10,10,5,0,Passed,2,1,COD,Paid,High,0.85,-1503
+ORD100232,Nova Supply Co.,Plastic Sheets,200,4/5/2024,2024.03.20,2024.03.22,289.09,57818,USD,Sea,Cancelled,Houston,20,20,5,5,Failed,1,3,Net 30,Unpaid,High,0.75,-1503
+ORD100233,Sunrise Traders,Packaging Boxes,10,2024.03.10,4/15/2024,4/18/2024,250.22,43070.6,USD,Sea,shipped,Los Angeles,10,10,6,5,Passed,2,4,Net 60,Unpaid,High,0.75,-1503
+ORD100234,Acme Corp.,Industrial Paint,50,15/02/2024,4/15/2024,1/24/2024,98.83,4941.5,EUR,Sea,Delivered,Miami,100,20,6,2,Failed,0,4,Net 30,Paid,Medium,0.86,-1788
+ORD100235,Nova Supply Co.,Steel Rods,10,15/02/2024,,1/24/2024,250.22,43070.6,EUR,Road,shipped,Los Angeles,0,10,6,1,Passed,1,1,COD,Paid,Medium,0.85,-1788
+ORD100236,Blue Ocean Ltd.,Steel Rods,50,1/15/2024,2024.03.20,26/02/2024,250.22,43070.6,EUR,Rail,Pending,New York,50,5,10,5,Failed,2,3,COD,Paid,High,0.86,-1503
+ORD100237,Nova Supply Co.,Rubber Tires,500,1/15/2024,4/15/2024,2024.03.22,250.22,43070.6,USD,Sea,Delayed,Chicago,50,10,7,0,Failed,1,1,Net 60,Paid,Medium,1,-1210
+ORD100238,Global Supplies Inc.,Plastic Sheets,100,1/15/2024,1/25/2024,4/18/2024,323.27,32327,USD,Sea,Shipped,Chicago,0,20,10,0,Passed,1,3,COD,Paid,High,0.75,-1210
+ORD100239,Acme Corp.,Electronic Components,10,15/02/2024,,26/02/2024,89.79,897.9,EUR,Sea,Cancelled,Los Angeles,100,15,10,2,Passed,0,5,COD,Paid,Medium,0.85,-1210
+ORD100240,Acme Corp.,Rubber Tires,10,1/15/2024,1/25/2024,4/18/2024,250.22,43070.6,EUR,Road,Delivered,New York,0,5,10,2,Passed,1,5,Net 60,Unpaid,Medium,1,-1788
+ORD100241,Global Supplies Inc.,Packaging Boxes,200,2024.03.10,1/25/2024,1/24/2024,477.03,95406,EUR,Rail,Pending,Los Angeles,36,10,10,2,Failed,2,4,COD,Pending,Medium,0.75,-1788
+ORD100242,Prime Logistics,Industrial Paint,167,4/5/2024,1/25/2024,1/24/2024,457.56,43070.6,USD,Sea,Delayed,Los Angeles,10,20,7,2,Passed,1,3,Net 60,Pending,Medium,1,-1788
+ORD100243,Acme Corp.,Packaging Boxes,10,4/5/2024,2024.03.20,4/18/2024,250.22,43070.6,USD,Sea,In Transit,New York,0,20,3,1,Passed,0,3,COD,Pending,High,0.86,-1788
+ORD100244,Global Supplies Inc.,Industrial Paint,100,1/15/2024,25/02/2024,26/02/2024,9.21,921,EUR,Rail,Pending,Los Angeles,100,15,5,2,Passed,0,4,COD,Pending,High,0.75,-1788
+ORD100245,Sunrise Traders,Rubber Tires,200,4/5/2024,25/02/2024,2024.03.22,250.22,43070.6,EUR,Road,Delayed,New York,36,20,5,2,Failed,0,4,Net 30,Pending,High,0.86,-1210
+ORD100246,Global Supplies Inc.,Rubber Tires,167,1/15/2024,2024.03.20,26/02/2024,214.95,43070.6,USD,Air,In Transit,Houston,50,5,6,2,Passed,1,3,COD,Paid,High,0.86,-1503
+ORD100247,Nova Supply Co.,Electronic Components,50,4/5/2024,4/15/2024,26/02/2024,483.38,24169,USD,Road,Cancelled,New York,0,10,6,0,Passed,1,1,COD,Unpaid,Low,0.85,-1788
+ORD100248,Acme Corp.,Copper Wire,50,2024.03.10,4/15/2024,1/24/2024,250.22,43070.6,USD,Road,shipped,Chicago,100,20,6,2,Failed,1,3,COD,Pending,High,1,-1788
+ORD100249,Acme Corp.,Packaging Boxes,167,1/15/2024,1/25/2024,2024.03.22,426.73,43070.6,EUR,Sea,Cancelled,Chicago,100,20,6,0,Passed,1,3,COD,Paid,High,0.75,-1788
+ORD100250,Global Supplies Inc.,Copper Wire,167,2024.03.10,2024.03.20,4/18/2024,250.22,43070.6,USD,Sea,Delayed,Miami,100,10,3,0,Passed,0,3,COD,Unpaid,Medium,0.86,-1788
+ORD100251,Nova Supply Co.,Plastic Sheets,50,4/5/2024,25/02/2024,26/02/2024,250.22,43070.6,EUR,Rail,In Transit,Houston,36,15,5,2,Failed,1,5,Net 30,Paid,High,0.86,-1788
+ORD100252,Prime Logistics,Electronic Components,10,1/15/2024,1/25/2024,26/02/2024,425.79,4257.9,USD,Sea,Shipped,New York,0,20,3,0,Failed,0,5,COD,Unpaid,Low,0.85,-1788
+ORD100253,Sunrise Traders,Electronic Components,167,15/02/2024,1/25/2024,4/18/2024,250.22,43070.6,USD,Rail,Cancelled,Chicago,0,15,6,5,Passed,1,2,COD,Pending,Low,0.75,-1788
+ORD100254,Prime Logistics,Electronic Components,200,15/02/2024,,1/24/2024,250.22,43070.6,USD,Rail,In Transit,New York,100,15,7,2,Passed,0,1,Net 30,Pending,High,0.86,-1503
+ORD100255,Blue Ocean Ltd.,Plastic Sheets,500,15/02/2024,4/15/2024,4/18/2024,279.07,139535,USD,Road,shipped,Chicago,36,10,5,0,Passed,1,5,COD,Paid,Medium,0.75,-1210
+ORD100256,Nova Supply Co.,Plastic Sheets,167,2024.03.10,1/25/2024,4/18/2024,468.17,43070.6,EUR,Sea,Cancelled,Houston,50,5,5,1,Failed,2,3,Net 60,Paid,Low,0.86,-1788
+ORD100257,Nova Supply Co.,Packaging Boxes,100,1/15/2024,4/15/2024,1/24/2024,348.47,34847,USD,Air,Pending,Houston,0,10,10,2,Failed,1,4,Net 30,Paid,High,0.75,-1210
+ORD100258,Nova Supply Co.,Steel Rods,10,2024.03.10,2024.03.20,26/02/2024,285.68,2856.8,USD,Sea,Delivered,New York,50,15,3,1,Failed,0,1,COD,Paid,Medium,1,-1788
+ORD100259,Acme Corp.,Copper Wire,10,2024.03.10,,1/24/2024,49.94,499.4,EUR,Sea,Shipped,New York,50,10,7,5,Failed,1,4,COD,Paid,High,0.75,-1788
+ORD100260,Nova Supply Co.,Electronic Components,10,1/15/2024,1/25/2024,4/18/2024,250.22,43070.6,USD,Road,Shipped,New York,0,10,6,5,Passed,1,3,COD,Paid,Medium,0.75,-1503
+ORD100261,Nova Supply Co.,Rubber Tires,100,1/15/2024,4/15/2024,1/24/2024,250.22,43070.6,USD,Road,Cancelled,Houston,20,10,3,5,Passed,0,2,Net 60,Unpaid,Low,0.75,-1503
+ORD100262,Nova Supply Co.,Plastic Sheets,200,2024.03.10,,26/02/2024,250.22,43070.6,USD,Air,Cancelled,Miami,0,10,10,5,Failed,0,1,Net 60,Paid,Medium,1,-1788
+ORD100263,Acme Corp.,Industrial Paint,200,4/5/2024,1/25/2024,1/24/2024,250.22,43070.6,USD,Sea,Shipped,Houston,10,10,6,0,Passed,2,5,COD,Paid,Low,0.75,-1788
+ORD100264,Sunrise Traders,Rubber Tires,100,15/02/2024,25/02/2024,2024.03.22,438.87,43887,EUR,Road,Delayed,Miami,50,10,5,2,Passed,2,1,COD,Pending,Low,0.75,-1210
+ORD100265,Blue Ocean Ltd.,Steel Rods,50,2024.03.10,4/15/2024,4/18/2024,370.77,18538.5,USD,Road,Delivered,Los Angeles,100,10,3,2,Passed,1,2,Net 30,Paid,High,0.85,-1788
+ORD100266,Sunrise Traders,Industrial Paint,167,1/15/2024,,1/24/2024,250.22,43070.6,EUR,Road,Delayed,New York,36,15,7,2,Passed,1,4,COD,Paid,Low,0.85,-1503
+ORD100267,Sunrise Traders,Rubber Tires,200,4/5/2024,1/25/2024,1/24/2024,351.69,70338,USD,Road,Delivered,Houston,50,5,10,0,Passed,2,5,COD,Paid,Medium,0.75,-1210
+ORD100268,Nova Supply Co.,Copper Wire,10,2024.03.10,25/02/2024,1/24/2024,180.71,1807.1,USD,Air,Delivered,New York,20,20,3,2,Passed,0,5,COD,Unpaid,Low,0.86,-1210
+ORD100269,Nova Supply Co.,Steel Rods,167,15/02/2024,25/02/2024,26/02/2024,147.86,43070.6,USD,Road,shipped,Houston,0,10,7,0,Passed,1,4,Net 30,Paid,High,0.85,-1788
+ORD100270,Blue Ocean Ltd.,Steel Rods,200,1/15/2024,1/25/2024,4/18/2024,250.22,43070.6,USD,Sea,Shipped,Los Angeles,100,15,3,0,Passed,0,2,Net 60,Paid,High,0.75,-1788
+ORD100271,Blue Ocean Ltd.,Steel Rods,200,1/15/2024,2024.03.20,1/24/2024,250.22,43070.6,USD,Road,Pending,Los Angeles,0,5,3,5,Failed,2,4,COD,Pending,High,0.85,-1503
+ORD100272,Blue Ocean Ltd.,Rubber Tires,10,15/02/2024,4/15/2024,1/24/2024,433.74,4337.4,USD,Road,In Transit,New York,10,5,7,2,Passed,0,3,COD,Paid,High,0.86,-1210
+ORD100273,Blue Ocean Ltd.,Rubber Tires,167,15/02/2024,4/15/2024,1/24/2024,456.75,43070.6,USD,Sea,Pending,Los Angeles,36,15,7,1,Failed,1,1,Net 60,Unpaid,High,0.75,-1788
+ORD100274,Blue Ocean Ltd.,Industrial Paint,500,4/5/2024,25/02/2024,26/02/2024,250.22,43070.6,USD,Sea,Cancelled,Chicago,10,5,3,0,Passed,1,2,COD,Unpaid,High,1,-1788
+ORD100275,Prime Logistics,Steel Rods,500,4/5/2024,1/25/2024,2024.03.22,250.22,43070.6,USD,Sea,shipped,Chicago,0,15,7,5,Passed,2,1,Net 30,Unpaid,Low,0.86,-1503
+ORD100276,Nova Supply Co.,Packaging Boxes,500,4/5/2024,4/15/2024,26/02/2024,250.22,43070.6,USD,Sea,In Transit,Chicago,10,5,5,2,Passed,1,5,COD,Pending,High,0.86,-1210
+ORD100277,Blue Ocean Ltd.,Copper Wire,50,15/02/2024,2024.03.20,1/24/2024,325.51,16275.5,USD,Sea,Delayed,Los Angeles,100,20,5,5,Passed,1,3,Net 30,Unpaid,Medium,0.75,-1210
+ORD100278,Global Supplies Inc.,Industrial Paint,50,2024.03.10,4/15/2024,1/24/2024,351.43,17571.5,USD,Sea,Pending,New York,10,10,10,0,Passed,2,3,Net 30,Pending,High,0.75,-1503
+ORD100279,Global Supplies Inc.,Plastic Sheets,200,1/15/2024,25/02/2024,1/24/2024,250.22,43070.6,USD,Rail,Cancelled,New York,20,10,10,2,Passed,0,3,Net 30,Paid,High,0.85,-1788
+ORD100280,Nova Supply Co.,Copper Wire,50,4/5/2024,4/15/2024,26/02/2024,445.17,22258.5,USD,Air,Delayed,Miami,36,10,6,5,Failed,1,3,COD,Paid,High,1,-1210
+ORD100281,Sunrise Traders,Steel Rods,100,2024.03.10,25/02/2024,26/02/2024,169.99,16999,USD,Air,shipped,New York,36,15,10,2,Passed,1,2,Net 60,Pending,High,0.85,-1788
+ORD100282,Nova Supply Co.,Plastic Sheets,167,15/02/2024,4/15/2024,2024.03.22,250.22,43070.6,USD,Road,Cancelled,Los Angeles,100,10,6,2,Passed,0,4,COD,Pending,Medium,0.85,-1503
+ORD100283,Blue Ocean Ltd.,Rubber Tires,200,2024.03.10,,4/18/2024,250.22,43070.6,USD,Road,Cancelled,Houston,10,20,7,2,Passed,2,3,Net 30,Unpaid,High,0.86,-1788
+ORD100284,Prime Logistics,Steel Rods,100,15/02/2024,4/15/2024,4/18/2024,289.77,28977,USD,Air,Delayed,New York,36,20,10,1,Failed,1,4,Net 30,Paid,High,0.85,-1788
+ORD100285,Nova Supply Co.,Plastic Sheets,10,4/5/2024,2024.03.20,1/24/2024,250.22,43070.6,EUR,Sea,Shipped,Chicago,0,10,10,5,Failed,1,1,Net 30,Paid,High,1,-1210
+ORD100286,Prime Logistics,Copper Wire,167,15/02/2024,,2024.03.22,250.22,43070.6,EUR,Rail,Pending,New York,10,20,3,0,Failed,1,1,Net 30,Pending,Low,0.86,-1210
+ORD100287,Blue Ocean Ltd.,Steel Rods,100,1/15/2024,1/25/2024,26/02/2024,272.01,27201,USD,Road,Shipped,Chicago,0,15,6,0,Failed,1,4,Net 60,Unpaid,High,1,-1788
+ORD100288,Global Supplies Inc.,Rubber Tires,200,4/5/2024,1/25/2024,26/02/2024,250.22,43070.6,USD,Sea,Cancelled,Los Angeles,100,10,7,2,Failed,0,1,COD,Paid,High,0.75,-1210
+ORD100289,Nova Supply Co.,Steel Rods,100,15/02/2024,1/25/2024,2024.03.22,250.22,43070.6,USD,Sea,In Transit,Houston,20,15,10,1,Passed,2,3,Net 30,Paid,Medium,0.86,-1503
+ORD100290,Sunrise Traders,Packaging Boxes,500,4/5/2024,,26/02/2024,16.7,8350,USD,Sea,Cancelled,Houston,100,10,5,2,Passed,1,1,Net 30,Paid,High,1,-1788
+ORD100291,Prime Logistics,Plastic Sheets,100,1/15/2024,2024.03.20,1/24/2024,20.12,2012,EUR,Sea,Cancelled,Los Angeles,20,10,5,5,Passed,1,2,Net 30,Paid,High,0.85,-1503
+ORD100292,Prime Logistics,Steel Rods,500,15/02/2024,2024.03.20,1/24/2024,411.57,205785,EUR,Sea,Cancelled,Houston,36,15,10,2,Passed,0,5,COD,Pending,Low,0.85,-1503
+ORD100293,Sunrise Traders,Electronic Components,200,1/15/2024,2024.03.20,2024.03.22,181.06,36212,USD,Road,Cancelled,New York,20,10,6,2,Failed,1,3,COD,Paid,High,0.86,-1210
+ORD100294,Blue Ocean Ltd.,Industrial Paint,50,4/5/2024,,26/02/2024,64.84,3242,USD,Rail,Delivered,Chicago,50,15,3,0,Passed,2,4,COD,Pending,High,0.85,-1788
+ORD100295,Prime Logistics,Copper Wire,10,1/15/2024,25/02/2024,1/24/2024,250.22,43070.6,EUR,Rail,Delayed,New York,10,10,3,2,Failed,0,5,COD,Paid,Low,0.75,-1503
+ORD100296,Sunrise Traders,Copper Wire,50,15/02/2024,2024.03.20,1/24/2024,385.34,19267,USD,Road,Delivered,New York,50,15,3,2,Passed,1,4,Net 30,Paid,Low,1,-1503
+ORD100297,Acme Corp.,Plastic Sheets,200,4/5/2024,25/02/2024,1/24/2024,250.22,43070.6,EUR,Air,shipped,Miami,10,15,10,5,Failed,0,1,Net 60,Paid,High,0.86,-1210
+ORD100298,Blue Ocean Ltd.,Steel Rods,200,15/02/2024,,1/24/2024,312.01,62402,USD,Rail,Delayed,Miami,36,10,3,0,Passed,0,2,Net 60,Paid,Medium,0.86,-1788
+ORD100299,Prime Logistics,Industrial Paint,167,1/15/2024,1/25/2024,1/24/2024,250.22,43070.6,USD,Road,Cancelled,New York,10,10,5,2,Passed,1,4,COD,Paid,Low,1,-1788
+ORD100300,Acme Corp.,Steel Rods,50,2024.03.10,4/15/2024,26/02/2024,250.22,43070.6,USD,Air,Delivered,Chicago,0,10,3,0,Passed,1,5,Net 60,Pending,Medium,0.85,-1788
+ORD100301,Global Supplies Inc.,Copper Wire,200,1/15/2024,25/02/2024,26/02/2024,266.38,53276,USD,Sea,Pending,Chicago,20,10,3,2,Passed,1,4,Net 60,Pending,Low,0.86,-1788
+ORD100302,Global Supplies Inc.,Copper Wire,200,1/15/2024,2024.03.20,2024.03.22,271.01,54202,USD,Rail,Delivered,Los Angeles,50,15,3,5,Failed,1,5,COD,Pending,High,1,-1503
+ORD100303,Nova Supply Co.,Plastic Sheets,10,1/15/2024,1/25/2024,26/02/2024,319.26,3192.6,USD,Air,Delayed,New York,100,15,10,0,Passed,1,2,COD,Pending,Medium,0.75,-1210
+ORD100304,Nova Supply Co.,Rubber Tires,167,4/5/2024,1/25/2024,4/18/2024,250.22,43070.6,USD,Rail,Delayed,Houston,10,20,5,5,Passed,0,2,COD,Paid,High,0.75,-1788
+ORD100305,Blue Ocean Ltd.,Rubber Tires,500,2024.03.10,2024.03.20,26/02/2024,487.96,243980,USD,Road,Delivered,New York,10,5,10,1,Passed,2,4,Net 30,Paid,Medium,0.75,-1210
+ORD100306,Sunrise Traders,Industrial Paint,167,1/15/2024,25/02/2024,1/24/2024,258.88,43070.6,USD,Road,In Transit,Houston,20,10,3,2,Passed,0,4,Net 60,Pending,High,0.75,-1788
+ORD100307,Global Supplies Inc.,Industrial Paint,10,2024.03.10,,2024.03.22,162.49,1624.9,USD,Air,Delivered,Houston,0,10,7,2,Passed,0,1,Net 30,Unpaid,High,0.75,-1210
+ORD100308,Acme Corp.,Plastic Sheets,50,2024.03.10,2024.03.20,2024.03.22,397.9,19895,USD,Road,Delivered,New York,0,10,10,5,Passed,1,3,Net 60,Paid,High,1,-1210
+ORD100309,Blue Ocean Ltd.,Electronic Components,10,15/02/2024,,1/24/2024,250.22,43070.6,EUR,Air,shipped,New York,20,15,6,5,Failed,0,1,Net 30,Unpaid,Medium,0.85,-1210
+ORD100310,Sunrise Traders,Electronic Components,500,2024.03.10,1/25/2024,4/18/2024,220.33,110165,USD,Sea,In Transit,Miami,100,15,5,5,Passed,1,5,COD,Unpaid,Low,0.85,-1788
+ORD100311,Prime Logistics,Plastic Sheets,10,2024.03.10,4/15/2024,26/02/2024,40.61,406.1,USD,Sea,In Transit,New York,50,15,5,2,Passed,2,3,Net 60,Unpaid,High,0.75,-1503
+ORD100312,Nova Supply Co.,Packaging Boxes,200,4/5/2024,4/15/2024,2024.03.22,14.14,2828,USD,Rail,Pending,New York,20,5,10,5,Failed,1,3,COD,Pending,Medium,0.86,-1788
+ORD100313,Nova Supply Co.,Plastic Sheets,10,4/5/2024,1/25/2024,1/24/2024,250.22,43070.6,USD,Road,In Transit,New York,20,15,10,2,Passed,0,4,Net 30,Paid,Medium,0.85,-1503
+ORD100314,Global Supplies Inc.,Packaging Boxes,167,2024.03.10,2024.03.20,1/24/2024,250.22,43070.6,EUR,Sea,Delayed,Miami,50,15,7,5,Failed,1,2,Net 30,Pending,High,1,-1210
+ORD100315,Nova Supply Co.,Industrial Paint,200,2024.03.10,1/25/2024,1/24/2024,250.22,43070.6,USD,Road,Delivered,New York,10,15,3,2,Passed,0,5,Net 60,Pending,High,0.85,-1503
+ORD100316,Blue Ocean Ltd.,Packaging Boxes,10,1/15/2024,2024.03.20,1/24/2024,250.22,43070.6,USD,Sea,shipped,New York,20,10,6,2,Passed,1,1,COD,Unpaid,High,0.86,-1503
+ORD100317,Global Supplies Inc.,Copper Wire,167,15/02/2024,4/15/2024,1/24/2024,87.89,43070.6,USD,Sea,Cancelled,Los Angeles,100,10,6,1,Passed,1,3,COD,Paid,High,0.86,-1503
+ORD100318,Nova Supply Co.,Copper Wire,50,4/5/2024,2024.03.20,4/18/2024,250.22,43070.6,USD,Rail,Shipped,Chicago,0,10,5,5,Failed,1,4,Net 60,Paid,High,0.86,-1788
+ORD100319,Global Supplies Inc.,Packaging Boxes,10,1/15/2024,2024.03.20,26/02/2024,126.25,1262.5,EUR,Sea,Delivered,Chicago,50,10,7,1,Passed,2,3,COD,Paid,Medium,0.85,-1788
+ORD100320,Sunrise Traders,Industrial Paint,100,2024.03.10,1/25/2024,1/24/2024,250.22,43070.6,EUR,Sea,Cancelled,New York,36,10,6,0,Failed,1,5,Net 30,Paid,High,0.86,-1503
+ORD100321,Nova Supply Co.,Industrial Paint,100,15/02/2024,4/15/2024,1/24/2024,357.73,35773,USD,Road,Cancelled,Houston,36,5,7,5,Passed,1,3,COD,Pending,High,0.75,-1210
+ORD100322,Prime Logistics,Electronic Components,50,1/15/2024,2024.03.20,1/24/2024,250.22,43070.6,USD,Sea,Delayed,Miami,50,15,6,2,Passed,2,4,Net 60,Paid,Low,1,-1503
+ORD100323,Nova Supply Co.,Electronic Components,167,4/5/2024,1/25/2024,2024.03.22,250.22,43070.6,USD,Sea,Shipped,Houston,0,10,6,1,Passed,1,3,COD,Unpaid,High,1,-1210
+ORD100324,Nova Supply Co.,Packaging Boxes,200,1/15/2024,2024.03.20,26/02/2024,477.5,95500,USD,Rail,Shipped,Houston,50,20,10,0,Failed,1,3,Net 60,Pending,High,0.75,-1788
+ORD100325,Acme Corp.,Steel Rods,100,1/15/2024,,4/18/2024,250.22,43070.6,USD,Air,Pending,New York,36,20,6,5,Passed,1,4,Net 60,Paid,High,1,-1210
+ORD100326,Global Supplies Inc.,Steel Rods,10,1/15/2024,25/02/2024,2024.03.22,277.85,2778.5,EUR,Sea,Cancelled,Houston,36,10,3,1,Failed,2,3,COD,Pending,Medium,0.85,-1210
+ORD100327,Acme Corp.,Steel Rods,167,1/15/2024,2024.03.20,4/18/2024,306.44,43070.6,USD,Air,Shipped,New York,36,15,5,2,Passed,1,1,COD,Paid,High,0.75,-1210
+ORD100328,Nova Supply Co.,Industrial Paint,167,1/15/2024,2024.03.20,26/02/2024,210.67,43070.6,USD,Air,In Transit,Los Angeles,20,20,6,0,Failed,2,1,Net 60,Paid,Low,1,-1503
+ORD100329,Global Supplies Inc.,Steel Rods,50,1/15/2024,1/25/2024,1/24/2024,124.99,6249.5,USD,Rail,Cancelled,Houston,20,10,3,1,Passed,1,1,COD,Unpaid,Medium,0.85,-1210
+ORD100330,Acme Corp.,Rubber Tires,50,1/15/2024,,2024.03.22,250.22,43070.6,USD,Sea,Delayed,Houston,10,5,3,1,Passed,2,2,COD,Pending,Low,0.85,-1210
+ORD100331,Nova Supply Co.,Electronic Components,500,15/02/2024,25/02/2024,1/24/2024,379.29,189645,USD,Sea,Delayed,Houston,36,10,5,5,Failed,2,3,Net 60,Paid,Medium,0.86,-1210
+ORD100332,Blue Ocean Ltd.,Plastic Sheets,50,4/5/2024,4/15/2024,4/18/2024,250.22,43070.6,EUR,Sea,Pending,Los Angeles,20,10,7,2,Failed,1,3,Net 60,Paid,Medium,0.86,-1210
+ORD100333,Global Supplies Inc.,Copper Wire,50,1/15/2024,2024.03.20,2024.03.22,59.36,2968,USD,Sea,Pending,Miami,0,10,10,1,Failed,1,3,Net 60,Paid,High,0.85,-1788
+ORD100334,Nova Supply Co.,Steel Rods,10,4/5/2024,,26/02/2024,24.43,244.3,EUR,Sea,Delayed,New York,100,20,10,2,Passed,0,3,Net 60,Pending,High,0.75,-1210
+ORD100335,Nova Supply Co.,Industrial Paint,500,4/5/2024,,26/02/2024,250.22,43070.6,USD,Sea,Delayed,Miami,50,5,5,1,Passed,1,1,Net 60,Unpaid,Low,0.86,-1788
+ORD100336,Acme Corp.,Industrial Paint,10,4/5/2024,1/25/2024,1/24/2024,427.95,4279.5,USD,Road,In Transit,Los Angeles,36,5,10,1,Passed,1,3,Net 30,Paid,Medium,0.86,-1503
+ORD100337,Blue Ocean Ltd.,Industrial Paint,500,4/5/2024,2024.03.20,1/24/2024,352.27,176135,EUR,Rail,Delayed,Houston,50,20,6,2,Passed,1,1,Net 60,Pending,High,0.86,-1210
+ORD100338,Prime Logistics,Industrial Paint,50,1/15/2024,,2024.03.22,237.88,11894,EUR,Rail,shipped,Houston,50,15,5,2,Failed,2,2,Net 60,Paid,Medium,0.86,-1788
+ORD100339,Sunrise Traders,Steel Rods,200,4/5/2024,1/25/2024,1/24/2024,250.22,43070.6,EUR,Air,shipped,Los Angeles,0,10,6,5,Passed,1,3,COD,Unpaid,Medium,0.85,-1210
+ORD100340,Prime Logistics,Copper Wire,100,4/5/2024,25/02/2024,26/02/2024,250.22,43070.6,USD,Sea,Delivered,Miami,50,20,6,5,Passed,1,1,COD,Paid,Medium,0.85,-1788
+ORD100341,Global Supplies Inc.,Rubber Tires,167,1/15/2024,,1/24/2024,237.53,43070.6,USD,Sea,Pending,Los Angeles,20,10,5,5,Failed,1,4,COD,Unpaid,Low,0.85,-1503
+ORD100342,Prime Logistics,Steel Rods,10,2024.03.10,4/15/2024,1/24/2024,250.22,43070.6,USD,Sea,Shipped,Miami,36,10,10,1,Passed,1,3,Net 30,Paid,Medium,1,-1788
+ORD100343,Prime Logistics,Packaging Boxes,167,2024.03.10,2024.03.20,26/02/2024,250.22,43070.6,USD,Sea,Shipped,Los Angeles,100,5,3,5,Passed,2,4,COD,Pending,High,0.75,-1210
+ORD100344,Prime Logistics,Plastic Sheets,100,15/02/2024,1/25/2024,26/02/2024,200.15,20015,USD,Road,Shipped,Houston,100,20,5,2,Passed,1,2,Net 60,Paid,Low,0.85,-1503
+ORD100345,Sunrise Traders,Rubber Tires,50,2024.03.10,4/15/2024,26/02/2024,308.5,15425,EUR,Road,Shipped,Miami,100,5,5,2,Passed,1,1,COD,Unpaid,High,1,-1503
+ORD100346,Nova Supply Co.,Steel Rods,50,4/5/2024,2024.03.20,1/24/2024,318.09,15904.5,EUR,Rail,Pending,New York,36,10,6,0,Passed,1,2,Net 60,Pending,High,0.75,-1503
+ORD100347,Global Supplies Inc.,Packaging Boxes,500,1/15/2024,2024.03.20,1/24/2024,24.08,12040,USD,Road,Cancelled,Houston,100,10,6,2,Passed,1,4,COD,Paid,Low,0.75,-1503
+ORD100348,Global Supplies Inc.,Packaging Boxes,100,15/02/2024,,4/18/2024,188.24,18824,USD,Rail,In Transit,New York,20,15,3,1,Passed,1,4,COD,Paid,Low,0.86,-1788
+ORD100349,Nova Supply Co.,Industrial Paint,167,4/5/2024,25/02/2024,2024.03.22,313.49,43070.6,USD,Rail,Delivered,Houston,0,10,7,0,Passed,1,3,Net 60,Unpaid,High,0.85,-1210
+ORD100350,Acme Corp.,Industrial Paint,167,2024.03.10,2024.03.20,2024.03.22,250.22,43070.6,USD,Air,Shipped,Houston,36,10,7,2,Failed,0,2,Net 30,Pending,High,0.75,-1788
+ORD100351,Blue Ocean Ltd.,Copper Wire,200,4/5/2024,4/15/2024,4/18/2024,250.22,43070.6,USD,Air,Shipped,Chicago,10,20,3,1,Failed,0,1,Net 60,Paid,High,1,-1788
+ORD100352,Sunrise Traders,Industrial Paint,50,2024.03.10,4/15/2024,26/02/2024,250.22,43070.6,USD,Sea,In Transit,New York,20,5,3,2,Passed,1,2,COD,Paid,Medium,0.85,-1503
+ORD100353,Acme Corp.,Steel Rods,167,1/15/2024,,1/24/2024,82.72,43070.6,USD,Sea,Delivered,Chicago,50,10,3,0,Passed,1,4,Net 30,Pending,High,0.86,-1503
+ORD100354,Blue Ocean Ltd.,Steel Rods,167,2024.03.10,1/25/2024,1/24/2024,36.68,43070.6,EUR,Sea,Delivered,Chicago,10,10,6,5,Passed,2,1,Net 60,Paid,Low,0.85,-1503
+ORD100355,Global Supplies Inc.,Plastic Sheets,500,4/5/2024,1/25/2024,2024.03.22,321.75,160875,USD,Road,In Transit,Miami,20,20,6,0,Passed,0,2,COD,Unpaid,Medium,0.86,-1210
+ORD100356,Blue Ocean Ltd.,Electronic Components,50,2024.03.10,4/15/2024,4/18/2024,14.72,736,EUR,Rail,Shipped,New York,36,15,3,1,Passed,2,3,COD,Pending,High,0.85,-1788
+ORD100357,Sunrise Traders,Electronic Components,167,2024.03.10,4/15/2024,4/18/2024,250.22,43070.6,USD,Sea,Pending,Miami,100,10,10,0,Passed,1,3,COD,Paid,High,1,-1210
+ORD100358,Sunrise Traders,Copper Wire,50,4/5/2024,25/02/2024,4/18/2024,470.2,23510,USD,Air,shipped,Miami,0,15,6,2,Passed,0,2,COD,Unpaid,Medium,1,-1788
+ORD100359,Nova Supply Co.,Copper Wire,167,2024.03.10,1/25/2024,1/24/2024,250.22,43070.6,EUR,Road,shipped,Miami,100,10,3,2,Failed,2,1,COD,Paid,High,0.75,-1503
+ORD100360,Global Supplies Inc.,Electronic Components,500,2024.03.10,25/02/2024,1/24/2024,250.22,43070.6,USD,Road,Delivered,Miami,10,10,3,0,Passed,1,3,Net 60,Paid,Low,0.75,-1788
+ORD100361,Acme Corp.,Steel Rods,500,2024.03.10,2024.03.20,2024.03.22,322.18,161090,EUR,Road,Pending,Miami,50,10,3,2,Passed,1,3,COD,Paid,High,0.86,-1210
+ORD100362,Acme Corp.,Steel Rods,10,1/15/2024,1/25/2024,1/24/2024,250.22,43070.6,USD,Rail,shipped,Houston,10,20,7,0,Passed,0,3,Net 60,Unpaid,High,1,-1788
+ORD100363,Sunrise Traders,Electronic Components,167,4/5/2024,,26/02/2024,250.22,43070.6,USD,Road,Pending,Los Angeles,10,10,10,0,Passed,1,4,COD,Unpaid,Low,0.75,-1503
+ORD100364,Prime Logistics,Plastic Sheets,200,15/02/2024,25/02/2024,1/24/2024,250.22,43070.6,USD,Air,Pending,Chicago,10,15,6,2,Failed,1,2,Net 60,Pending,High,0.75,-1210
+ORD100365,Blue Ocean Ltd.,Rubber Tires,50,4/5/2024,2024.03.20,4/18/2024,193.97,9698.5,EUR,Air,In Transit,Houston,0,5,7,5,Passed,0,3,Net 30,Paid,Medium,0.85,-1788
+ORD100366,Nova Supply Co.,Plastic Sheets,500,1/15/2024,1/25/2024,26/02/2024,480.65,240325,USD,Rail,Delayed,New York,0,10,5,5,Passed,1,5,COD,Unpaid,Medium,0.86,-1210
+ORD100367,Prime Logistics,Steel Rods,100,4/5/2024,4/15/2024,2024.03.22,250.22,43070.6,USD,Sea,Cancelled,New York,20,5,7,5,Failed,2,4,COD,Pending,High,0.85,-1788
+ORD100368,Prime Logistics,Packaging Boxes,100,1/15/2024,2024.03.20,4/18/2024,250.22,43070.6,EUR,Sea,Shipped,Los Angeles,100,10,10,5,Passed,1,4,Net 60,Paid,High,0.85,-1788
+ORD100369,Nova Supply Co.,Rubber Tires,100,15/02/2024,2024.03.20,4/18/2024,250.22,43070.6,USD,Air,In Transit,Chicago,50,10,10,0,Passed,1,3,Net 30,Unpaid,Low,0.86,-1210
+ORD100370,Nova Supply Co.,Rubber Tires,10,4/5/2024,25/02/2024,26/02/2024,250.22,43070.6,EUR,Sea,Cancelled,New York,0,5,5,2,Passed,2,5,COD,Unpaid,Medium,1,-1788
+ORD100371,Prime Logistics,Copper Wire,500,15/02/2024,1/25/2024,1/24/2024,10.58,5290,USD,Road,Cancelled,Chicago,20,5,5,5,Failed,2,4,Net 60,Unpaid,Medium,0.85,-1788
+ORD100372,Blue Ocean Ltd.,Rubber Tires,10,4/5/2024,25/02/2024,4/18/2024,250.22,43070.6,USD,Road,Pending,New York,10,10,3,1,Failed,0,3,COD,Unpaid,Low,1,-1788
+ORD100373,Nova Supply Co.,Electronic Components,200,4/5/2024,1/25/2024,26/02/2024,341.98,68396,USD,Rail,Cancelled,Chicago,50,5,3,2,Passed,0,4,COD,Paid,High,0.75,-1503
+ORD100374,Global Supplies Inc.,Electronic Components,500,1/15/2024,4/15/2024,4/18/2024,36.99,18495,EUR,Rail,Shipped,New York,10,10,7,1,Passed,1,3,COD,Paid,Low,0.75,-1503
+ORD100375,Sunrise Traders,Copper Wire,500,4/5/2024,25/02/2024,1/24/2024,250.22,43070.6,USD,Sea,shipped,New York,50,10,6,1,Passed,2,3,Net 60,Pending,High,1,-1788
+ORD100376,Prime Logistics,Plastic Sheets,100,2024.03.10,1/25/2024,2024.03.22,250.22,43070.6,USD,Air,In Transit,New York,50,5,5,1,Passed,1,3,COD,Unpaid,High,0.86,-1788
+ORD100377,Acme Corp.,Plastic Sheets,200,4/5/2024,4/15/2024,1/24/2024,250.22,43070.6,EUR,Sea,In Transit,Chicago,0,10,5,2,Failed,1,3,Net 30,Paid,High,0.75,-1503
+ORD100378,Sunrise Traders,Steel Rods,50,15/02/2024,2024.03.20,4/18/2024,407.51,20375.5,USD,Rail,Shipped,Miami,20,15,7,5,Passed,2,2,Net 60,Pending,Medium,1,-1788
+ORD100379,Nova Supply Co.,Steel Rods,200,4/5/2024,4/15/2024,2024.03.22,142,28400,USD,Sea,Cancelled,New York,20,20,6,2,Passed,2,1,COD,Paid,High,0.86,-1788
+ORD100380,Nova Supply Co.,Copper Wire,167,1/15/2024,,4/18/2024,250.22,43070.6,USD,Rail,Delivered,Chicago,20,20,7,0,Passed,2,4,Net 60,Unpaid,High,0.85,-1788
+ORD100381,Global Supplies Inc.,Industrial Paint,100,1/15/2024,4/15/2024,26/02/2024,348.82,34882,EUR,Sea,Shipped,Houston,0,20,7,2,Passed,1,5,Net 60,Paid,High,0.86,-1210
+ORD100382,Prime Logistics,Packaging Boxes,500,4/5/2024,1/25/2024,1/24/2024,315.03,157515,USD,Rail,Delayed,New York,100,10,7,5,Passed,0,3,COD,Paid,Low,0.86,-1788
+ORD100383,Sunrise Traders,Copper Wire,100,1/15/2024,2024.03.20,26/02/2024,250.22,43070.6,USD,Rail,Pending,New York,20,5,7,2,Passed,2,2,Net 30,Unpaid,High,1,-1503
+ORD100384,Acme Corp.,Industrial Paint,100,1/15/2024,1/25/2024,26/02/2024,250.22,43070.6,USD,Air,shipped,Chicago,100,15,10,1,Passed,2,1,Net 60,Unpaid,Medium,0.85,-1210
+ORD100385,Nova Supply Co.,Copper Wire,500,1/15/2024,4/15/2024,1/24/2024,402.04,201020,USD,Air,shipped,Chicago,36,10,3,1,Passed,2,2,Net 30,Pending,Medium,0.75,-1503
+ORD100386,Sunrise Traders,Copper Wire,100,2024.03.10,25/02/2024,1/24/2024,250.22,43070.6,EUR,Sea,Delivered,Miami,36,15,5,2,Failed,0,5,COD,Paid,High,0.85,-1503
+ORD100387,Sunrise Traders,Electronic Components,200,1/15/2024,2024.03.20,1/24/2024,89.95,17990,USD,Road,Pending,Miami,36,20,10,0,Passed,2,2,Net 60,Paid,High,0.86,-1210
+ORD100388,Nova Supply Co.,Industrial Paint,50,1/15/2024,2024.03.20,26/02/2024,250.22,43070.6,USD,Sea,Delayed,Chicago,100,5,6,2,Passed,0,2,COD,Paid,Low,0.85,-1503
+ORD100389,Nova Supply Co.,Steel Rods,50,1/15/2024,2024.03.20,2024.03.22,403.71,20185.5,USD,Sea,Delayed,Chicago,100,20,6,5,Passed,0,5,Net 30,Paid,High,0.86,-1788
+ORD100390,Nova Supply Co.,Steel Rods,50,15/02/2024,2024.03.20,1/24/2024,495.27,24763.5,USD,Sea,Delivered,Chicago,20,10,5,2,Passed,0,5,COD,Unpaid,High,0.75,-1788
+ORD100391,Acme Corp.,Industrial Paint,10,1/15/2024,2024.03.20,1/24/2024,207.19,2071.9,EUR,Air,Pending,Miami,100,10,10,2,Passed,0,3,Net 60,Paid,High,0.75,-1788
+ORD100392,Nova Supply Co.,Steel Rods,500,2024.03.10,,1/24/2024,250.22,43070.6,USD,Sea,Pending,New York,10,15,7,2,Passed,1,1,COD,Pending,Low,0.86,-1503
+ORD100393,Acme Corp.,Rubber Tires,500,15/02/2024,2024.03.20,4/18/2024,250.22,43070.6,EUR,Road,Cancelled,New York,10,15,7,5,Passed,1,2,Net 30,Paid,High,1,-1503
+ORD100394,Prime Logistics,Industrial Paint,200,1/15/2024,4/15/2024,1/24/2024,250.22,43070.6,EUR,Sea,Delivered,Houston,100,10,6,1,Passed,0,3,COD,Unpaid,Low,1,-1503
+ORD100395,Acme Corp.,Copper Wire,167,2024.03.10,25/02/2024,4/18/2024,465.48,43070.6,EUR,Road,In Transit,New York,100,10,10,2,Passed,1,2,COD,Paid,High,0.86,-1503
+ORD100396,Acme Corp.,Steel Rods,167,4/5/2024,1/25/2024,1/24/2024,429.42,43070.6,EUR,Sea,Pending,Chicago,36,20,6,1,Passed,0,4,COD,Pending,High,0.75,-1788
+ORD100397,Sunrise Traders,Industrial Paint,10,1/15/2024,4/15/2024,1/24/2024,250.22,43070.6,EUR,Road,shipped,Houston,36,15,7,2,Passed,1,3,COD,Unpaid,Low,0.86,-1788
+ORD100398,Global Supplies Inc.,Plastic Sheets,100,1/15/2024,2024.03.20,26/02/2024,375.81,37581,EUR,Rail,Delayed,Chicago,100,10,7,2,Passed,1,1,COD,Paid,Low,1,-1210
+ORD100399,Global Supplies Inc.,Industrial Paint,200,1/15/2024,1/25/2024,1/24/2024,377.64,75528,EUR,Sea,In Transit,New York,20,5,10,0,Failed,1,2,COD,Paid,Low,0.85,-1210
+ORD100400,Blue Ocean Ltd.,Steel Rods,167,1/15/2024,1/25/2024,1/24/2024,250.22,43070.6,EUR,Rail,shipped,Houston,0,20,5,1,Passed,1,3,Net 60,Paid,Low,0.75,-1210
+ORD100401,Sunrise Traders,Electronic Components,10,2024.03.10,2024.03.20,4/18/2024,250.22,43070.6,USD,Sea,Cancelled,Los Angeles,20,10,7,5,Failed,1,3,Net 30,Unpaid,Low,0.85,-1503
+ORD100402,Sunrise Traders,Steel Rods,167,1/15/2024,25/02/2024,1/24/2024,253.37,43070.6,USD,Sea,Pending,Chicago,100,5,6,1,Failed,1,1,Net 30,Paid,Low,1,-1503
+ORD100403,Prime Logistics,Industrial Paint,167,15/02/2024,,1/24/2024,250.22,43070.6,EUR,Rail,Shipped,New York,0,15,10,1,Passed,1,3,Net 60,Unpaid,Low,0.75,-1503
+ORD100404,Nova Supply Co.,Copper Wire,200,15/02/2024,,2024.03.22,161.04,32208,EUR,Air,Shipped,New York,0,20,10,2,Passed,1,3,COD,Paid,Medium,0.75,-1788
+ORD100405,Sunrise Traders,Steel Rods,167,15/02/2024,1/25/2024,26/02/2024,250.22,43070.6,USD,Road,shipped,Houston,10,5,5,5,Passed,0,5,Net 60,Unpaid,High,0.85,-1210
+ORD100406,Nova Supply Co.,Rubber Tires,200,1/15/2024,2024.03.20,1/24/2024,250.22,43070.6,USD,Sea,Delayed,Houston,20,15,5,2,Passed,2,3,Net 30,Paid,High,0.86,-1503
+ORD100407,Acme Corp.,Steel Rods,100,4/5/2024,2024.03.20,2024.03.22,250.22,43070.6,USD,Road,In Transit,Houston,50,10,7,1,Passed,2,3,Net 60,Paid,Low,0.75,-1503
+ORD100408,Global Supplies Inc.,Industrial Paint,500,4/5/2024,2024.03.20,4/18/2024,452.83,226415,USD,Sea,Delayed,New York,10,5,3,2,Passed,2,3,Net 60,Paid,Low,0.75,-1503
+ORD100409,Sunrise Traders,Electronic Components,10,1/15/2024,2024.03.20,1/24/2024,250.22,43070.6,EUR,Sea,Shipped,Miami,10,10,10,5,Failed,1,5,Net 30,Paid,High,0.86,-1788
+ORD100410,Acme Corp.,Steel Rods,200,15/02/2024,,26/02/2024,160.68,32136,USD,Air,In Transit,New York,36,15,10,0,Failed,1,1,Net 60,Paid,High,0.86,-1788
+ORD100411,Sunrise Traders,Plastic Sheets,167,1/15/2024,25/02/2024,4/18/2024,475.11,43070.6,USD,Sea,Cancelled,Chicago,20,10,7,0,Passed,1,3,COD,Paid,High,1,-1210
+ORD100412,Global Supplies Inc.,Rubber Tires,50,1/15/2024,,26/02/2024,250.22,43070.6,EUR,Road,In Transit,New York,0,20,10,2,Passed,0,5,COD,Unpaid,Low,0.86,-1210
+ORD100413,Global Supplies Inc.,Copper Wire,10,2024.03.10,1/25/2024,26/02/2024,287.36,2873.6,EUR,Sea,Pending,Miami,50,5,5,5,Failed,2,2,COD,Pending,Low,0.86,-1788
+ORD100414,Blue Ocean Ltd.,Industrial Paint,167,2024.03.10,25/02/2024,26/02/2024,250.22,43070.6,USD,Sea,shipped,Miami,10,15,3,0,Passed,0,5,COD,Paid,High,0.75,-1210
+ORD100415,Blue Ocean Ltd.,Rubber Tires,200,2024.03.10,,26/02/2024,250.22,43070.6,USD,Air,Cancelled,New York,50,5,10,1,Passed,2,3,Net 30,Paid,High,0.75,-1210
+ORD100416,Sunrise Traders,Copper Wire,167,2024.03.10,1/25/2024,26/02/2024,147.67,43070.6,EUR,Sea,Shipped,New York,0,15,7,1,Passed,2,4,COD,Paid,Medium,0.75,-1788
+ORD100417,Blue Ocean Ltd.,Electronic Components,200,4/5/2024,25/02/2024,2024.03.22,165.34,33068,USD,Air,shipped,New York,0,10,3,2,Passed,2,2,Net 60,Paid,High,0.85,-1503
+ORD100418,Acme Corp.,Electronic Components,100,4/5/2024,2024.03.20,4/18/2024,250.22,43070.6,EUR,Road,In Transit,New York,20,5,7,1,Passed,1,5,Net 60,Unpaid,Low,0.75,-1210
+ORD100419,Nova Supply Co.,Electronic Components,100,2024.03.10,1/25/2024,26/02/2024,376.56,37656,USD,Sea,Shipped,New York,0,10,3,1,Failed,1,5,COD,Paid,Low,0.85,-1503
+ORD100420,Nova Supply Co.,Steel Rods,167,1/15/2024,25/02/2024,4/18/2024,250.22,43070.6,USD,Sea,Cancelled,New York,100,10,10,1,Passed,0,5,COD,Pending,High,1,-1503
+ORD100421,Nova Supply Co.,Industrial Paint,100,15/02/2024,4/15/2024,4/18/2024,250.22,43070.6,EUR,Rail,Delayed,New York,100,15,5,0,Passed,2,1,COD,Paid,Medium,0.86,-1210
+ORD100422,Blue Ocean Ltd.,Industrial Paint,10,1/15/2024,4/15/2024,26/02/2024,46.97,469.7,EUR,Road,shipped,New York,10,5,10,0,Failed,1,4,Net 60,Paid,Medium,0.85,-1788
+ORD100423,Blue Ocean Ltd.,Electronic Components,100,1/15/2024,2024.03.20,2024.03.22,250.22,43070.6,EUR,Road,shipped,Miami,100,10,5,5,Passed,2,2,COD,Paid,Low,1,-1210
+ORD100424,Sunrise Traders,Industrial Paint,167,1/15/2024,4/15/2024,1/24/2024,30.19,43070.6,EUR,Air,Delivered,New York,36,5,3,1,Passed,2,3,Net 30,Pending,High,0.75,-1788
+ORD100425,Blue Ocean Ltd.,Steel Rods,200,1/15/2024,25/02/2024,1/24/2024,275.44,55088,USD,Sea,shipped,Chicago,0,10,10,0,Passed,1,1,COD,Unpaid,Medium,0.86,-1503
+ORD100426,Prime Logistics,Steel Rods,10,4/5/2024,,1/24/2024,221.6,2216,USD,Sea,Cancelled,Miami,20,15,10,2,Failed,1,1,COD,Unpaid,High,0.85,-1503
+ORD100427,Prime Logistics,Industrial Paint,167,1/15/2024,1/25/2024,26/02/2024,444.02,43070.6,USD,Rail,Delayed,Miami,20,15,5,0,Failed,1,3,Net 30,Paid,Low,0.75,-1503
+ORD100428,Global Supplies Inc.,Rubber Tires,100,4/5/2024,25/02/2024,1/24/2024,250.22,43070.6,USD,Sea,Delivered,Miami,0,15,3,0,Failed,0,1,Net 30,Unpaid,High,0.85,-1503
+ORD100429,Blue Ocean Ltd.,Industrial Paint,500,1/15/2024,25/02/2024,1/24/2024,59.86,29930,EUR,Air,Shipped,Houston,36,20,7,5,Passed,0,1,COD,Unpaid,Low,0.86,-1210
+ORD100430,Acme Corp.,Packaging Boxes,50,1/15/2024,2024.03.20,4/18/2024,72.78,3639,USD,Air,Cancelled,Los Angeles,20,10,10,2,Passed,0,3,Net 30,Pending,Medium,0.86,-1210
+ORD100431,Nova Supply Co.,Industrial Paint,200,15/02/2024,1/25/2024,4/18/2024,250.22,43070.6,EUR,Road,Delayed,New York,20,15,3,0,Passed,1,3,Net 30,Paid,Medium,1,-1503
+ORD100432,Acme Corp.,Rubber Tires,50,15/02/2024,1/25/2024,4/18/2024,250.22,43070.6,USD,Sea,Delivered,New York,20,10,6,2,Failed,1,3,COD,Paid,Medium,0.85,-1210
+ORD100433,Sunrise Traders,Industrial Paint,500,4/5/2024,,4/18/2024,51.91,25955,USD,Road,Cancelled,Chicago,100,15,7,0,Passed,1,5,Net 60,Paid,High,0.85,-1210
+ORD100434,Acme Corp.,Packaging Boxes,200,1/15/2024,1/25/2024,2024.03.22,250.22,43070.6,EUR,Sea,Delayed,Houston,20,5,7,2,Failed,1,1,Net 60,Paid,High,1,-1210
+ORD100435,Global Supplies Inc.,Industrial Paint,50,1/15/2024,,26/02/2024,250.22,43070.6,EUR,Sea,Delivered,Miami,50,20,3,5,Failed,0,3,COD,Pending,Low,1,-1788
+ORD100436,Prime Logistics,Copper Wire,200,15/02/2024,2024.03.20,2024.03.22,250.22,43070.6,EUR,Rail,Shipped,Miami,100,5,10,5,Passed,0,4,COD,Paid,Low,0.75,-1503
+ORD100437,Acme Corp.,Industrial Paint,200,15/02/2024,1/25/2024,1/24/2024,250.22,43070.6,USD,Rail,Shipped,Houston,50,20,6,5,Passed,1,3,Net 60,Paid,Medium,0.85,-1210
+ORD100438,Nova Supply Co.,Industrial Paint,200,1/15/2024,2024.03.20,26/02/2024,250.22,43070.6,EUR,Air,Delivered,Chicago,20,20,6,5,Failed,1,2,COD,Pending,High,0.75,-1210
+ORD100439,Nova Supply Co.,Packaging Boxes,500,1/15/2024,2024.03.20,26/02/2024,42.05,21025,USD,Sea,Pending,Miami,36,15,7,2,Passed,1,5,Net 30,Paid,High,0.86,-1788
+ORD100440,Sunrise Traders,Copper Wire,10,4/5/2024,25/02/2024,1/24/2024,250.22,43070.6,EUR,Rail,In Transit,Miami,100,5,7,2,Passed,2,2,COD,Pending,High,1,-1503
+ORD100441,Acme Corp.,Packaging Boxes,100,2024.03.10,25/02/2024,26/02/2024,493.34,49334,EUR,Sea,Pending,Miami,50,10,5,2,Passed,1,4,COD,Pending,High,0.85,-1788
+ORD100442,Global Supplies Inc.,Industrial Paint,100,4/5/2024,2024.03.20,26/02/2024,250.22,43070.6,USD,Sea,Pending,Chicago,36,10,10,1,Failed,1,3,Net 60,Paid,High,0.75,-1503
+ORD100443,Global Supplies Inc.,Industrial Paint,50,1/15/2024,25/02/2024,26/02/2024,250.22,43070.6,USD,Rail,Cancelled,Miami,20,10,7,0,Passed,2,1,Net 30,Paid,Low,1,-1503
+ORD100444,Nova Supply Co.,Rubber Tires,10,1/15/2024,,1/24/2024,250.22,43070.6,EUR,Sea,Shipped,Miami,100,15,7,2,Failed,1,3,COD,Paid,Medium,1,-1788
+ORD100445,Global Supplies Inc.,Steel Rods,100,4/5/2024,1/25/2024,2024.03.22,473.7,47370,EUR,Sea,Delivered,Los Angeles,0,20,3,5,Passed,1,2,Net 60,Unpaid,Low,0.85,-1788
+ORD100446,Blue Ocean Ltd.,Steel Rods,100,1/15/2024,,4/18/2024,250.22,43070.6,USD,Rail,Pending,New York,0,20,5,2,Passed,0,4,Net 60,Paid,Medium,1,-1503
+ORD100447,Nova Supply Co.,Rubber Tires,100,1/15/2024,2024.03.20,2024.03.22,377.06,37706,USD,Sea,In Transit,Miami,100,20,6,2,Failed,1,3,COD,Unpaid,High,0.75,-1503
+ORD100448,Global Supplies Inc.,Steel Rods,100,1/15/2024,4/15/2024,1/24/2024,250.22,43070.6,USD,Rail,In Transit,New York,0,5,6,1,Passed,0,3,Net 30,Unpaid,Medium,0.75,-1503
+ORD100449,Acme Corp.,Electronic Components,10,15/02/2024,25/02/2024,1/24/2024,250.22,43070.6,USD,Sea,shipped,New York,50,5,6,5,Passed,0,1,COD,Paid,High,1,-1210
+ORD100450,Nova Supply Co.,Steel Rods,500,2024.03.10,2024.03.20,2024.03.22,250.22,43070.6,EUR,Sea,Delayed,Los Angeles,100,10,7,2,Passed,1,4,Net 30,Pending,Medium,0.86,-1210
+ORD100451,Prime Logistics,Steel Rods,10,4/5/2024,1/25/2024,1/24/2024,250.22,43070.6,USD,Air,Delayed,Houston,50,15,5,1,Failed,0,4,Net 60,Unpaid,Low,1,-1788
+ORD100452,Nova Supply Co.,Steel Rods,100,4/5/2024,,1/24/2024,212.97,21297,USD,Sea,Shipped,Miami,10,5,10,2,Failed,1,1,Net 30,Unpaid,Low,1,-1210
+ORD100453,Prime Logistics,Electronic Components,50,1/15/2024,1/25/2024,1/24/2024,453.32,22666,USD,Sea,Pending,New York,36,15,10,5,Failed,2,2,Net 60,Unpaid,Low,0.75,-1503
+ORD100454,Nova Supply Co.,Steel Rods,167,4/5/2024,2024.03.20,26/02/2024,250.22,43070.6,EUR,Sea,shipped,Miami,20,20,5,1,Failed,2,3,Net 30,Paid,High,0.86,-1788
+ORD100455,Acme Corp.,Packaging Boxes,100,2024.03.10,1/25/2024,4/18/2024,250.22,43070.6,EUR,Air,Cancelled,Chicago,10,5,5,2,Failed,2,2,COD,Unpaid,High,0.85,-1788
+ORD100456,Global Supplies Inc.,Rubber Tires,10,15/02/2024,2024.03.20,1/24/2024,7.16,71.6,USD,Road,Shipped,Los Angeles,50,10,3,5,Passed,2,5,COD,Paid,Medium,1,-1788
+ORD100457,Prime Logistics,Industrial Paint,167,2024.03.10,4/15/2024,1/24/2024,235.13,43070.6,USD,Rail,Shipped,New York,10,10,5,0,Passed,1,5,Net 30,Pending,Low,1,-1503
+ORD100458,Blue Ocean Ltd.,Rubber Tires,10,15/02/2024,1/25/2024,1/24/2024,250.22,43070.6,USD,Road,Pending,Los Angeles,36,5,3,1,Failed,1,3,COD,Paid,Low,1,-1503
+ORD100459,Nova Supply Co.,Steel Rods,50,2024.03.10,,2024.03.22,60.73,3036.5,USD,Air,Cancelled,Miami,0,20,5,2,Passed,2,3,COD,Unpaid,High,0.86,-1210
+ORD100460,Prime Logistics,Plastic Sheets,200,1/15/2024,1/25/2024,2024.03.22,250.22,43070.6,EUR,Sea,Delivered,New York,100,5,10,1,Passed,1,4,COD,Paid,Medium,0.86,-1210
+ORD100461,Nova Supply Co.,Rubber Tires,167,1/15/2024,4/15/2024,1/24/2024,325.13,43070.6,EUR,Air,In Transit,New York,36,10,6,0,Failed,2,3,Net 60,Pending,High,0.86,-1210
+ORD100462,Acme Corp.,Copper Wire,50,1/15/2024,4/15/2024,1/24/2024,250.22,43070.6,EUR,Sea,Shipped,Los Angeles,36,10,6,2,Failed,1,3,Net 30,Unpaid,High,0.85,-1210
+ORD100463,Nova Supply Co.,Industrial Paint,10,1/15/2024,1/25/2024,1/24/2024,250.22,43070.6,USD,Sea,Delivered,Los Angeles,10,20,5,5,Failed,1,5,COD,Paid,Low,1,-1503
+ORD100464,Prime Logistics,Plastic Sheets,100,1/15/2024,4/15/2024,4/18/2024,250.22,43070.6,USD,Rail,Pending,Miami,50,10,6,5,Passed,1,2,COD,Paid,High,0.86,-1788
+ORD100465,Nova Supply Co.,Packaging Boxes,100,2024.03.10,25/02/2024,4/18/2024,188.37,18837,USD,Road,Delayed,Chicago,36,20,6,0,Passed,1,3,COD,Pending,High,1,-1788
+ORD100466,Acme Corp.,Industrial Paint,200,15/02/2024,,2024.03.22,250.22,43070.6,USD,Sea,shipped,New York,20,5,7,2,Passed,2,1,Net 60,Paid,Low,0.86,-1503
+ORD100467,Blue Ocean Ltd.,Electronic Components,200,2024.03.10,4/15/2024,2024.03.22,434.5,86900,USD,Air,Delivered,Miami,50,15,10,5,Passed,0,2,Net 30,Paid,High,0.85,-1210
+ORD100468,Blue Ocean Ltd.,Steel Rods,10,1/15/2024,,26/02/2024,250.22,43070.6,USD,Rail,Shipped,New York,0,15,5,0,Passed,2,3,Net 60,Pending,Low,0.85,-1503
+ORD100469,Nova Supply Co.,Steel Rods,200,2024.03.10,1/25/2024,26/02/2024,481.67,96334,EUR,Sea,Delayed,New York,50,20,6,5,Passed,1,1,COD,Paid,High,0.75,-1788
+ORD100470,Sunrise Traders,Industrial Paint,167,15/02/2024,1/25/2024,2024.03.22,250.22,43070.6,USD,Air,In Transit,Miami,0,10,5,0,Passed,1,3,COD,Pending,Medium,0.75,-1210
+ORD100471,Blue Ocean Ltd.,Copper Wire,100,1/15/2024,1/25/2024,4/18/2024,250.22,43070.6,USD,Air,shipped,New York,36,10,7,2,Passed,1,4,Net 60,Unpaid,Medium,0.75,-1503
+ORD100472,Sunrise Traders,Industrial Paint,100,15/02/2024,4/15/2024,1/24/2024,250.22,43070.6,USD,Rail,Cancelled,Chicago,10,10,7,0,Failed,2,5,COD,Paid,High,0.75,-1503
+ORD100473,Nova Supply Co.,Electronic Components,100,4/5/2024,2024.03.20,26/02/2024,250.22,43070.6,EUR,Air,In Transit,Miami,0,5,6,0,Passed,1,2,Net 30,Pending,Low,0.85,-1788
+ORD100474,Nova Supply Co.,Plastic Sheets,167,1/15/2024,,1/24/2024,250.22,43070.6,USD,Air,Cancelled,Miami,10,10,10,2,Failed,2,3,Net 60,Pending,Low,1,-1788
+ORD100475,Nova Supply Co.,Rubber Tires,100,1/15/2024,1/25/2024,2024.03.22,496.49,49649,USD,Road,Delayed,New York,0,15,7,2,Passed,0,2,Net 60,Unpaid,High,0.86,-1503
+ORD100476,Acme Corp.,Industrial Paint,50,15/02/2024,25/02/2024,1/24/2024,250.22,43070.6,USD,Sea,Delivered,New York,10,10,10,1,Failed,1,4,Net 30,Pending,High,0.85,-1788
+ORD100477,Nova Supply Co.,Plastic Sheets,100,4/5/2024,1/25/2024,1/24/2024,277.6,27760,EUR,Sea,Cancelled,Chicago,50,15,7,2,Passed,1,5,COD,Pending,High,1,-1788
+ORD100478,Blue Ocean Ltd.,Steel Rods,500,1/15/2024,25/02/2024,2024.03.22,484.7,242350,EUR,Road,Shipped,Chicago,100,10,6,5,Passed,0,4,COD,Pending,Low,0.86,-1503
+ORD100479,Acme Corp.,Industrial Paint,100,2024.03.10,2024.03.20,26/02/2024,250.22,43070.6,USD,Rail,Delayed,New York,100,5,7,5,Failed,0,2,Net 30,Unpaid,High,0.85,-1788
+ORD100480,Global Supplies Inc.,Rubber Tires,500,2024.03.10,25/02/2024,26/02/2024,315.26,157630,USD,Rail,Delayed,New York,0,20,7,5,Passed,1,2,Net 60,Paid,Medium,1,-1788
+ORD100481,Nova Supply Co.,Industrial Paint,50,2024.03.10,4/15/2024,1/24/2024,348.33,17416.5,USD,Sea,Delayed,Houston,50,20,3,0,Passed,1,5,COD,Paid,High,0.75,-1210
+ORD100482,Acme Corp.,Plastic Sheets,50,1/15/2024,4/15/2024,26/02/2024,250.22,43070.6,USD,Sea,shipped,New York,50,10,3,0,Passed,0,1,COD,Paid,Medium,0.86,-1788
+ORD100483,Global Supplies Inc.,Rubber Tires,200,1/15/2024,2024.03.20,4/18/2024,250.22,43070.6,USD,Air,Shipped,Houston,20,10,5,2,Failed,1,1,COD,Unpaid,High,0.85,-1210
+ORD100484,Global Supplies Inc.,Electronic Components,167,4/5/2024,2024.03.20,1/24/2024,292.78,43070.6,USD,Sea,In Transit,Miami,50,10,7,2,Failed,2,3,COD,Paid,Medium,0.85,-1503
+ORD100485,Nova Supply Co.,Electronic Components,500,1/15/2024,25/02/2024,26/02/2024,450.73,225365,USD,Sea,In Transit,Houston,50,5,3,2,Passed,0,3,COD,Unpaid,High,1,-1503
+ORD100486,Nova Supply Co.,Steel Rods,10,15/02/2024,25/02/2024,1/24/2024,250.22,43070.6,USD,Air,Pending,Houston,36,20,7,5,Passed,0,4,Net 30,Pending,Low,0.86,-1788
+ORD100487,Sunrise Traders,Industrial Paint,167,2024.03.10,1/25/2024,26/02/2024,250.22,43070.6,USD,Road,Pending,New York,20,10,7,1,Passed,1,1,COD,Unpaid,Medium,0.85,-1210
+ORD100488,Nova Supply Co.,Industrial Paint,500,4/5/2024,25/02/2024,26/02/2024,250.22,43070.6,USD,Rail,Delivered,Houston,10,20,7,2,Passed,0,1,COD,Unpaid,High,0.85,-1788
+ORD100489,Blue Ocean Ltd.,Steel Rods,200,2024.03.10,25/02/2024,4/18/2024,445.3,89060,EUR,Air,shipped,New York,50,10,6,1,Passed,2,2,Net 60,Paid,High,1,-1210
+ORD100490,Sunrise Traders,Rubber Tires,10,2024.03.10,2024.03.20,1/24/2024,250.22,43070.6,EUR,Rail,In Transit,Miami,50,15,10,1,Passed,0,3,Net 60,Paid,Medium,0.86,-1788
+ORD100491,Nova Supply Co.,Industrial Paint,167,1/15/2024,1/25/2024,1/24/2024,250.22,43070.6,EUR,Sea,Delayed,New York,0,5,3,5,Failed,1,2,COD,Paid,Low,0.75,-1788
+ORD100492,Nova Supply Co.,Industrial Paint,100,4/5/2024,2024.03.20,2024.03.22,250.22,43070.6,EUR,Rail,In Transit,New York,0,5,7,0,Passed,0,4,Net 60,Paid,High,0.86,-1210
+ORD100493,Prime Logistics,Steel Rods,167,1/15/2024,2024.03.20,2024.03.22,95.28,43070.6,USD,Sea,Pending,New York,36,10,6,0,Passed,2,3,Net 30,Paid,Low,0.75,-1788
+ORD100494,Blue Ocean Ltd.,Steel Rods,500,1/15/2024,1/25/2024,1/24/2024,250.22,43070.6,USD,Sea,Cancelled,New York,20,15,3,5,Passed,0,3,Net 60,Paid,Low,0.75,-1503
+ORD100495,Nova Supply Co.,Industrial Paint,100,4/5/2024,2024.03.20,26/02/2024,250.22,43070.6,USD,Rail,Cancelled,Los Angeles,10,20,10,5,Failed,1,2,COD,Paid,Low,0.86,-1503
+ORD100496,Sunrise Traders,Rubber Tires,200,4/5/2024,4/15/2024,1/24/2024,250.22,43070.6,EUR,Sea,Delayed,Chicago,36,20,3,1,Passed,2,2,Net 60,Paid,Medium,0.86,-1503
+ORD100497,Sunrise Traders,Steel Rods,100,2024.03.10,4/15/2024,26/02/2024,40.25,4025,USD,Sea,Delayed,Houston,0,10,3,2,Passed,1,3,Net 60,Unpaid,High,0.86,-1503
+ORD100498,Nova Supply Co.,Rubber Tires,100,4/5/2024,25/02/2024,26/02/2024,487.24,48724,USD,Sea,Shipped,Chicago,100,15,7,1,Failed,2,5,Net 60,Unpaid,Low,0.86,-1210
+ORD100499,Blue Ocean Ltd.,Industrial Paint,50,15/02/2024,25/02/2024,1/24/2024,250.22,43070.6,USD,Sea,Delivered,New York,20,10,6,0,Failed,0,1,Net 60,Paid,High,0.85,-1503
+ORD100500,Blue Ocean Ltd.,Rubber Tires,200,4/5/2024,25/02/2024,1/24/2024,349.53,69906,EUR,Rail,shipped,New York,50,5,3,0,Passed,1,5,Net 60,Pending,Medium,0.85,-1788
+ORD100501,Sunrise Traders,Steel Rods,200,1/15/2024,2024.03.20,4/18/2024,250.22,43070.6,USD,Sea,shipped,Miami,36,10,7,1,Passed,1,2,Net 30,Paid,High,1,-1503
+ORD100502,Prime Logistics,Industrial Paint,500,1/15/2024,1/25/2024,2024.03.22,250.22,43070.6,USD,Road,In Transit,Houston,10,10,3,1,Failed,1,3,COD,Paid,Medium,0.75,-1210
+ORD100503,Nova Supply Co.,Industrial Paint,200,2024.03.10,2024.03.20,4/18/2024,407.18,81436,EUR,Sea,Pending,Los Angeles,20,15,7,0,Passed,0,4,Net 60,Paid,High,0.75,-1210
+ORD100504,Nova Supply Co.,Steel Rods,10,1/15/2024,25/02/2024,1/24/2024,342.84,3428.4,USD,Rail,Delivered,Miami,36,5,3,1,Failed,2,2,Net 30,Unpaid,High,0.85,-1503
+ORD100505,Prime Logistics,Copper Wire,500,4/5/2024,4/15/2024,1/24/2024,250.22,43070.6,USD,Road,Delivered,Houston,20,20,6,0,Passed,1,2,COD,Paid,High,1,-1788
+ORD100506,Sunrise Traders,Electronic Components,10,4/5/2024,1/25/2024,1/24/2024,250.22,43070.6,USD,Sea,Delayed,Miami,50,10,6,5,Passed,1,3,Net 30,Paid,High,0.86,-1210
+ORD100507,Prime Logistics,Industrial Paint,100,2024.03.10,25/02/2024,4/18/2024,411.53,41153,USD,Sea,Shipped,Miami,36,15,3,0,Failed,0,3,COD,Unpaid,Medium,0.85,-1503
+ORD100508,Prime Logistics,Plastic Sheets,50,1/15/2024,1/25/2024,26/02/2024,250.22,43070.6,USD,Sea,Shipped,Houston,36,20,3,5,Passed,2,3,Net 30,Pending,Medium,1,-1210
+ORD100509,Acme Corp.,Plastic Sheets,100,4/5/2024,,26/02/2024,250.22,43070.6,USD,Sea,Delivered,New York,10,15,10,1,Passed,1,3,Net 30,Paid,High,0.75,-1503
+ORD100510,Prime Logistics,Packaging Boxes,10,1/15/2024,4/15/2024,1/24/2024,307.29,3072.9,USD,Sea,Pending,Miami,0,15,3,2,Passed,1,4,Net 60,Unpaid,High,0.85,-1210
+ORD100511,Acme Corp.,Plastic Sheets,167,1/15/2024,,1/24/2024,250.22,43070.6,USD,Air,Delayed,New York,36,15,6,5,Passed,0,3,Net 60,Pending,Low,0.75,-1210
+ORD100512,Nova Supply Co.,Steel Rods,10,1/15/2024,25/02/2024,4/18/2024,250.22,43070.6,USD,Road,Delivered,New York,10,10,5,5,Passed,1,3,Net 60,Paid,High,0.86,-1503
+ORD100513,Nova Supply Co.,Electronic Components,200,1/15/2024,,2024.03.22,250.22,43070.6,EUR,Road,shipped,Los Angeles,100,5,7,0,Passed,1,1,COD,Paid,Low,0.75,-1503
+ORD100514,Acme Corp.,Rubber Tires,200,2024.03.10,1/25/2024,1/24/2024,24.04,4808,USD,Sea,Shipped,Chicago,10,10,10,2,Passed,1,4,Net 30,Pending,High,0.75,-1210
+ORD100515,Prime Logistics,Industrial Paint,200,1/15/2024,,2024.03.22,14.64,2928,EUR,Road,Delivered,New York,36,15,5,5,Passed,2,1,COD,Pending,High,0.86,-1210
+ORD100516,Sunrise Traders,Packaging Boxes,100,1/15/2024,,26/02/2024,250.22,43070.6,EUR,Road,Delivered,Houston,0,15,5,0,Passed,1,4,COD,Unpaid,High,0.86,-1788
+ORD100517,Prime Logistics,Plastic Sheets,200,2024.03.10,2024.03.20,2024.03.22,405.56,81112,USD,Rail,Pending,New York,0,20,10,1,Passed,2,5,COD,Unpaid,Low,0.85,-1788
+ORD100518,Blue Ocean Ltd.,Packaging Boxes,200,15/02/2024,1/25/2024,1/24/2024,493.66,98732,USD,Air,Pending,Miami,20,10,5,2,Passed,0,5,COD,Unpaid,Medium,0.85,-1503
+ORD100519,Nova Supply Co.,Packaging Boxes,10,1/15/2024,1/25/2024,1/24/2024,250.22,43070.6,USD,Air,Delivered,Los Angeles,10,10,7,5,Passed,0,2,Net 60,Unpaid,Low,0.75,-1788
+ORD100520,Prime Logistics,Industrial Paint,10,15/02/2024,25/02/2024,1/24/2024,297.67,2976.7,USD,Air,shipped,New York,0,10,6,2,Passed,2,2,COD,Paid,Low,0.75,-1503
+ORD100521,Blue Ocean Ltd.,Plastic Sheets,10,2024.03.10,,26/02/2024,191.37,1913.7,USD,Air,Shipped,Houston,36,10,3,1,Failed,1,1,COD,Paid,High,0.75,-1788
+ORD100522,Sunrise Traders,Packaging Boxes,10,1/15/2024,1/25/2024,4/18/2024,250.22,43070.6,EUR,Air,Delayed,Los Angeles,0,20,7,2,Failed,1,4,COD,Paid,Low,0.75,-1788
+ORD100523,Blue Ocean Ltd.,Rubber Tires,200,4/5/2024,2024.03.20,4/18/2024,250.22,43070.6,EUR,Sea,In Transit,Los Angeles,10,10,3,2,Passed,1,3,COD,Paid,High,0.85,-1503
+ORD100524,Prime Logistics,Electronic Components,167,1/15/2024,1/25/2024,1/24/2024,250.22,43070.6,EUR,Rail,Pending,New York,10,10,3,2,Passed,2,3,COD,Paid,Medium,0.75,-1503
+ORD100525,Nova Supply Co.,Copper Wire,167,4/5/2024,4/15/2024,26/02/2024,250.22,43070.6,USD,Air,Delayed,Los Angeles,0,10,10,2,Passed,1,4,COD,Paid,Low,0.86,-1788
+ORD100526,Prime Logistics,Industrial Paint,10,2024.03.10,2024.03.20,4/18/2024,250.22,43070.6,USD,Rail,shipped,Los Angeles,50,10,5,2,Passed,0,3,Net 60,Paid,High,0.75,-1210
+ORD100527,Nova Supply Co.,Plastic Sheets,10,1/15/2024,4/15/2024,1/24/2024,250.22,43070.6,USD,Rail,Delivered,Miami,0,20,10,2,Passed,2,3,COD,Paid,High,0.75,-1210
+ORD100528,Acme Corp.,Electronic Components,10,1/15/2024,25/02/2024,1/24/2024,250.22,43070.6,USD,Road,Shipped,Los Angeles,0,20,7,0,Passed,0,1,Net 30,Unpaid,High,0.85,-1788
+ORD100529,Acme Corp.,Rubber Tires,100,2024.03.10,25/02/2024,26/02/2024,250.22,43070.6,USD,Sea,Cancelled,New York,36,20,10,0,Failed,1,1,COD,Paid,High,0.85,-1788
+ORD100530,Global Supplies Inc.,Steel Rods,200,1/15/2024,2024.03.20,26/02/2024,250.22,43070.6,USD,Road,Pending,Los Angeles,0,15,10,2,Failed,1,2,Net 60,Paid,Low,0.85,-1210
+ORD100531,Prime Logistics,Copper Wire,167,4/5/2024,,1/24/2024,499.86,43070.6,USD,Sea,Delayed,Miami,36,5,5,5,Failed,2,1,COD,Paid,Medium,0.85,-1788
+ORD100532,Blue Ocean Ltd.,Electronic Components,100,2024.03.10,1/25/2024,1/24/2024,498.32,49832,USD,Sea,In Transit,New York,50,10,10,5,Failed,1,4,COD,Paid,High,0.75,-1788
+ORD100533,Prime Logistics,Steel Rods,10,4/5/2024,4/15/2024,1/24/2024,250.22,43070.6,EUR,Rail,Cancelled,Chicago,20,10,6,0,Passed,1,2,COD,Pending,Medium,0.86,-1788
+ORD100534,Sunrise Traders,Steel Rods,500,2024.03.10,,2024.03.22,250.22,43070.6,USD,Rail,In Transit,Houston,36,10,7,0,Passed,1,5,COD,Pending,High,0.86,-1788
+ORD100535,Acme Corp.,Steel Rods,200,15/02/2024,4/15/2024,1/24/2024,250.22,43070.6,EUR,Sea,Delayed,Chicago,50,20,3,1,Failed,1,4,COD,Paid,Medium,0.75,-1210
+ORD100536,Acme Corp.,Industrial Paint,167,2024.03.10,1/25/2024,4/18/2024,250.22,43070.6,USD,Road,Delayed,New York,50,15,3,0,Failed,0,5,Net 30,Paid,Low,0.75,-1210
+ORD100537,Blue Ocean Ltd.,Packaging Boxes,50,2024.03.10,4/15/2024,26/02/2024,124.8,6240,USD,Road,Cancelled,Miami,0,10,6,0,Passed,0,3,COD,Paid,High,1,-1788
+ORD100538,Nova Supply Co.,Industrial Paint,100,1/15/2024,2024.03.20,1/24/2024,226.1,22610,USD,Sea,Delayed,Houston,50,15,3,2,Failed,2,3,COD,Unpaid,High,0.86,-1210
+ORD100539,Global Supplies Inc.,Steel Rods,167,1/15/2024,25/02/2024,1/24/2024,65.89,43070.6,USD,Sea,Delivered,New York,0,10,5,5,Passed,1,5,COD,Unpaid,Medium,0.75,-1503
+ORD100540,Nova Supply Co.,Steel Rods,500,1/15/2024,1/25/2024,4/18/2024,477.09,238545,EUR,Rail,Delayed,Houston,36,10,3,1,Passed,1,5,COD,Paid,High,0.86,-1210
+ORD100541,Acme Corp.,Rubber Tires,500,1/15/2024,25/02/2024,1/24/2024,250.22,43070.6,USD,Sea,In Transit,Chicago,100,20,3,0,Passed,1,5,Net 30,Paid,Low,1,-1210
+ORD100542,Nova Supply Co.,Steel Rods,100,1/15/2024,2024.03.20,26/02/2024,250.22,43070.6,EUR,Rail,Shipped,New York,100,5,7,5,Failed,1,2,COD,Pending,Medium,0.85,-1503
+ORD100543,Sunrise Traders,Plastic Sheets,50,15/02/2024,4/15/2024,1/24/2024,336.34,16817,EUR,Sea,Pending,Houston,20,5,5,5,Passed,0,3,COD,Unpaid,High,0.85,-1503
+ORD100544,Blue Ocean Ltd.,Steel Rods,167,2024.03.10,1/25/2024,26/02/2024,250.22,43070.6,USD,Sea,Cancelled,Los Angeles,10,10,7,5,Failed,1,3,Net 30,Unpaid,High,1,-1210
+ORD100545,Sunrise Traders,Industrial Paint,100,1/15/2024,25/02/2024,1/24/2024,180.04,18004,EUR,Sea,Shipped,Chicago,20,20,10,2,Passed,0,2,Net 60,Paid,High,0.85,-1788
+ORD100546,Global Supplies Inc.,Rubber Tires,100,15/02/2024,2024.03.20,4/18/2024,250.22,43070.6,USD,Sea,Cancelled,Miami,10,15,5,0,Passed,2,1,Net 60,Unpaid,Low,1,-1503
+ORD100547,Prime Logistics,Industrial Paint,500,1/15/2024,4/15/2024,26/02/2024,250.22,43070.6,EUR,Sea,Delivered,Chicago,20,5,7,0,Passed,0,4,COD,Paid,Medium,0.86,-1210
+ORD100548,Acme Corp.,Rubber Tires,167,2024.03.10,,26/02/2024,250.22,43070.6,EUR,Rail,Shipped,Chicago,10,10,5,2,Passed,1,3,COD,Paid,Medium,0.75,-1503
+ORD100549,Global Supplies Inc.,Packaging Boxes,50,1/15/2024,4/15/2024,1/24/2024,250.22,43070.6,EUR,Road,Shipped,Miami,0,10,3,0,Failed,2,4,Net 30,Paid,High,0.85,-1210
+ORD100550,Prime Logistics,Copper Wire,200,4/5/2024,2024.03.20,26/02/2024,260.8,52160,USD,Road,Cancelled,Los Angeles,36,20,6,2,Failed,2,4,Net 60,Unpaid,High,0.85,-1210
+ORD100551,Nova Supply Co.,Packaging Boxes,200,1/15/2024,25/02/2024,26/02/2024,426.31,85262,USD,Road,Shipped,New York,10,20,6,2,Passed,2,3,COD,Unpaid,Low,1,-1503
+ORD100552,Global Supplies Inc.,Electronic Components,500,2024.03.10,25/02/2024,1/24/2024,276.63,138315,USD,Rail,Pending,Houston,10,15,5,2,Passed,2,2,COD,Paid,High,0.85,-1788
+ORD100553,Nova Supply Co.,Plastic Sheets,167,2024.03.10,4/15/2024,2024.03.22,281.13,43070.6,USD,Air,Cancelled,Houston,10,10,3,2,Passed,1,5,Net 60,Unpaid,High,0.86,-1503
+ORD100554,Nova Supply Co.,Electronic Components,10,2024.03.10,25/02/2024,1/24/2024,250.22,43070.6,USD,Air,shipped,Los Angeles,50,5,6,0,Failed,1,2,COD,Paid,High,1,-1210
+ORD100555,Prime Logistics,Plastic Sheets,200,4/5/2024,25/02/2024,26/02/2024,250.22,43070.6,USD,Air,Delayed,New York,100,5,5,2,Passed,0,5,COD,Pending,High,0.85,-1788
+ORD100556,Nova Supply Co.,Industrial Paint,200,4/5/2024,1/25/2024,4/18/2024,250.22,43070.6,EUR,Sea,Delayed,Chicago,20,5,5,2,Passed,1,5,COD,Paid,High,0.85,-1503
+ORD100557,Prime Logistics,Plastic Sheets,50,15/02/2024,1/25/2024,26/02/2024,250.22,43070.6,USD,Rail,Pending,New York,100,10,6,1,Passed,0,4,Net 60,Paid,Medium,0.75,-1788
+ORD100558,Acme Corp.,Rubber Tires,500,15/02/2024,4/15/2024,4/18/2024,250.22,43070.6,USD,Rail,Cancelled,Chicago,0,10,10,2,Passed,0,5,Net 30,Pending,Low,0.85,-1210
+ORD100559,Nova Supply Co.,Industrial Paint,500,2024.03.10,,4/18/2024,250.22,43070.6,EUR,Air,Cancelled,Chicago,10,10,10,2,Failed,1,2,COD,Paid,Medium,0.86,-1210
+ORD100560,Nova Supply Co.,Copper Wire,10,4/5/2024,1/25/2024,2024.03.22,250.22,43070.6,EUR,Sea,Shipped,Los Angeles,100,10,10,5,Passed,1,5,Net 30,Paid,High,0.86,-1503
+ORD100561,Blue Ocean Ltd.,Industrial Paint,167,1/15/2024,1/25/2024,26/02/2024,107.66,43070.6,USD,Air,Shipped,New York,0,10,3,0,Passed,1,2,Net 60,Pending,Medium,0.86,-1503
+ORD100562,Blue Ocean Ltd.,Steel Rods,500,4/5/2024,,4/18/2024,250.22,43070.6,USD,Road,Shipped,Houston,36,10,3,0,Passed,1,4,Net 30,Pending,Medium,1,-1788
+ORD100563,Global Supplies Inc.,Industrial Paint,500,2024.03.10,,26/02/2024,250.22,43070.6,USD,Air,In Transit,Houston,0,20,5,2,Passed,1,1,COD,Paid,High,1,-1788
+ORD100564,Nova Supply Co.,Copper Wire,500,15/02/2024,4/15/2024,1/24/2024,176.27,88135,USD,Sea,Cancelled,Los Angeles,100,10,7,1,Failed,0,3,Net 30,Unpaid,High,0.85,-1210
+ORD100565,Nova Supply Co.,Packaging Boxes,10,4/5/2024,1/25/2024,1/24/2024,295.57,2955.7,USD,Air,Cancelled,New York,50,10,3,5,Failed,1,2,COD,Paid,Low,0.75,-1503
+ORD100566,Nova Supply Co.,Packaging Boxes,100,4/5/2024,2024.03.20,4/18/2024,197.03,19703,USD,Rail,shipped,Chicago,36,10,5,0,Passed,2,5,Net 60,Unpaid,Medium,0.86,-1788
+ORD100567,Acme Corp.,Industrial Paint,500,2024.03.10,1/25/2024,4/18/2024,219.58,109790,EUR,Sea,shipped,Miami,0,20,10,5,Failed,2,3,COD,Unpaid,Medium,0.85,-1210
+ORD100568,Nova Supply Co.,Electronic Components,100,1/15/2024,1/25/2024,2024.03.22,250.22,43070.6,USD,Rail,Shipped,Miami,100,15,3,1,Passed,1,1,COD,Pending,High,1,-1210
+ORD100569,Blue Ocean Ltd.,Rubber Tires,50,1/15/2024,2024.03.20,26/02/2024,250.22,43070.6,USD,Sea,In Transit,New York,10,15,3,5,Passed,1,3,Net 30,Paid,Medium,0.75,-1788
+ORD100570,Acme Corp.,Rubber Tires,50,1/15/2024,4/15/2024,1/24/2024,257.72,12886,EUR,Sea,In Transit,Miami,50,10,10,0,Failed,0,2,COD,Unpaid,Medium,0.75,-1210
+ORD100571,Nova Supply Co.,Plastic Sheets,50,1/15/2024,25/02/2024,1/24/2024,250.22,43070.6,USD,Sea,Shipped,New York,20,20,3,5,Passed,0,5,COD,Pending,Low,0.75,-1503
+ORD100572,Blue Ocean Ltd.,Copper Wire,10,1/15/2024,25/02/2024,1/24/2024,250.22,43070.6,EUR,Road,shipped,Miami,0,5,5,2,Failed,0,5,Net 60,Unpaid,Medium,1,-1788
+ORD100573,Global Supplies Inc.,Plastic Sheets,200,15/02/2024,1/25/2024,26/02/2024,311.61,62322,USD,Sea,shipped,Chicago,20,5,6,5,Passed,1,2,COD,Unpaid,High,0.75,-1788
+ORD100574,Blue Ocean Ltd.,Copper Wire,100,1/15/2024,4/15/2024,1/24/2024,250.22,43070.6,EUR,Sea,shipped,New York,36,10,5,2,Passed,0,1,Net 30,Paid,High,0.85,-1503
+ORD100575,Nova Supply Co.,Rubber Tires,200,2024.03.10,1/25/2024,4/18/2024,250.22,43070.6,USD,Sea,Shipped,Chicago,36,10,10,0,Failed,1,3,COD,Paid,Low,1,-1788
+ORD100576,Global Supplies Inc.,Steel Rods,500,15/02/2024,2024.03.20,1/24/2024,250.22,43070.6,EUR,Sea,In Transit,Miami,10,20,6,5,Passed,1,2,Net 30,Paid,High,0.75,-1210
+ORD100577,Blue Ocean Ltd.,Industrial Paint,10,4/5/2024,2024.03.20,1/24/2024,250.22,43070.6,USD,Road,Shipped,Houston,0,10,3,5,Passed,1,1,COD,Unpaid,High,0.75,-1210
+ORD100578,Acme Corp.,Copper Wire,10,15/02/2024,1/25/2024,1/24/2024,250.22,43070.6,USD,Rail,Delivered,Miami,0,5,10,0,Passed,2,2,Net 60,Pending,Medium,0.86,-1210
+ORD100579,Blue Ocean Ltd.,Industrial Paint,10,2024.03.10,4/15/2024,1/24/2024,250.22,43070.6,USD,Air,Delayed,Miami,20,10,5,1,Passed,1,5,COD,Unpaid,Low,0.75,-1210
+ORD100580,Nova Supply Co.,Packaging Boxes,200,1/15/2024,1/25/2024,2024.03.22,230.38,46076,USD,Air,Delivered,Chicago,20,10,10,1,Failed,0,2,Net 30,Pending,High,0.86,-1210
+ORD100581,Blue Ocean Ltd.,Electronic Components,500,1/15/2024,25/02/2024,26/02/2024,250.22,43070.6,USD,Air,Cancelled,Houston,20,20,6,2,Passed,1,4,Net 60,Unpaid,High,0.75,-1210
+ORD100582,Acme Corp.,Rubber Tires,500,15/02/2024,,1/24/2024,250.22,43070.6,USD,Sea,Shipped,New York,20,15,5,2,Passed,1,4,COD,Paid,Low,0.75,-1788
+ORD100583,Acme Corp.,Industrial Paint,100,15/02/2024,1/25/2024,1/24/2024,165.38,16538,USD,Air,In Transit,Los Angeles,0,10,5,2,Passed,1,3,COD,Unpaid,Low,0.85,-1210
+ORD100584,Nova Supply Co.,Industrial Paint,500,1/15/2024,4/15/2024,26/02/2024,317.25,158625,USD,Sea,shipped,Houston,10,5,7,2,Failed,1,3,COD,Paid,Low,0.85,-1210
+ORD100585,Prime Logistics,Rubber Tires,200,1/15/2024,,4/18/2024,250.22,43070.6,USD,Sea,Cancelled,Los Angeles,10,5,7,2,Passed,1,3,Net 60,Unpaid,High,0.85,-1503
+ORD100586,Blue Ocean Ltd.,Industrial Paint,100,1/15/2024,1/25/2024,2024.03.22,39.32,3932,USD,Road,In Transit,Houston,36,5,6,5,Passed,1,2,Net 30,Pending,High,0.86,-1503
+ORD100587,Acme Corp.,Copper Wire,200,15/02/2024,1/25/2024,2024.03.22,250.22,43070.6,USD,Sea,Cancelled,New York,36,10,5,2,Failed,1,5,COD,Paid,High,0.86,-1210
+ORD100588,Global Supplies Inc.,Rubber Tires,167,15/02/2024,25/02/2024,1/24/2024,250.22,43070.6,USD,Sea,In Transit,Los Angeles,100,10,10,0,Passed,2,5,COD,Paid,High,0.75,-1503
+ORD100589,Nova Supply Co.,Electronic Components,100,2024.03.10,25/02/2024,2024.03.22,250.22,43070.6,USD,Sea,Shipped,Chicago,50,5,5,2,Passed,1,1,COD,Paid,Medium,1,-1210
+ORD100590,Nova Supply Co.,Industrial Paint,50,1/15/2024,,1/24/2024,250.22,43070.6,USD,Air,In Transit,Los Angeles,10,15,5,5,Passed,1,4,Net 60,Paid,Low,1,-1788
+ORD100591,Nova Supply Co.,Plastic Sheets,100,15/02/2024,2024.03.20,2024.03.22,250.22,43070.6,USD,Rail,Pending,Miami,0,10,3,1,Failed,2,1,COD,Paid,Low,0.86,-1503
+ORD100592,Sunrise Traders,Plastic Sheets,500,15/02/2024,1/25/2024,26/02/2024,250.22,43070.6,USD,Air,Shipped,Houston,20,20,7,2,Failed,0,2,Net 60,Unpaid,Low,1,-1210
+ORD100593,Sunrise Traders,Copper Wire,100,15/02/2024,,26/02/2024,250.22,43070.6,USD,Sea,shipped,Houston,0,20,3,2,Passed,0,3,Net 60,Paid,Low,1,-1503
+ORD100594,Global Supplies Inc.,Copper Wire,100,4/5/2024,2024.03.20,1/24/2024,250.22,43070.6,USD,Sea,Delayed,New York,0,10,5,2,Passed,1,4,Net 60,Paid,High,1,-1503
+ORD100595,Nova Supply Co.,Rubber Tires,200,15/02/2024,4/15/2024,26/02/2024,250.22,43070.6,USD,Road,Shipped,Los Angeles,36,10,10,2,Passed,2,4,Net 60,Paid,High,0.85,-1210
+ORD100596,Nova Supply Co.,Industrial Paint,500,4/5/2024,4/15/2024,1/24/2024,250.22,43070.6,EUR,Sea,shipped,New York,50,20,7,2,Failed,1,2,Net 60,Paid,Low,0.85,-1503
+ORD100597,Nova Supply Co.,Electronic Components,50,4/5/2024,,1/24/2024,250.22,43070.6,USD,Sea,Shipped,New York,100,10,5,5,Failed,2,2,Net 60,Paid,Low,0.85,-1788
+ORD100598,Sunrise Traders,Copper Wire,200,1/15/2024,,26/02/2024,250.22,43070.6,EUR,Sea,Pending,Miami,36,5,3,5,Failed,1,1,COD,Paid,High,0.75,-1503
+ORD100599,Nova Supply Co.,Electronic Components,10,1/15/2024,2024.03.20,2024.03.22,21.87,218.7,USD,Rail,Delayed,Chicago,10,10,5,0,Failed,1,3,COD,Unpaid,Medium,1,-1210
+ORD100600,Sunrise Traders,Electronic Components,200,4/5/2024,1/25/2024,4/18/2024,85.71,17142,USD,Sea,Shipped,Los Angeles,100,5,6,0,Failed,2,5,Net 30,Paid,Low,0.75,-1210
+ORD100601,Nova Supply Co.,Industrial Paint,50,4/5/2024,,1/24/2024,250.22,43070.6,USD,Rail,Delivered,New York,100,5,5,5,Failed,1,3,COD,Paid,High,0.75,-1788
+ORD100602,Acme Corp.,Electronic Components,10,2024.03.10,,1/24/2024,89.74,897.4,USD,Sea,Cancelled,New York,10,5,6,0,Passed,2,5,Net 30,Unpaid,Medium,1,-1503
+ORD100603,Sunrise Traders,Industrial Paint,200,1/15/2024,4/15/2024,1/24/2024,250.22,43070.6,USD,Road,Pending,Miami,100,20,3,5,Failed,1,2,COD,Paid,Medium,1,-1210
+ORD100604,Nova Supply Co.,Plastic Sheets,167,15/02/2024,,1/24/2024,250.22,43070.6,USD,Sea,shipped,Miami,20,20,3,2,Passed,2,4,COD,Paid,High,1,-1503
+ORD100605,Nova Supply Co.,Copper Wire,100,1/15/2024,4/15/2024,2024.03.22,231.2,23120,USD,Air,Pending,Los Angeles,100,15,7,5,Failed,1,3,Net 30,Paid,Medium,0.75,-1210
+ORD100606,Acme Corp.,Plastic Sheets,500,4/5/2024,2024.03.20,4/18/2024,250.22,43070.6,USD,Sea,Delayed,Miami,36,10,6,1,Failed,1,4,Net 30,Unpaid,High,1,-1503
+ORD100607,Global Supplies Inc.,Electronic Components,50,4/5/2024,,4/18/2024,250.22,43070.6,USD,Air,Shipped,Los Angeles,10,10,5,1,Passed,2,2,COD,Unpaid,Low,1,-1503
+ORD100608,Prime Logistics,Plastic Sheets,500,1/15/2024,1/25/2024,4/18/2024,252.45,126225,EUR,Road,shipped,Los Angeles,10,20,6,0,Passed,0,1,Net 30,Pending,High,0.85,-1210
+ORD100609,Sunrise Traders,Electronic Components,50,2024.03.10,25/02/2024,1/24/2024,345.66,17283,EUR,Air,In Transit,Miami,0,10,6,1,Failed,1,1,Net 30,Unpaid,Medium,1,-1210
+ORD100610,Nova Supply Co.,Copper Wire,10,15/02/2024,25/02/2024,2024.03.22,250.22,43070.6,USD,Sea,In Transit,New York,10,10,7,0,Passed,2,3,COD,Paid,Medium,1,-1788
+ORD100611,Prime Logistics,Electronic Components,200,1/15/2024,2024.03.20,26/02/2024,400.01,80002,USD,Rail,Delivered,New York,50,10,5,2,Passed,1,4,Net 60,Pending,Medium,0.85,-1210
+ORD100612,Acme Corp.,Electronic Components,200,1/15/2024,,1/24/2024,314.51,62902,USD,Road,Delayed,Miami,10,20,3,2,Passed,0,3,COD,Paid,High,1,-1210
+ORD100613,Nova Supply Co.,Plastic Sheets,10,1/15/2024,2024.03.20,1/24/2024,42.26,422.6,EUR,Air,Delivered,New York,36,10,3,2,Failed,2,2,Net 30,Pending,Medium,0.75,-1788
+ORD100614,Sunrise Traders,Steel Rods,10,4/5/2024,2024.03.20,1/24/2024,250.22,43070.6,USD,Sea,shipped,New York,50,20,6,5,Passed,1,4,Net 30,Paid,Medium,0.86,-1210
+ORD100615,Global Supplies Inc.,Electronic Components,100,1/15/2024,2024.03.20,1/24/2024,460.55,46055,USD,Sea,shipped,Chicago,36,10,5,2,Failed,2,4,COD,Paid,High,0.86,-1503
+ORD100616,Blue Ocean Ltd.,Packaging Boxes,167,2024.03.10,25/02/2024,1/24/2024,250.22,43070.6,USD,Sea,Shipped,New York,20,15,6,0,Failed,1,1,COD,Unpaid,Low,1,-1788
+ORD100617,Global Supplies Inc.,Copper Wire,10,15/02/2024,1/25/2024,26/02/2024,250.22,43070.6,EUR,Air,Delivered,Chicago,100,15,3,2,Passed,1,4,Net 60,Pending,High,0.75,-1503
+ORD100618,Acme Corp.,Plastic Sheets,200,4/5/2024,25/02/2024,26/02/2024,403.39,80678,USD,Air,shipped,Miami,36,20,10,5,Passed,2,5,Net 60,Paid,High,0.85,-1788
+ORD100619,Global Supplies Inc.,Plastic Sheets,10,15/02/2024,25/02/2024,4/18/2024,250.22,43070.6,USD,Road,Pending,New York,100,5,6,2,Passed,1,2,COD,Unpaid,High,0.75,-1788
+ORD100620,Acme Corp.,Rubber Tires,10,1/15/2024,25/02/2024,1/24/2024,93.48,934.8,USD,Sea,Cancelled,New York,100,10,3,1,Failed,1,2,Net 30,Unpaid,Medium,0.85,-1210
+ORD100621,Acme Corp.,Copper Wire,500,1/15/2024,4/15/2024,1/24/2024,250.22,43070.6,EUR,Road,Delivered,New York,0,10,7,2,Passed,1,2,Net 30,Paid,High,1,-1788
+ORD100622,Prime Logistics,Rubber Tires,50,2024.03.10,4/15/2024,1/24/2024,250.22,43070.6,EUR,Sea,Pending,Chicago,100,10,3,2,Failed,1,3,COD,Paid,High,0.85,-1210
+ORD100623,Blue Ocean Ltd.,Rubber Tires,167,2024.03.10,4/15/2024,4/18/2024,250.22,43070.6,EUR,Rail,Pending,Houston,36,15,5,5,Passed,1,2,COD,Unpaid,High,0.75,-1210
+ORD100624,Sunrise Traders,Plastic Sheets,200,15/02/2024,1/25/2024,2024.03.22,250.22,43070.6,USD,Sea,Pending,Chicago,50,15,7,1,Passed,1,4,Net 60,Unpaid,High,0.86,-1788
+ORD100625,Nova Supply Co.,Industrial Paint,200,15/02/2024,,1/24/2024,250.22,43070.6,USD,Road,Pending,New York,100,10,5,2,Passed,2,2,Net 30,Unpaid,High,1,-1503
+ORD100626,Sunrise Traders,Industrial Paint,167,1/15/2024,2024.03.20,1/24/2024,232.07,43070.6,EUR,Air,Shipped,New York,20,5,6,2,Failed,1,2,Net 30,Paid,High,1,-1788
+ORD100627,Global Supplies Inc.,Rubber Tires,100,15/02/2024,25/02/2024,1/24/2024,374.11,37411,EUR,Rail,Delivered,New York,0,20,3,1,Failed,2,5,COD,Pending,Medium,1,-1210
+ORD100628,Blue Ocean Ltd.,Electronic Components,200,4/5/2024,,4/18/2024,19.79,3958,EUR,Sea,Shipped,New York,50,5,10,0,Passed,2,3,Net 60,Unpaid,Medium,0.75,-1210
+ORD100629,Global Supplies Inc.,Copper Wire,10,1/15/2024,25/02/2024,2024.03.22,127.34,1273.4,USD,Sea,Pending,Miami,50,20,6,2,Passed,1,3,Net 30,Paid,High,0.86,-1503
+ORD100630,Nova Supply Co.,Packaging Boxes,10,15/02/2024,25/02/2024,1/24/2024,357.1,3571,USD,Road,Shipped,New York,20,20,10,0,Failed,2,1,COD,Pending,High,0.75,-1210
+ORD100631,Blue Ocean Ltd.,Plastic Sheets,100,15/02/2024,,26/02/2024,250.22,43070.6,EUR,Sea,In Transit,Houston,10,10,5,2,Passed,1,1,Net 30,Pending,High,0.75,-1788
+ORD100632,Acme Corp.,Packaging Boxes,100,1/15/2024,,4/18/2024,250.22,43070.6,USD,Air,Cancelled,Miami,10,20,5,2,Passed,1,3,Net 30,Pending,High,0.85,-1788
+ORD100633,Sunrise Traders,Industrial Paint,167,4/5/2024,4/15/2024,2024.03.22,250.22,43070.6,USD,Air,Pending,Los Angeles,0,10,5,2,Passed,0,3,Net 60,Pending,High,0.75,-1210
+ORD100634,Prime Logistics,Industrial Paint,100,15/02/2024,,2024.03.22,250.22,43070.6,USD,Sea,shipped,Los Angeles,36,20,7,2,Passed,1,1,COD,Paid,High,0.86,-1503
+ORD100635,Acme Corp.,Electronic Components,200,1/15/2024,1/25/2024,1/24/2024,250.22,43070.6,USD,Rail,Cancelled,Miami,50,10,7,0,Passed,2,3,Net 30,Paid,High,0.85,-1788
+ORD100636,Acme Corp.,Electronic Components,100,1/15/2024,,26/02/2024,250.22,43070.6,EUR,Sea,Shipped,Miami,100,10,6,0,Failed,1,3,COD,Paid,High,0.85,-1503
+ORD100637,Sunrise Traders,Packaging Boxes,500,2024.03.10,1/25/2024,4/18/2024,250.22,43070.6,USD,Road,Pending,New York,50,15,10,1,Failed,2,4,Net 60,Pending,Low,0.75,-1210
+ORD100638,Prime Logistics,Electronic Components,10,15/02/2024,1/25/2024,26/02/2024,250.22,43070.6,USD,Road,shipped,Chicago,100,5,10,5,Passed,1,3,Net 30,Unpaid,High,0.85,-1210
+ORD100639,Prime Logistics,Industrial Paint,167,1/15/2024,,1/24/2024,250.22,43070.6,EUR,Air,In Transit,Chicago,36,10,5,5,Passed,2,2,COD,Paid,Medium,0.85,-1503
+ORD100640,Acme Corp.,Plastic Sheets,200,1/15/2024,2024.03.20,2024.03.22,11.51,2302,USD,Road,Pending,New York,20,15,10,2,Passed,0,2,Net 60,Unpaid,High,0.75,-1210
+ORD100641,Acme Corp.,Plastic Sheets,10,1/15/2024,1/25/2024,1/24/2024,162.06,1620.6,USD,Rail,In Transit,Houston,50,10,7,1,Passed,2,3,Net 60,Pending,High,1,-1503
+ORD100642,Blue Ocean Ltd.,Electronic Components,500,4/5/2024,1/25/2024,4/18/2024,250.22,43070.6,USD,Rail,Pending,Houston,100,15,5,1,Failed,2,5,Net 30,Paid,Low,0.85,-1788
+ORD100643,Nova Supply Co.,Rubber Tires,167,1/15/2024,25/02/2024,4/18/2024,164.76,43070.6,EUR,Rail,Delivered,Houston,100,10,5,2,Failed,1,3,COD,Paid,Medium,1,-1503
+ORD100644,Global Supplies Inc.,Electronic Components,10,1/15/2024,4/15/2024,26/02/2024,61.2,612,USD,Rail,Cancelled,New York,100,10,5,5,Passed,0,2,COD,Pending,High,0.86,-1503
+ORD100645,Nova Supply Co.,Industrial Paint,167,15/02/2024,2024.03.20,2024.03.22,250.22,43070.6,USD,Sea,shipped,Chicago,10,15,10,0,Passed,1,4,Net 60,Paid,High,0.85,-1503
+ORD100646,Global Supplies Inc.,Rubber Tires,167,1/15/2024,2024.03.20,4/18/2024,250.22,43070.6,EUR,Sea,shipped,New York,0,10,3,5,Passed,1,5,COD,Paid,High,0.75,-1788
+ORD100647,Blue Ocean Ltd.,Rubber Tires,50,1/15/2024,1/25/2024,1/24/2024,250.22,43070.6,USD,Air,shipped,New York,10,5,3,1,Passed,0,2,Net 60,Paid,Low,0.75,-1210
+ORD100648,Sunrise Traders,Industrial Paint,500,1/15/2024,1/25/2024,1/24/2024,394.9,197450,EUR,Air,Shipped,Houston,50,10,10,2,Failed,0,1,Net 30,Unpaid,Medium,1,-1503
+ORD100649,Blue Ocean Ltd.,Rubber Tires,200,4/5/2024,,26/02/2024,250.22,43070.6,EUR,Rail,shipped,Houston,0,10,5,2,Failed,1,5,COD,Pending,Medium,0.86,-1210
+ORD100650,Nova Supply Co.,Industrial Paint,167,15/02/2024,,1/24/2024,44.83,43070.6,EUR,Air,In Transit,Chicago,0,5,3,2,Failed,0,3,Net 30,Pending,Low,0.75,-1788
+ORD100651,Blue Ocean Ltd.,Rubber Tires,50,4/5/2024,2024.03.20,1/24/2024,250.22,43070.6,USD,Road,Delivered,Houston,20,20,6,2,Passed,2,4,Net 30,Paid,High,0.86,-1503
+ORD100652,Nova Supply Co.,Steel Rods,200,2024.03.10,,1/24/2024,294.04,58808,USD,Sea,Pending,Houston,0,10,5,1,Passed,1,3,Net 30,Unpaid,Low,0.85,-1210
+ORD100653,Nova Supply Co.,Steel Rods,500,1/15/2024,,1/24/2024,373.1,186550,EUR,Sea,In Transit,Chicago,0,10,6,0,Failed,1,2,COD,Unpaid,Medium,0.85,-1503
+ORD100654,Nova Supply Co.,Electronic Components,50,2024.03.10,1/25/2024,4/18/2024,250.22,43070.6,USD,Sea,Delayed,Los Angeles,10,5,5,0,Failed,2,3,COD,Paid,High,1,-1210
+ORD100655,Acme Corp.,Electronic Components,200,15/02/2024,4/15/2024,2024.03.22,250.22,43070.6,USD,Air,In Transit,Los Angeles,50,5,3,2,Passed,2,5,COD,Pending,High,1,-1503
+ORD100656,Nova Supply Co.,Rubber Tires,167,4/5/2024,4/15/2024,26/02/2024,142.96,43070.6,USD,Air,Delivered,New York,0,10,5,0,Passed,1,3,Net 30,Paid,High,0.75,-1788
+ORD100657,Global Supplies Inc.,Industrial Paint,167,2024.03.10,25/02/2024,4/18/2024,250.22,43070.6,USD,Air,Cancelled,Los Angeles,0,10,10,1,Failed,0,5,Net 30,Paid,High,0.85,-1503
+ORD100658,Nova Supply Co.,Industrial Paint,100,1/15/2024,2024.03.20,2024.03.22,250.22,43070.6,USD,Road,Cancelled,Chicago,50,10,7,1,Passed,1,4,Net 30,Pending,High,1,-1210
+ORD100659,Global Supplies Inc.,Electronic Components,500,4/5/2024,,2024.03.22,286.03,143015,USD,Sea,Delayed,New York,0,10,6,5,Failed,0,5,COD,Unpaid,High,0.85,-1210
+ORD100660,Global Supplies Inc.,Packaging Boxes,100,4/5/2024,2024.03.20,1/24/2024,250.22,43070.6,USD,Sea,Shipped,Los Angeles,50,20,3,1,Failed,2,3,COD,Unpaid,High,0.75,-1788
+ORD100661,Blue Ocean Ltd.,Packaging Boxes,200,15/02/2024,25/02/2024,1/24/2024,250.22,43070.6,USD,Sea,Shipped,New York,36,5,6,2,Passed,2,3,Net 60,Paid,Medium,0.86,-1210
+ORD100662,Blue Ocean Ltd.,Plastic Sheets,500,4/5/2024,4/15/2024,1/24/2024,250.22,43070.6,EUR,Sea,In Transit,Miami,0,5,10,5,Passed,2,3,Net 60,Paid,Medium,0.85,-1210
+ORD100663,Sunrise Traders,Plastic Sheets,500,4/5/2024,1/25/2024,4/18/2024,119.76,59880,EUR,Sea,Delivered,Houston,36,10,6,2,Failed,1,1,Net 30,Paid,High,1,-1210
+ORD100664,Global Supplies Inc.,Steel Rods,50,2024.03.10,,26/02/2024,52.24,2612,USD,Sea,shipped,Chicago,20,15,7,1,Passed,1,3,COD,Pending,High,0.75,-1210
+ORD100665,Sunrise Traders,Rubber Tires,200,2024.03.10,2024.03.20,2024.03.22,250.22,43070.6,USD,Rail,Pending,Los Angeles,36,15,7,0,Passed,2,3,Net 60,Pending,High,0.75,-1788
+ORD100666,Global Supplies Inc.,Industrial Paint,200,2024.03.10,,2024.03.22,124.11,24822,USD,Air,Pending,Houston,50,15,10,0,Failed,1,3,COD,Paid,Low,1,-1210
+ORD100667,Acme Corp.,Industrial Paint,50,4/5/2024,,1/24/2024,81.6,4080,USD,Rail,Cancelled,Houston,10,20,7,2,Failed,1,3,COD,Paid,High,0.86,-1503
+ORD100668,Acme Corp.,Industrial Paint,50,1/15/2024,1/25/2024,1/24/2024,94.5,4725,USD,Rail,Pending,Chicago,50,5,7,2,Failed,1,3,Net 60,Paid,High,1,-1788
+ORD100669,Sunrise Traders,Industrial Paint,167,15/02/2024,1/25/2024,2024.03.22,143.62,43070.6,USD,Air,Delayed,Los Angeles,100,20,10,5,Passed,2,3,COD,Pending,Medium,0.86,-1788
+ORD100670,Nova Supply Co.,Industrial Paint,500,2024.03.10,2024.03.20,2024.03.22,87.93,43965,USD,Road,shipped,New York,10,5,6,2,Passed,0,3,Net 30,Pending,Low,1,-1210
+ORD100671,Global Supplies Inc.,Plastic Sheets,200,15/02/2024,25/02/2024,2024.03.22,448.54,89708,EUR,Rail,Delayed,Miami,50,5,6,5,Passed,1,2,COD,Unpaid,High,1,-1210
+ORD100672,Acme Corp.,Steel Rods,100,15/02/2024,2024.03.20,2024.03.22,250.22,43070.6,USD,Road,shipped,Chicago,20,5,10,1,Passed,1,5,Net 60,Unpaid,High,0.85,-1788
+ORD100673,Acme Corp.,Electronic Components,100,4/5/2024,,4/18/2024,262.97,26297,EUR,Rail,Delivered,Los Angeles,36,5,6,2,Passed,0,3,COD,Paid,High,0.75,-1788
+ORD100674,Nova Supply Co.,Plastic Sheets,50,1/15/2024,1/25/2024,4/18/2024,206.08,10304,USD,Sea,Shipped,Chicago,100,15,6,2,Passed,1,5,COD,Unpaid,High,0.75,-1210
+ORD100675,Prime Logistics,Industrial Paint,10,4/5/2024,1/25/2024,2024.03.22,491.22,4912.2,EUR,Air,Pending,Chicago,0,10,3,5,Passed,1,3,Net 30,Paid,Medium,0.85,-1503
+ORD100676,Blue Ocean Ltd.,Plastic Sheets,167,1/15/2024,4/15/2024,2024.03.22,57.35,43070.6,USD,Road,Delivered,Miami,100,5,5,1,Failed,1,5,COD,Unpaid,Medium,0.86,-1503
+ORD100677,Global Supplies Inc.,Packaging Boxes,167,2024.03.10,2024.03.20,26/02/2024,250.22,43070.6,USD,Rail,Pending,New York,20,20,10,2,Passed,0,4,COD,Paid,High,1,-1788
+ORD100678,Acme Corp.,Plastic Sheets,100,2024.03.10,25/02/2024,1/24/2024,250.22,43070.6,USD,Sea,Shipped,Los Angeles,36,10,6,1,Passed,1,5,COD,Paid,Medium,0.86,-1788
+ORD100679,Nova Supply Co.,Copper Wire,500,4/5/2024,,1/24/2024,432.96,216480,USD,Sea,Pending,Los Angeles,20,5,3,1,Passed,2,1,COD,Pending,Low,1,-1210
+ORD100680,Global Supplies Inc.,Industrial Paint,167,1/15/2024,25/02/2024,4/18/2024,408.81,43070.6,USD,Road,Delayed,New York,20,10,10,1,Passed,1,1,COD,Paid,Low,0.85,-1503
+ORD100681,Blue Ocean Ltd.,Industrial Paint,10,4/5/2024,1/25/2024,26/02/2024,130.06,1300.6,USD,Road,Delayed,New York,50,10,10,5,Passed,2,2,Net 30,Paid,Medium,0.85,-1788
+ORD100682,Sunrise Traders,Rubber Tires,167,4/5/2024,1/25/2024,1/24/2024,250.22,43070.6,EUR,Rail,shipped,Miami,20,10,6,1,Passed,1,5,COD,Paid,High,0.85,-1210
+ORD100683,Nova Supply Co.,Packaging Boxes,500,15/02/2024,,4/18/2024,250.22,43070.6,USD,Rail,Cancelled,Los Angeles,10,20,7,1,Passed,1,3,COD,Paid,Medium,0.75,-1210
+ORD100684,Blue Ocean Ltd.,Industrial Paint,10,2024.03.10,,26/02/2024,250.22,43070.6,EUR,Sea,Pending,Los Angeles,50,15,3,2,Passed,1,2,COD,Paid,High,0.85,-1788
+ORD100685,Prime Logistics,Packaging Boxes,200,4/5/2024,25/02/2024,2024.03.22,250.22,43070.6,USD,Rail,Delayed,New York,50,15,7,2,Passed,1,5,Net 60,Paid,Low,0.75,-1210
+ORD100686,Nova Supply Co.,Industrial Paint,500,1/15/2024,1/25/2024,1/24/2024,286.45,143225,USD,Rail,Delayed,New York,100,15,3,1,Passed,1,5,Net 60,Paid,Medium,0.86,-1210
+ORD100687,Global Supplies Inc.,Electronic Components,500,4/5/2024,,1/24/2024,250.22,43070.6,USD,Road,Delayed,Houston,36,5,5,5,Passed,1,2,COD,Paid,Low,1,-1788
+ORD100688,Nova Supply Co.,Rubber Tires,200,4/5/2024,4/15/2024,4/18/2024,385.09,77018,USD,Road,Shipped,New York,100,15,3,1,Passed,1,3,COD,Unpaid,High,0.85,-1210
+ORD100689,Nova Supply Co.,Industrial Paint,50,15/02/2024,,2024.03.22,94.74,4737,USD,Sea,In Transit,New York,50,10,3,2,Failed,0,5,COD,Unpaid,High,1,-1503
+ORD100690,Acme Corp.,Industrial Paint,10,4/5/2024,4/15/2024,1/24/2024,162.85,1628.5,USD,Air,Delayed,Houston,20,10,6,2,Passed,1,4,COD,Paid,Low,0.85,-1788
+ORD100691,Prime Logistics,Industrial Paint,10,4/5/2024,1/25/2024,1/24/2024,213.58,2135.8,USD,Rail,Pending,New York,100,5,5,5,Passed,1,3,Net 60,Paid,Medium,0.75,-1210
+ORD100692,Nova Supply Co.,Rubber Tires,167,4/5/2024,4/15/2024,1/24/2024,250.22,43070.6,USD,Rail,Pending,New York,10,5,5,0,Passed,1,3,COD,Paid,Medium,0.85,-1210
+ORD100693,Acme Corp.,Industrial Paint,500,1/15/2024,2024.03.20,26/02/2024,122.34,61170,USD,Rail,Delayed,Miami,36,10,10,5,Failed,1,4,COD,Pending,Low,1,-1503
+ORD100694,Blue Ocean Ltd.,Industrial Paint,50,15/02/2024,25/02/2024,26/02/2024,250.22,43070.6,USD,Sea,Delivered,Los Angeles,50,10,6,5,Failed,1,2,COD,Pending,Medium,1,-1503
+ORD100695,Prime Logistics,Packaging Boxes,500,4/5/2024,,2024.03.22,305.89,152945,USD,Sea,Shipped,Miami,0,5,3,0,Passed,1,4,Net 60,Unpaid,Low,1,-1503
+ORD100696,Prime Logistics,Steel Rods,200,1/15/2024,1/25/2024,2024.03.22,250.22,43070.6,USD,Sea,Shipped,Houston,0,20,7,1,Passed,1,1,COD,Paid,Medium,1,-1503
+ORD100697,Blue Ocean Ltd.,Plastic Sheets,100,1/15/2024,1/25/2024,1/24/2024,291.25,29125,USD,Rail,Delayed,New York,0,20,3,0,Failed,1,2,Net 30,Paid,Medium,0.75,-1788
+ORD100698,Prime Logistics,Electronic Components,100,1/15/2024,2024.03.20,2024.03.22,250.22,43070.6,USD,Road,Pending,New York,20,5,7,2,Failed,0,3,Net 30,Paid,Low,0.75,-1503
+ORD100699,Blue Ocean Ltd.,Packaging Boxes,500,4/5/2024,2024.03.20,1/24/2024,241.35,120675,EUR,Sea,Delayed,New York,100,15,7,0,Passed,2,1,Net 60,Unpaid,Medium,0.85,-1788
+ORD100700,Global Supplies Inc.,Industrial Paint,50,4/5/2024,4/15/2024,1/24/2024,267,13350,USD,Sea,Delayed,Houston,20,15,5,0,Passed,2,1,Net 60,Pending,Low,0.75,-1788
+ORD100701,Sunrise Traders,Industrial Paint,500,1/15/2024,25/02/2024,1/24/2024,27.33,13665,EUR,Air,In Transit,New York,50,5,6,1,Failed,1,3,COD,Unpaid,High,0.75,-1503
+ORD100702,Acme Corp.,Industrial Paint,50,1/15/2024,2024.03.20,1/24/2024,250.22,43070.6,USD,Rail,In Transit,Los Angeles,100,15,6,0,Passed,1,4,COD,Unpaid,High,0.86,-1503
+ORD100703,Prime Logistics,Plastic Sheets,10,1/15/2024,2024.03.20,26/02/2024,68.51,685.1,USD,Sea,In Transit,Miami,50,10,7,1,Failed,2,5,COD,Paid,Medium,0.75,-1788
+ORD100704,Nova Supply Co.,Rubber Tires,200,15/02/2024,25/02/2024,1/24/2024,250.22,43070.6,USD,Rail,Delayed,New York,0,10,6,2,Passed,0,3,Net 60,Unpaid,Medium,0.75,-1503
+ORD100705,Acme Corp.,Steel Rods,200,4/5/2024,4/15/2024,2024.03.22,495,99000,EUR,Sea,Delayed,Chicago,100,10,5,2,Passed,0,3,Net 60,Paid,Medium,1,-1503
+ORD100706,Blue Ocean Ltd.,Industrial Paint,200,4/5/2024,4/15/2024,1/24/2024,162.19,32438,EUR,Rail,Delivered,Miami,0,10,7,0,Passed,0,4,Net 60,Paid,Low,1,-1788
+ORD100707,Sunrise Traders,Rubber Tires,500,1/15/2024,2024.03.20,2024.03.22,250.22,43070.6,USD,Air,Delayed,Chicago,20,10,7,2,Passed,1,5,Net 60,Unpaid,Low,0.86,-1210
+ORD100708,Sunrise Traders,Electronic Components,200,1/15/2024,2024.03.20,4/18/2024,250.22,43070.6,EUR,Air,Shipped,New York,36,15,10,0,Failed,0,1,Net 60,Pending,High,0.86,-1210
+ORD100709,Nova Supply Co.,Rubber Tires,500,1/15/2024,25/02/2024,1/24/2024,341.23,170615,USD,Road,In Transit,Miami,100,15,7,1,Passed,1,1,Net 60,Pending,Low,0.75,-1210
+ORD100710,Blue Ocean Ltd.,Steel Rods,167,2024.03.10,,1/24/2024,380.47,43070.6,EUR,Road,shipped,New York,36,15,10,5,Failed,2,4,COD,Paid,Medium,1,-1788
+ORD100711,Sunrise Traders,Steel Rods,50,2024.03.10,25/02/2024,1/24/2024,250.22,43070.6,EUR,Rail,shipped,Chicago,20,5,10,0,Passed,2,3,Net 60,Paid,High,0.85,-1503
+ORD100712,Sunrise Traders,Industrial Paint,10,2024.03.10,4/15/2024,1/24/2024,236.58,2365.8,USD,Air,Delayed,Chicago,36,5,3,1,Passed,1,1,Net 60,Paid,Low,0.86,-1210
+ORD100713,Acme Corp.,Steel Rods,167,15/02/2024,25/02/2024,1/24/2024,250.22,43070.6,EUR,Rail,Delayed,New York,100,5,3,0,Passed,1,4,Net 30,Paid,Medium,0.75,-1788
+ORD100714,Global Supplies Inc.,Packaging Boxes,200,4/5/2024,2024.03.20,1/24/2024,250.22,43070.6,USD,Rail,Delayed,Chicago,20,10,6,5,Passed,1,3,COD,Paid,Low,0.75,-1210
+ORD100715,Sunrise Traders,Rubber Tires,10,2024.03.10,1/25/2024,2024.03.22,250.22,43070.6,EUR,Sea,Shipped,New York,20,15,3,2,Passed,1,1,COD,Pending,High,0.75,-1788
+ORD100716,Nova Supply Co.,Steel Rods,200,2024.03.10,1/25/2024,4/18/2024,250.22,43070.6,USD,Air,shipped,Houston,0,20,5,5,Passed,1,3,COD,Paid,Low,0.85,-1503
+ORD100717,Global Supplies Inc.,Electronic Components,100,1/15/2024,25/02/2024,2024.03.22,482.57,48257,USD,Rail,shipped,New York,10,10,6,1,Passed,1,2,COD,Pending,Medium,0.86,-1503
+ORD100718,Nova Supply Co.,Plastic Sheets,200,2024.03.10,4/15/2024,4/18/2024,63.46,12692,EUR,Sea,In Transit,Chicago,100,5,6,1,Passed,0,4,Net 30,Paid,High,0.85,-1210
+ORD100719,Sunrise Traders,Rubber Tires,167,2024.03.10,25/02/2024,1/24/2024,365.84,43070.6,USD,Sea,Delivered,Houston,100,15,7,2,Passed,2,3,COD,Paid,Low,0.75,-1788
+ORD100720,Prime Logistics,Plastic Sheets,500,1/15/2024,1/25/2024,26/02/2024,469.26,234630,USD,Rail,Pending,Chicago,20,10,6,5,Passed,1,5,Net 60,Paid,Medium,1,-1503
+ORD100721,Global Supplies Inc.,Packaging Boxes,200,1/15/2024,25/02/2024,2024.03.22,91.84,18368,USD,Road,shipped,New York,36,15,7,1,Passed,1,3,Net 60,Pending,High,0.85,-1210
+ORD100722,Global Supplies Inc.,Plastic Sheets,50,15/02/2024,1/25/2024,2024.03.22,250.22,43070.6,USD,Sea,shipped,Miami,50,15,5,5,Failed,2,3,COD,Paid,Medium,0.75,-1788
+ORD100723,Blue Ocean Ltd.,Steel Rods,100,2024.03.10,4/15/2024,1/24/2024,370.95,37095,EUR,Sea,Delivered,Miami,36,10,7,1,Failed,1,5,Net 30,Paid,High,0.75,-1503
+ORD100724,Acme Corp.,Plastic Sheets,500,15/02/2024,,1/24/2024,287.87,143935,EUR,Sea,Pending,Chicago,50,15,5,2,Passed,2,2,COD,Unpaid,High,0.86,-1788
+ORD100725,Nova Supply Co.,Packaging Boxes,10,15/02/2024,4/15/2024,26/02/2024,421.15,4211.5,EUR,Rail,Delivered,Chicago,50,5,10,1,Failed,0,2,COD,Unpaid,High,0.75,-1210
+ORD100726,Global Supplies Inc.,Plastic Sheets,500,1/15/2024,4/15/2024,26/02/2024,250.22,43070.6,EUR,Air,shipped,New York,50,10,6,1,Passed,1,2,COD,Pending,High,1,-1503
+ORD100727,Sunrise Traders,Industrial Paint,10,2024.03.10,,1/24/2024,397.94,3979.4,USD,Air,Shipped,New York,0,10,3,2,Passed,0,2,Net 30,Pending,Medium,0.75,-1210
+ORD100728,Prime Logistics,Copper Wire,100,1/15/2024,1/25/2024,26/02/2024,250.22,43070.6,USD,Road,shipped,Houston,100,5,10,1,Passed,1,4,COD,Unpaid,High,0.85,-1503
+ORD100729,Sunrise Traders,Industrial Paint,200,1/15/2024,4/15/2024,4/18/2024,250.22,43070.6,USD,Rail,In Transit,New York,50,10,5,5,Passed,1,1,Net 60,Unpaid,Low,0.75,-1503
+ORD100730,Nova Supply Co.,Packaging Boxes,167,1/15/2024,25/02/2024,1/24/2024,250.22,43070.6,EUR,Sea,Delivered,Chicago,0,15,3,5,Passed,1,5,Net 30,Pending,High,1,-1503
+ORD100731,Nova Supply Co.,Electronic Components,167,1/15/2024,,1/24/2024,250.22,43070.6,USD,Rail,shipped,Houston,0,5,10,2,Passed,1,4,COD,Unpaid,Medium,0.75,-1503
+ORD100732,Acme Corp.,Copper Wire,200,2024.03.10,25/02/2024,1/24/2024,333.1,66620,USD,Rail,Delayed,New York,10,10,5,2,Passed,1,4,COD,Paid,Low,0.75,-1788
+ORD100733,Global Supplies Inc.,Industrial Paint,100,15/02/2024,1/25/2024,4/18/2024,250.22,43070.6,USD,Rail,Shipped,Los Angeles,100,5,6,2,Passed,1,1,COD,Unpaid,High,0.85,-1503
+ORD100734,Nova Supply Co.,Plastic Sheets,100,4/5/2024,1/25/2024,1/24/2024,250.22,43070.6,USD,Rail,Shipped,Miami,36,10,5,0,Passed,1,3,Net 60,Paid,High,1,-1210
+ORD100735,Sunrise Traders,Packaging Boxes,167,2024.03.10,4/15/2024,26/02/2024,250.22,43070.6,USD,Sea,Delayed,New York,20,10,6,2,Passed,1,2,Net 60,Pending,Medium,0.85,-1503
+ORD100736,Nova Supply Co.,Industrial Paint,50,15/02/2024,25/02/2024,2024.03.22,197.13,9856.5,USD,Rail,Pending,New York,50,5,7,5,Passed,1,2,COD,Paid,High,0.85,-1503
+ORD100737,Prime Logistics,Industrial Paint,167,1/15/2024,2024.03.20,2024.03.22,408.57,43070.6,USD,Sea,Pending,Miami,10,5,3,0,Passed,2,1,COD,Paid,Low,0.86,-1503
+ORD100738,Nova Supply Co.,Industrial Paint,50,1/15/2024,25/02/2024,4/18/2024,220.41,11020.5,USD,Rail,shipped,Chicago,36,10,6,0,Passed,2,2,Net 60,Unpaid,Medium,1,-1210
+ORD100739,Global Supplies Inc.,Electronic Components,10,2024.03.10,2024.03.20,2024.03.22,189.41,1894.1,EUR,Air,Cancelled,New York,50,5,5,0,Passed,1,1,COD,Pending,High,0.86,-1503
+ORD100740,Prime Logistics,Steel Rods,167,1/15/2024,1/25/2024,1/24/2024,232.15,43070.6,USD,Air,Delayed,Los Angeles,50,5,3,0,Failed,1,2,Net 60,Paid,High,0.75,-1503
+ORD100741,Blue Ocean Ltd.,Copper Wire,50,1/15/2024,2024.03.20,1/24/2024,250.22,43070.6,USD,Rail,Delayed,Chicago,36,15,10,2,Passed,0,1,Net 30,Paid,High,0.86,-1210
+ORD100742,Blue Ocean Ltd.,Plastic Sheets,10,2024.03.10,2024.03.20,4/18/2024,250.22,43070.6,EUR,Air,Delayed,Chicago,20,10,3,2,Passed,0,5,COD,Pending,High,0.75,-1503
+ORD100743,Prime Logistics,Copper Wire,200,2024.03.10,2024.03.20,1/24/2024,250.22,43070.6,EUR,Road,Delivered,Houston,0,5,7,1,Failed,1,2,Net 60,Pending,High,0.85,-1503
+ORD100744,Global Supplies Inc.,Copper Wire,50,2024.03.10,25/02/2024,1/24/2024,117.26,5863,EUR,Sea,In Transit,Miami,36,10,10,5,Passed,0,3,Net 30,Unpaid,High,0.75,-1788
+ORD100745,Sunrise Traders,Plastic Sheets,50,4/5/2024,25/02/2024,26/02/2024,250.22,43070.6,USD,Sea,shipped,Chicago,0,10,7,0,Passed,1,1,Net 30,Unpaid,Low,0.86,-1788
+ORD100746,Global Supplies Inc.,Plastic Sheets,200,1/15/2024,4/15/2024,4/18/2024,192.87,38574,USD,Sea,Pending,Miami,0,5,7,2,Failed,0,3,Net 30,Unpaid,High,0.86,-1503
+ORD100747,Blue Ocean Ltd.,Industrial Paint,200,2024.03.10,4/15/2024,1/24/2024,272.46,54492,EUR,Sea,shipped,New York,100,10,3,2,Failed,1,3,COD,Unpaid,Medium,0.85,-1788
+ORD100748,Sunrise Traders,Plastic Sheets,200,1/15/2024,25/02/2024,1/24/2024,250.22,43070.6,EUR,Air,shipped,Miami,100,10,6,1,Failed,1,4,COD,Pending,High,0.85,-1503
+ORD100749,Nova Supply Co.,Steel Rods,500,4/5/2024,25/02/2024,2024.03.22,250.22,43070.6,EUR,Air,Delivered,New York,36,10,10,0,Failed,0,4,Net 30,Paid,High,0.86,-1503
+ORD100750,Sunrise Traders,Packaging Boxes,10,1/15/2024,1/25/2024,26/02/2024,59.77,597.7,USD,Sea,Cancelled,Miami,36,5,7,5,Passed,1,5,COD,Paid,High,0.86,-1210
+ORD100751,Blue Ocean Ltd.,Industrial Paint,500,1/15/2024,,4/18/2024,470.01,235005,EUR,Rail,Delivered,Miami,0,10,10,0,Passed,0,5,COD,Paid,High,0.75,-1788
+ORD100752,Blue Ocean Ltd.,Steel Rods,167,15/02/2024,2024.03.20,1/24/2024,314.41,43070.6,USD,Sea,In Transit,Houston,50,15,7,2,Passed,1,3,Net 60,Unpaid,Medium,0.85,-1503
+ORD100753,Blue Ocean Ltd.,Steel Rods,50,2024.03.10,1/25/2024,26/02/2024,168.45,8422.5,EUR,Sea,Cancelled,Miami,20,20,3,2,Passed,0,2,Net 30,Paid,Medium,1,-1210
+ORD100754,Blue Ocean Ltd.,Industrial Paint,50,2024.03.10,1/25/2024,1/24/2024,250.22,43070.6,USD,Sea,Pending,Los Angeles,0,15,10,2,Passed,1,1,Net 60,Unpaid,High,0.86,-1788
+ORD100755,Global Supplies Inc.,Industrial Paint,100,1/15/2024,4/15/2024,26/02/2024,397.32,39732,USD,Air,Cancelled,Houston,20,10,3,2,Passed,1,3,Net 60,Paid,Medium,0.75,-1210
+ORD100756,Global Supplies Inc.,Industrial Paint,100,1/15/2024,25/02/2024,1/24/2024,250.22,43070.6,USD,Air,Delivered,New York,10,20,10,2,Passed,0,2,Net 60,Paid,Medium,0.75,-1210
+ORD100757,Nova Supply Co.,Copper Wire,200,1/15/2024,1/25/2024,26/02/2024,250.22,43070.6,USD,Sea,In Transit,Miami,0,10,5,5,Failed,1,3,Net 30,Unpaid,Medium,0.75,-1210
+ORD100758,Blue Ocean Ltd.,Electronic Components,167,4/5/2024,1/25/2024,4/18/2024,250.22,43070.6,USD,Air,Pending,Miami,20,10,7,2,Failed,2,1,COD,Pending,High,1,-1788
+ORD100759,Prime Logistics,Industrial Paint,50,15/02/2024,,1/24/2024,250.22,43070.6,EUR,Sea,shipped,Los Angeles,10,5,3,5,Failed,2,5,COD,Paid,High,1,-1210
+ORD100760,Nova Supply Co.,Steel Rods,100,1/15/2024,2024.03.20,2024.03.22,250.22,43070.6,EUR,Air,Cancelled,Miami,50,5,5,2,Failed,0,4,COD,Unpaid,High,0.85,-1503
+ORD100761,Acme Corp.,Electronic Components,167,1/15/2024,2024.03.20,26/02/2024,250.22,43070.6,EUR,Sea,Pending,Houston,50,20,7,0,Failed,1,1,COD,Unpaid,High,0.75,-1503
+ORD100762,Sunrise Traders,Rubber Tires,10,4/5/2024,4/15/2024,1/24/2024,125.37,1253.7,USD,Road,Shipped,Los Angeles,0,10,5,0,Passed,1,2,COD,Pending,Medium,1,-1210
+ORD100763,Sunrise Traders,Plastic Sheets,10,2024.03.10,2024.03.20,4/18/2024,250.22,43070.6,USD,Rail,Delayed,New York,50,10,5,2,Passed,1,3,COD,Paid,Medium,0.85,-1503
+ORD100764,Global Supplies Inc.,Industrial Paint,50,1/15/2024,,4/18/2024,18.22,911,USD,Sea,Cancelled,Los Angeles,20,15,6,2,Failed,1,3,Net 60,Unpaid,Low,0.85,-1788
+ORD100765,Nova Supply Co.,Plastic Sheets,100,4/5/2024,1/25/2024,1/24/2024,285.59,28559,USD,Sea,Pending,Houston,100,20,5,0,Passed,0,3,Net 30,Pending,Medium,0.86,-1503
+ORD100766,Nova Supply Co.,Packaging Boxes,167,1/15/2024,2024.03.20,2024.03.22,250.22,43070.6,USD,Sea,Cancelled,Houston,100,10,5,2,Passed,1,3,Net 60,Paid,High,1,-1788
+ORD100767,Prime Logistics,Plastic Sheets,50,15/02/2024,2024.03.20,4/18/2024,250.22,43070.6,USD,Sea,Delayed,Houston,36,5,3,5,Passed,2,2,Net 30,Paid,Low,0.86,-1210
+ORD100768,Global Supplies Inc.,Rubber Tires,167,15/02/2024,25/02/2024,1/24/2024,250.22,43070.6,USD,Sea,Shipped,New York,36,20,6,2,Passed,1,5,COD,Paid,Low,1,-1503
+ORD100769,Nova Supply Co.,Industrial Paint,100,1/15/2024,25/02/2024,4/18/2024,250.22,43070.6,EUR,Air,Delayed,New York,50,10,10,0,Passed,0,3,COD,Unpaid,Medium,0.85,-1788
+ORD100770,Nova Supply Co.,Plastic Sheets,100,15/02/2024,4/15/2024,4/18/2024,56.65,5665,EUR,Road,shipped,Los Angeles,36,10,3,5,Failed,1,1,COD,Unpaid,Medium,0.86,-1788
+ORD100771,Prime Logistics,Copper Wire,200,1/15/2024,2024.03.20,4/18/2024,250.22,43070.6,USD,Sea,Delayed,Houston,10,10,6,2,Failed,1,4,Net 30,Paid,High,0.85,-1210
+ORD100772,Global Supplies Inc.,Packaging Boxes,167,1/15/2024,,2024.03.22,250.22,43070.6,EUR,Sea,Delayed,Miami,100,20,7,2,Passed,1,4,COD,Paid,High,0.75,-1788
+ORD100773,Nova Supply Co.,Copper Wire,10,2024.03.10,4/15/2024,2024.03.22,199.55,1995.5,USD,Air,Delivered,Chicago,36,5,5,5,Passed,1,4,COD,Paid,Low,0.85,-1503
+ORD100774,Prime Logistics,Electronic Components,167,2024.03.10,2024.03.20,1/24/2024,250.22,43070.6,EUR,Sea,Shipped,Los Angeles,36,10,6,5,Failed,1,5,Net 30,Paid,High,1,-1210
+ORD100775,Nova Supply Co.,Copper Wire,100,1/15/2024,2024.03.20,26/02/2024,250.22,43070.6,EUR,Road,In Transit,Los Angeles,0,5,7,5,Passed,1,3,COD,Paid,Low,0.85,-1788
+ORD100776,Nova Supply Co.,Rubber Tires,10,2024.03.10,,2024.03.22,115.78,1157.8,USD,Rail,Delayed,Houston,50,10,3,2,Failed,1,4,Net 30,Paid,Medium,0.86,-1503
+ORD100777,Prime Logistics,Steel Rods,200,2024.03.10,2024.03.20,4/18/2024,361.54,72308,EUR,Road,shipped,Houston,36,5,7,2,Failed,1,5,Net 60,Unpaid,Medium,0.86,-1503
+ORD100778,Global Supplies Inc.,Electronic Components,10,1/15/2024,25/02/2024,1/24/2024,250.22,43070.6,USD,Air,Delayed,New York,36,5,6,0,Passed,1,3,COD,Unpaid,High,1,-1503
+ORD100779,Sunrise Traders,Rubber Tires,50,1/15/2024,4/15/2024,1/24/2024,321.11,16055.5,EUR,Road,Pending,Chicago,100,5,6,2,Passed,1,5,COD,Paid,High,0.75,-1210
+ORD100780,Blue Ocean Ltd.,Rubber Tires,50,1/15/2024,25/02/2024,1/24/2024,250.22,43070.6,USD,Road,shipped,Chicago,0,10,3,2,Passed,1,2,COD,Paid,Medium,1,-1503
+ORD100781,Sunrise Traders,Copper Wire,10,4/5/2024,2024.03.20,4/18/2024,250.22,43070.6,EUR,Road,Pending,Chicago,36,10,7,0,Passed,1,4,COD,Paid,Low,0.86,-1210
+ORD100782,Nova Supply Co.,Packaging Boxes,167,2024.03.10,25/02/2024,4/18/2024,250.22,43070.6,EUR,Air,shipped,New York,20,10,7,1,Passed,2,1,Net 60,Unpaid,High,1,-1503
+ORD100783,Acme Corp.,Rubber Tires,100,15/02/2024,2024.03.20,1/24/2024,173.83,17383,EUR,Road,In Transit,Los Angeles,10,5,6,5,Failed,1,1,COD,Paid,High,1,-1210
+ORD100784,Sunrise Traders,Plastic Sheets,10,2024.03.10,2024.03.20,4/18/2024,92.03,920.3,USD,Road,Shipped,Los Angeles,10,20,7,2,Passed,0,1,Net 30,Paid,Medium,1,-1210
+ORD100785,Blue Ocean Ltd.,Copper Wire,500,2024.03.10,1/25/2024,1/24/2024,250.22,43070.6,USD,Road,Pending,Los Angeles,100,10,3,1,Passed,2,3,COD,Unpaid,High,0.86,-1503
+ORD100786,Sunrise Traders,Rubber Tires,100,1/15/2024,25/02/2024,2024.03.22,292.32,29232,USD,Rail,Delayed,Los Angeles,100,15,3,5,Passed,1,3,COD,Paid,Medium,1,-1210
+ORD100787,Global Supplies Inc.,Industrial Paint,500,2024.03.10,4/15/2024,4/18/2024,250.22,43070.6,EUR,Rail,shipped,Miami,10,5,6,2,Passed,0,3,Net 60,Paid,High,1,-1503
+ORD100788,Blue Ocean Ltd.,Electronic Components,200,1/15/2024,25/02/2024,1/24/2024,231.81,46362,USD,Sea,Cancelled,New York,10,10,3,2,Passed,1,3,COD,Paid,Low,0.75,-1503
+ORD100789,Prime Logistics,Packaging Boxes,50,4/5/2024,4/15/2024,2024.03.22,250.22,43070.6,USD,Sea,Delivered,New York,100,20,6,2,Passed,1,3,Net 30,Pending,High,1,-1788
+ORD100790,Nova Supply Co.,Industrial Paint,500,15/02/2024,2024.03.20,26/02/2024,77.95,38975,USD,Rail,Shipped,Miami,20,10,6,2,Failed,1,3,Net 60,Pending,Low,1,-1788
+ORD100791,Acme Corp.,Industrial Paint,167,2024.03.10,,4/18/2024,250.22,43070.6,USD,Air,Delivered,New York,50,20,7,5,Passed,2,4,Net 60,Paid,Low,0.85,-1210
+ORD100792,Nova Supply Co.,Packaging Boxes,10,1/15/2024,4/15/2024,2024.03.22,253.69,2536.9,USD,Rail,Pending,New York,50,10,5,1,Passed,1,3,Net 30,Pending,High,1,-1503
+ORD100793,Nova Supply Co.,Rubber Tires,10,1/15/2024,4/15/2024,1/24/2024,306.31,3063.1,USD,Sea,Delayed,New York,20,15,3,2,Failed,2,1,COD,Unpaid,Low,1,-1503
+ORD100794,Global Supplies Inc.,Rubber Tires,50,4/5/2024,25/02/2024,1/24/2024,10.53,526.5,EUR,Road,Cancelled,Houston,20,10,6,1,Failed,1,3,COD,Paid,Medium,0.86,-1788
+ORD100795,Sunrise Traders,Electronic Components,10,1/15/2024,2024.03.20,2024.03.22,250.22,43070.6,USD,Rail,Delayed,Chicago,10,10,3,2,Passed,2,2,Net 30,Paid,Medium,1,-1788
+ORD100796,Acme Corp.,Plastic Sheets,500,2024.03.10,25/02/2024,1/24/2024,466.16,233080,USD,Sea,shipped,Chicago,36,5,3,5,Passed,2,1,COD,Paid,Low,0.75,-1788
+ORD100797,Global Supplies Inc.,Industrial Paint,167,1/15/2024,,2024.03.22,283.22,43070.6,EUR,Air,Cancelled,Miami,0,15,7,5,Passed,1,1,Net 60,Paid,High,0.85,-1210
+ORD100798,Blue Ocean Ltd.,Rubber Tires,167,2024.03.10,4/15/2024,2024.03.22,250.22,43070.6,USD,Road,Delayed,Chicago,36,10,3,0,Passed,0,3,Net 30,Pending,High,1,-1503
+ORD100799,Blue Ocean Ltd.,Copper Wire,50,4/5/2024,2024.03.20,4/18/2024,461.37,23068.5,EUR,Air,Shipped,Houston,50,5,10,2,Failed,0,3,COD,Paid,High,0.75,-1503
+ORD100800,Nova Supply Co.,Industrial Paint,200,1/15/2024,25/02/2024,4/18/2024,250.22,43070.6,USD,Sea,Shipped,Chicago,20,10,5,0,Failed,1,5,Net 60,Unpaid,Medium,0.85,-1210
+ORD100801,Global Supplies Inc.,Copper Wire,10,15/02/2024,25/02/2024,26/02/2024,250.22,43070.6,USD,Road,In Transit,Los Angeles,10,20,5,0,Failed,2,3,Net 30,Paid,High,0.75,-1788
+ORD100802,Global Supplies Inc.,Steel Rods,100,15/02/2024,1/25/2024,26/02/2024,288.78,28878,USD,Road,Cancelled,New York,10,10,6,2,Passed,1,3,Net 30,Pending,High,0.85,-1503
+ORD100803,Global Supplies Inc.,Rubber Tires,100,4/5/2024,1/25/2024,2024.03.22,250.22,43070.6,EUR,Road,shipped,Los Angeles,0,10,10,1,Failed,1,1,Net 60,Unpaid,High,0.85,-1503
+ORD100804,Blue Ocean Ltd.,Steel Rods,200,4/5/2024,25/02/2024,4/18/2024,250.22,43070.6,EUR,Sea,In Transit,Miami,50,10,6,2,Passed,2,5,COD,Paid,High,0.85,-1503
+ORD100805,Acme Corp.,Copper Wire,500,4/5/2024,25/02/2024,1/24/2024,368.62,184310,USD,Air,Delivered,Houston,36,15,3,2,Passed,1,5,COD,Unpaid,High,0.86,-1788
+ORD100806,Nova Supply Co.,Packaging Boxes,500,1/15/2024,,2024.03.22,250.22,43070.6,USD,Sea,shipped,Chicago,20,10,7,1,Passed,2,5,COD,Paid,Low,1,-1210
+ORD100807,Global Supplies Inc.,Packaging Boxes,167,1/15/2024,2024.03.20,26/02/2024,462.9,43070.6,USD,Sea,Pending,New York,0,20,10,2,Failed,2,5,COD,Pending,Low,0.86,-1788
+ORD100808,Nova Supply Co.,Packaging Boxes,167,1/15/2024,1/25/2024,1/24/2024,226.24,43070.6,EUR,Sea,Cancelled,Chicago,50,5,10,0,Passed,1,2,Net 60,Unpaid,Medium,1,-1788
+ORD100809,Global Supplies Inc.,Plastic Sheets,500,1/15/2024,1/25/2024,1/24/2024,250.22,43070.6,USD,Road,shipped,Chicago,36,10,3,1,Passed,1,4,COD,Paid,High,0.85,-1503
+ORD100810,Nova Supply Co.,Industrial Paint,50,1/15/2024,25/02/2024,1/24/2024,250.22,43070.6,USD,Air,Shipped,Chicago,100,20,6,2,Passed,0,2,COD,Pending,High,0.75,-1210
+ORD100811,Nova Supply Co.,Rubber Tires,10,1/15/2024,25/02/2024,1/24/2024,419.69,4196.9,EUR,Sea,shipped,Chicago,36,5,7,2,Passed,0,3,COD,Pending,High,0.75,-1788
+ORD100812,Nova Supply Co.,Industrial Paint,50,1/15/2024,2024.03.20,1/24/2024,63.64,3182,USD,Air,In Transit,Houston,50,20,5,2,Passed,1,4,Net 30,Paid,High,0.85,-1788
+ORD100813,Nova Supply Co.,Plastic Sheets,100,1/15/2024,,26/02/2024,250.22,43070.6,USD,Road,Shipped,Miami,100,5,10,2,Passed,1,2,COD,Paid,High,0.85,-1788
+ORD100814,Nova Supply Co.,Copper Wire,167,4/5/2024,1/25/2024,1/24/2024,250.22,43070.6,EUR,Rail,Delivered,Los Angeles,0,15,3,5,Failed,0,4,COD,Paid,Medium,0.75,-1503
+ORD100815,Prime Logistics,Rubber Tires,500,2024.03.10,25/02/2024,2024.03.22,260.14,130070,EUR,Sea,Pending,Los Angeles,0,20,6,0,Failed,0,3,Net 30,Paid,High,0.85,-1210
+ORD100816,Acme Corp.,Rubber Tires,10,1/15/2024,2024.03.20,4/18/2024,296.25,2962.5,EUR,Road,Cancelled,New York,50,5,6,0,Passed,0,2,Net 30,Pending,High,1,-1503
+ORD100817,Global Supplies Inc.,Rubber Tires,167,4/5/2024,25/02/2024,4/18/2024,250.22,43070.6,USD,Air,shipped,Houston,50,20,7,2,Passed,2,4,Net 30,Unpaid,High,0.75,-1210
+ORD100818,Nova Supply Co.,Plastic Sheets,50,4/5/2024,1/25/2024,26/02/2024,28.8,1440,USD,Sea,In Transit,Chicago,50,10,3,2,Passed,0,4,Net 60,Unpaid,Medium,1,-1503
+ORD100819,Prime Logistics,Rubber Tires,50,4/5/2024,4/15/2024,26/02/2024,250.22,43070.6,USD,Rail,Delivered,New York,10,5,5,2,Failed,0,3,Net 60,Paid,High,0.75,-1210
+ORD100820,Acme Corp.,Steel Rods,200,1/15/2024,2024.03.20,26/02/2024,250.22,43070.6,USD,Sea,Shipped,Chicago,10,15,10,1,Passed,1,3,Net 30,Pending,Medium,0.85,-1503
+ORD100821,Acme Corp.,Rubber Tires,10,1/15/2024,25/02/2024,2024.03.22,3.81,38.1,USD,Air,In Transit,Los Angeles,10,10,7,2,Passed,1,3,Net 30,Pending,Low,1,-1503
+ORD100822,Prime Logistics,Electronic Components,167,4/5/2024,,2024.03.22,250.22,43070.6,USD,Air,In Transit,Los Angeles,10,5,10,0,Failed,1,1,Net 30,Unpaid,High,0.85,-1788
+ORD100823,Global Supplies Inc.,Copper Wire,500,1/15/2024,4/15/2024,2024.03.22,199.99,99995,EUR,Sea,Delayed,New York,36,15,3,1,Passed,0,4,COD,Paid,Medium,0.86,-1788
+ORD100824,Prime Logistics,Steel Rods,10,2024.03.10,1/25/2024,4/18/2024,250.22,43070.6,EUR,Sea,Delivered,Houston,20,20,6,0,Failed,2,2,COD,Unpaid,Low,1,-1503
+ORD100825,Global Supplies Inc.,Steel Rods,200,2024.03.10,25/02/2024,4/18/2024,460.05,92010,USD,Rail,shipped,Houston,20,10,10,2,Failed,1,3,Net 60,Pending,High,0.86,-1788
+ORD100826,Sunrise Traders,Industrial Paint,10,1/15/2024,25/02/2024,4/18/2024,250.22,43070.6,EUR,Rail,Cancelled,New York,50,20,6,5,Failed,2,2,Net 60,Unpaid,Medium,0.86,-1503
+ORD100827,Nova Supply Co.,Plastic Sheets,100,1/15/2024,25/02/2024,26/02/2024,174.46,17446,USD,Sea,In Transit,New York,10,15,5,5,Passed,1,5,COD,Pending,Low,0.86,-1503
+ORD100828,Nova Supply Co.,Industrial Paint,200,2024.03.10,,1/24/2024,250.22,43070.6,USD,Air,Cancelled,New York,50,15,7,0,Passed,2,3,Net 60,Pending,High,0.85,-1788
+ORD100829,Sunrise Traders,Electronic Components,100,2024.03.10,25/02/2024,2024.03.22,250.22,43070.6,USD,Road,Pending,Chicago,100,10,3,1,Passed,1,5,Net 30,Unpaid,High,0.85,-1503
+ORD100830,Prime Logistics,Electronic Components,500,4/5/2024,,1/24/2024,113.47,56735,USD,Sea,Cancelled,New York,20,15,7,5,Passed,1,3,Net 30,Paid,High,0.86,-1788
+ORD100831,Prime Logistics,Packaging Boxes,167,15/02/2024,,4/18/2024,250.22,43070.6,EUR,Road,shipped,New York,20,10,10,2,Passed,0,4,Net 60,Paid,High,0.75,-1503
+ORD100832,Blue Ocean Ltd.,Rubber Tires,500,15/02/2024,2024.03.20,26/02/2024,250.22,43070.6,EUR,Road,Delayed,Miami,0,20,6,1,Passed,0,5,COD,Paid,High,0.85,-1210
+ORD100833,Sunrise Traders,Rubber Tires,50,2024.03.10,25/02/2024,26/02/2024,89.43,4471.5,EUR,Sea,Delivered,Miami,0,15,7,2,Failed,1,5,Net 60,Unpaid,Medium,0.86,-1788
+ORD100834,Acme Corp.,Packaging Boxes,167,1/15/2024,2024.03.20,1/24/2024,249.94,43070.6,EUR,Rail,In Transit,New York,0,20,7,2,Failed,2,3,COD,Paid,Low,0.85,-1210
+ORD100835,Nova Supply Co.,Steel Rods,500,15/02/2024,4/15/2024,1/24/2024,250.22,43070.6,USD,Air,Delivered,Los Angeles,50,10,10,1,Failed,0,3,COD,Pending,Medium,1,-1788
+ORD100836,Sunrise Traders,Packaging Boxes,10,4/5/2024,,1/24/2024,250.22,43070.6,USD,Sea,Pending,Houston,50,10,6,5,Passed,1,5,COD,Paid,High,1,-1788
+ORD100837,Nova Supply Co.,Copper Wire,100,1/15/2024,4/15/2024,26/02/2024,182.15,18215,USD,Road,shipped,Houston,36,5,5,1,Failed,1,3,Net 60,Paid,High,1,-1503
+ORD100838,Blue Ocean Ltd.,Packaging Boxes,200,2024.03.10,4/15/2024,1/24/2024,290.92,58184,USD,Road,shipped,New York,0,15,5,2,Passed,1,2,COD,Paid,Medium,0.75,-1788
+ORD100839,Nova Supply Co.,Rubber Tires,200,15/02/2024,2024.03.20,2024.03.22,250.22,43070.6,EUR,Road,Delivered,Houston,20,15,6,2,Passed,0,3,Net 30,Paid,High,0.86,-1503
+ORD100840,Global Supplies Inc.,Steel Rods,10,4/5/2024,1/25/2024,2024.03.22,8.03,80.3,EUR,Sea,shipped,Houston,10,15,7,2,Failed,0,3,COD,Paid,High,0.86,-1503
+ORD100841,Global Supplies Inc.,Copper Wire,10,1/15/2024,,2024.03.22,332.27,3322.7,USD,Sea,Cancelled,Miami,50,10,10,5,Passed,1,3,COD,Unpaid,High,0.75,-1503
+ORD100842,Nova Supply Co.,Electronic Components,50,1/15/2024,1/25/2024,4/18/2024,250.22,43070.6,EUR,Sea,In Transit,New York,0,15,7,1,Passed,1,5,COD,Pending,Medium,0.85,-1788
+ORD100843,Nova Supply Co.,Packaging Boxes,10,15/02/2024,4/15/2024,26/02/2024,480.59,4805.9,EUR,Road,shipped,Chicago,36,20,7,5,Passed,0,1,COD,Paid,Medium,0.85,-1503
+ORD100844,Nova Supply Co.,Industrial Paint,200,4/5/2024,25/02/2024,26/02/2024,250.22,43070.6,EUR,Sea,Delivered,New York,20,20,3,2,Passed,2,3,Net 30,Paid,High,0.85,-1503
+ORD100845,Nova Supply Co.,Plastic Sheets,100,2024.03.10,2024.03.20,2024.03.22,250.22,43070.6,USD,Air,shipped,Los Angeles,36,10,3,5,Passed,1,4,COD,Paid,High,0.85,-1503
+ORD100846,Blue Ocean Ltd.,Packaging Boxes,10,15/02/2024,1/25/2024,2024.03.22,250.22,43070.6,EUR,Air,Shipped,Chicago,10,20,3,2,Passed,0,5,COD,Unpaid,Low,0.75,-1788
+ORD100847,Blue Ocean Ltd.,Rubber Tires,500,4/5/2024,2024.03.20,1/24/2024,498.44,249220,EUR,Rail,In Transit,New York,36,15,10,2,Passed,1,5,Net 60,Paid,Medium,0.85,-1503
+ORD100848,Prime Logistics,Electronic Components,167,1/15/2024,1/25/2024,1/24/2024,250.22,43070.6,USD,Road,In Transit,Los Angeles,10,10,3,1,Failed,2,4,COD,Paid,Low,0.86,-1503
+ORD100849,Prime Logistics,Copper Wire,50,4/5/2024,1/25/2024,1/24/2024,298.3,14915,USD,Sea,Shipped,Los Angeles,36,20,10,0,Passed,1,5,Net 30,Unpaid,High,0.75,-1503
+ORD100850,Global Supplies Inc.,Electronic Components,200,15/02/2024,1/25/2024,1/24/2024,34.94,6988,EUR,Sea,Delivered,Los Angeles,50,5,10,2,Passed,1,3,COD,Unpaid,High,1,-1503
+ORD100851,Nova Supply Co.,Copper Wire,10,1/15/2024,1/25/2024,1/24/2024,250.22,43070.6,USD,Road,Delivered,New York,0,10,10,1,Passed,2,4,Net 60,Paid,High,1,-1210
+ORD100852,Sunrise Traders,Plastic Sheets,167,4/5/2024,1/25/2024,2024.03.22,106.14,43070.6,EUR,Sea,In Transit,Houston,50,20,5,2,Passed,1,4,COD,Paid,Low,0.75,-1788
+ORD100853,Nova Supply Co.,Industrial Paint,500,15/02/2024,25/02/2024,26/02/2024,449.18,224590,USD,Sea,shipped,New York,50,15,5,1,Passed,1,3,Net 30,Paid,Low,0.86,-1210
+ORD100854,Nova Supply Co.,Industrial Paint,167,1/15/2024,2024.03.20,2024.03.22,250.22,43070.6,USD,Air,In Transit,Houston,50,5,3,0,Passed,2,4,COD,Paid,High,1,-1503
+ORD100855,Acme Corp.,Plastic Sheets,50,1/15/2024,1/25/2024,1/24/2024,250.22,43070.6,USD,Air,Shipped,Chicago,100,15,10,5,Passed,1,1,COD,Paid,High,1,-1788
+ORD100856,Blue Ocean Ltd.,Industrial Paint,200,1/15/2024,,2024.03.22,250.22,43070.6,EUR,Sea,Delivered,New York,20,10,6,5,Passed,0,1,Net 30,Paid,Low,1,-1210
+ORD100857,Prime Logistics,Industrial Paint,100,15/02/2024,1/25/2024,1/24/2024,236.83,23683,EUR,Road,Delivered,Los Angeles,0,5,3,2,Passed,1,5,Net 60,Paid,Low,0.86,-1210
+ORD100858,Global Supplies Inc.,Rubber Tires,200,2024.03.10,4/15/2024,1/24/2024,250.22,43070.6,EUR,Sea,Cancelled,New York,50,20,6,1,Passed,0,1,COD,Pending,High,1,-1503
+ORD100859,Prime Logistics,Steel Rods,10,2024.03.10,25/02/2024,4/18/2024,34.26,342.6,USD,Rail,In Transit,New York,10,10,7,1,Passed,2,4,COD,Paid,High,1,-1210
+ORD100860,Nova Supply Co.,Rubber Tires,500,4/5/2024,1/25/2024,26/02/2024,388.1,194050,USD,Sea,Delivered,Los Angeles,20,5,7,2,Failed,2,2,Net 30,Paid,Low,0.86,-1788
+ORD100861,Blue Ocean Ltd.,Packaging Boxes,50,2024.03.10,,26/02/2024,227.46,11373,USD,Road,In Transit,Houston,20,15,7,2,Passed,1,3,COD,Paid,Medium,0.85,-1503
+ORD100862,Global Supplies Inc.,Rubber Tires,167,1/15/2024,4/15/2024,2024.03.22,250.22,43070.6,USD,Road,Delayed,Miami,36,20,7,2,Failed,1,1,COD,Paid,High,1,-1503
+ORD100863,Nova Supply Co.,Plastic Sheets,100,1/15/2024,,4/18/2024,221.22,22122,EUR,Road,Cancelled,Houston,36,10,5,0,Failed,1,3,Net 30,Unpaid,High,0.86,-1788
+ORD100864,Nova Supply Co.,Electronic Components,100,4/5/2024,25/02/2024,1/24/2024,250.22,43070.6,EUR,Rail,Pending,Miami,36,10,10,2,Passed,1,3,Net 60,Pending,Low,1,-1503
+ORD100865,Blue Ocean Ltd.,Industrial Paint,50,4/5/2024,,2024.03.22,250.22,43070.6,EUR,Air,Pending,Los Angeles,36,20,6,5,Failed,2,3,Net 60,Paid,High,0.86,-1503
+ORD100866,Blue Ocean Ltd.,Industrial Paint,50,4/5/2024,2024.03.20,1/24/2024,78.89,3944.5,USD,Air,Delayed,Chicago,36,5,5,2,Passed,2,2,Net 30,Unpaid,High,0.75,-1788
+ORD100867,Acme Corp.,Copper Wire,500,1/15/2024,2024.03.20,26/02/2024,92.19,46095,USD,Air,Pending,Houston,36,5,6,5,Passed,1,3,COD,Pending,Low,0.85,-1503
+ORD100868,Nova Supply Co.,Plastic Sheets,200,1/15/2024,1/25/2024,4/18/2024,250.22,43070.6,USD,Sea,Cancelled,Houston,10,20,7,1,Passed,1,4,Net 60,Pending,Low,1,-1503
+ORD100869,Global Supplies Inc.,Industrial Paint,200,1/15/2024,4/15/2024,26/02/2024,473.14,94628,EUR,Road,In Transit,Chicago,0,15,5,5,Failed,0,2,Net 30,Paid,High,0.86,-1210
+ORD100870,Prime Logistics,Packaging Boxes,100,1/15/2024,2024.03.20,1/24/2024,187.59,18759,EUR,Air,Pending,New York,36,15,7,0,Failed,2,3,Net 30,Paid,High,1,-1503
+ORD100871,Nova Supply Co.,Electronic Components,50,4/5/2024,2024.03.20,1/24/2024,136.47,6823.5,USD,Air,In Transit,New York,100,10,3,2,Failed,1,3,COD,Paid,High,1,-1503
+ORD100872,Blue Ocean Ltd.,Industrial Paint,10,4/5/2024,2024.03.20,2024.03.22,250.22,43070.6,USD,Air,Cancelled,New York,50,10,10,2,Passed,2,2,Net 60,Paid,Medium,0.75,-1503
+ORD100873,Acme Corp.,Copper Wire,500,1/15/2024,2024.03.20,2024.03.22,250.22,43070.6,USD,Sea,Pending,New York,20,10,5,1,Failed,2,1,Net 60,Unpaid,High,0.85,-1210
+ORD100874,Prime Logistics,Rubber Tires,100,15/02/2024,,1/24/2024,14.16,1416,USD,Air,Shipped,Miami,10,5,5,2,Passed,2,1,COD,Paid,Medium,1,-1210
+ORD100875,Acme Corp.,Industrial Paint,167,1/15/2024,2024.03.20,1/24/2024,250.22,43070.6,EUR,Road,Delivered,Los Angeles,100,10,7,0,Passed,0,2,COD,Pending,Low,1,-1788
+ORD100876,Nova Supply Co.,Industrial Paint,167,1/15/2024,4/15/2024,2024.03.22,250.22,43070.6,EUR,Sea,shipped,Los Angeles,20,15,7,2,Passed,1,3,Net 60,Pending,High,0.85,-1788
+ORD100877,Sunrise Traders,Electronic Components,200,1/15/2024,,4/18/2024,250.22,43070.6,EUR,Road,shipped,New York,36,10,3,0,Passed,1,3,Net 30,Pending,Low,0.86,-1210
+ORD100878,Blue Ocean Ltd.,Industrial Paint,500,1/15/2024,2024.03.20,1/24/2024,250.22,43070.6,USD,Rail,Delivered,New York,100,15,6,1,Failed,0,3,COD,Pending,Low,0.85,-1503
+ORD100879,Sunrise Traders,Packaging Boxes,500,1/15/2024,25/02/2024,1/24/2024,250.22,43070.6,USD,Road,shipped,Houston,100,5,5,2,Failed,1,4,Net 30,Unpaid,High,1,-1788
+ORD100880,Blue Ocean Ltd.,Industrial Paint,167,1/15/2024,,2024.03.22,250.22,43070.6,USD,Rail,shipped,New York,50,10,5,5,Passed,2,1,COD,Paid,High,1,-1503
+ORD100881,Sunrise Traders,Industrial Paint,200,15/02/2024,2024.03.20,2024.03.22,336.44,67288,USD,Rail,Pending,New York,36,5,6,1,Passed,1,2,COD,Pending,Low,0.75,-1788
+ORD100882,Global Supplies Inc.,Packaging Boxes,500,4/5/2024,2024.03.20,26/02/2024,250.22,43070.6,USD,Sea,shipped,Chicago,10,5,3,5,Passed,1,3,COD,Paid,Medium,0.86,-1210
+ORD100883,Prime Logistics,Electronic Components,100,1/15/2024,2024.03.20,26/02/2024,250.22,43070.6,EUR,Road,shipped,Houston,100,10,7,1,Failed,0,3,Net 60,Paid,Low,0.75,-1210
+ORD100884,Nova Supply Co.,Industrial Paint,50,2024.03.10,1/25/2024,2024.03.22,400.26,20013,USD,Road,Shipped,Miami,0,15,6,2,Passed,2,3,Net 30,Unpaid,Low,1,-1788
+ORD100885,Blue Ocean Ltd.,Industrial Paint,500,15/02/2024,25/02/2024,1/24/2024,250.22,43070.6,USD,Road,Cancelled,Houston,36,10,7,5,Passed,2,5,COD,Paid,High,0.85,-1503
+ORD100886,Acme Corp.,Rubber Tires,167,4/5/2024,25/02/2024,4/18/2024,326.89,43070.6,USD,Sea,In Transit,Los Angeles,50,10,3,5,Passed,1,3,Net 60,Unpaid,High,0.85,-1503
+ORD100887,Sunrise Traders,Packaging Boxes,50,2024.03.10,,1/24/2024,250.22,43070.6,USD,Rail,Delivered,New York,20,5,6,5,Passed,1,2,Net 30,Pending,Low,0.85,-1210
+ORD100888,Global Supplies Inc.,Electronic Components,200,1/15/2024,1/25/2024,4/18/2024,250.22,43070.6,EUR,Sea,Delayed,Miami,10,20,6,1,Failed,0,2,COD,Paid,Medium,1,-1503
+ORD100889,Global Supplies Inc.,Packaging Boxes,167,1/15/2024,4/15/2024,2024.03.22,122.72,43070.6,USD,Sea,Delivered,Houston,20,15,7,2,Failed,1,1,Net 30,Pending,Medium,0.86,-1788
+ORD100890,Acme Corp.,Packaging Boxes,167,2024.03.10,,26/02/2024,250.22,43070.6,USD,Rail,In Transit,Chicago,36,5,3,0,Passed,1,3,Net 30,Pending,High,0.75,-1503
+ORD100891,Sunrise Traders,Industrial Paint,50,4/5/2024,,1/24/2024,250.22,43070.6,USD,Sea,shipped,Los Angeles,0,15,7,0,Passed,1,2,Net 60,Pending,High,0.86,-1788
+ORD100892,Global Supplies Inc.,Electronic Components,10,4/5/2024,,4/18/2024,415.36,4153.6,EUR,Rail,shipped,Miami,100,10,5,5,Failed,1,4,COD,Paid,High,0.85,-1788
+ORD100893,Nova Supply Co.,Rubber Tires,10,1/15/2024,25/02/2024,2024.03.22,199.5,1995,EUR,Sea,In Transit,Miami,50,10,7,2,Passed,1,3,Net 60,Paid,High,0.75,-1210
+ORD100894,Nova Supply Co.,Steel Rods,100,1/15/2024,,2024.03.22,250.22,43070.6,USD,Road,Delivered,Chicago,100,20,6,5,Passed,1,2,COD,Paid,High,0.86,-1503
+ORD100895,Prime Logistics,Copper Wire,200,2024.03.10,25/02/2024,4/18/2024,250.22,43070.6,USD,Sea,Shipped,New York,50,5,6,0,Passed,1,1,COD,Paid,High,0.85,-1788
+ORD100896,Acme Corp.,Rubber Tires,100,4/5/2024,25/02/2024,26/02/2024,250.22,43070.6,USD,Sea,Delivered,Houston,50,5,3,2,Failed,1,3,COD,Pending,Low,0.85,-1210
+ORD100897,Prime Logistics,Rubber Tires,200,4/5/2024,1/25/2024,1/24/2024,250.22,43070.6,EUR,Sea,Shipped,New York,10,5,5,1,Passed,0,3,Net 60,Pending,High,0.75,-1503
+ORD100898,Blue Ocean Ltd.,Industrial Paint,100,1/15/2024,1/25/2024,1/24/2024,7.98,798,EUR,Sea,Cancelled,Los Angeles,36,15,7,2,Passed,0,3,COD,Unpaid,Medium,0.86,-1788
+ORD100899,Prime Logistics,Electronic Components,10,1/15/2024,1/25/2024,2024.03.22,44.13,441.3,USD,Air,Shipped,New York,50,10,5,2,Passed,1,4,Net 30,Paid,Medium,1,-1210
+ORD100900,Global Supplies Inc.,Copper Wire,167,1/15/2024,1/25/2024,2024.03.22,105.13,43070.6,EUR,Road,Delivered,New York,20,15,3,1,Failed,1,3,Net 30,Paid,High,1,-1503
+ORD100901,Acme Corp.,Rubber Tires,500,1/15/2024,2024.03.20,26/02/2024,250.22,43070.6,EUR,Rail,Cancelled,New York,100,10,5,0,Failed,1,3,Net 60,Paid,Low,0.85,-1503
+ORD100902,Global Supplies Inc.,Copper Wire,200,15/02/2024,2024.03.20,4/18/2024,250.22,43070.6,USD,Rail,Delayed,New York,20,10,7,5,Passed,1,5,COD,Paid,High,0.85,-1210
+ORD100903,Nova Supply Co.,Steel Rods,167,1/15/2024,25/02/2024,2024.03.22,250.22,43070.6,USD,Air,Shipped,New York,20,10,6,1,Failed,0,3,COD,Pending,High,0.75,-1788
+ORD100904,Nova Supply Co.,Rubber Tires,50,2024.03.10,2024.03.20,26/02/2024,211.58,10579,USD,Road,shipped,Los Angeles,36,10,7,2,Failed,0,1,Net 60,Unpaid,Medium,1,-1788
+ORD100905,Nova Supply Co.,Steel Rods,167,2024.03.10,4/15/2024,4/18/2024,446.5,43070.6,USD,Air,Delayed,New York,20,10,5,1,Passed,2,1,COD,Pending,High,0.85,-1210
+ORD100906,Nova Supply Co.,Plastic Sheets,167,1/15/2024,25/02/2024,26/02/2024,250.22,43070.6,EUR,Rail,Delivered,New York,10,10,10,5,Passed,1,2,COD,Paid,High,0.75,-1788
+ORD100907,Blue Ocean Ltd.,Electronic Components,167,15/02/2024,1/25/2024,26/02/2024,250.22,43070.6,USD,Sea,Delayed,Los Angeles,10,20,5,1,Failed,0,4,Net 30,Paid,High,0.86,-1503
+ORD100908,Sunrise Traders,Rubber Tires,500,1/15/2024,2024.03.20,1/24/2024,250.22,43070.6,USD,Air,shipped,Chicago,36,5,10,1,Passed,1,3,Net 30,Paid,High,0.86,-1503
+ORD100909,Nova Supply Co.,Industrial Paint,167,15/02/2024,1/25/2024,2024.03.22,250.22,43070.6,USD,Rail,In Transit,Houston,36,10,6,5,Passed,0,1,Net 60,Paid,Medium,0.75,-1210
+ORD100910,Prime Logistics,Steel Rods,167,15/02/2024,,1/24/2024,295.76,43070.6,USD,Sea,Cancelled,Miami,20,5,6,1,Passed,1,2,COD,Unpaid,High,0.85,-1210
+ORD100911,Nova Supply Co.,Steel Rods,200,2024.03.10,25/02/2024,1/24/2024,135.13,27026,USD,Sea,Shipped,Los Angeles,36,5,7,0,Passed,0,1,Net 60,Unpaid,Low,0.86,-1788
+ORD100912,Acme Corp.,Industrial Paint,200,15/02/2024,,26/02/2024,250.22,43070.6,EUR,Rail,Shipped,Chicago,10,15,10,0,Passed,2,5,Net 30,Pending,Low,0.86,-1503
+ORD100913,Acme Corp.,Steel Rods,200,1/15/2024,1/25/2024,2024.03.22,250.22,43070.6,USD,Sea,Delivered,Chicago,10,5,7,5,Failed,2,3,Net 60,Paid,Low,1,-1788
+ORD100914,Blue Ocean Ltd.,Rubber Tires,500,1/15/2024,25/02/2024,1/24/2024,276.7,138350,USD,Sea,Delayed,Los Angeles,50,15,3,0,Failed,1,3,Net 60,Pending,Medium,1,-1210
+ORD100915,Acme Corp.,Industrial Paint,100,2024.03.10,4/15/2024,1/24/2024,218.91,21891,EUR,Rail,In Transit,Houston,10,10,6,2,Passed,2,3,Net 60,Paid,High,1,-1503
+ORD100916,Nova Supply Co.,Copper Wire,167,1/15/2024,4/15/2024,26/02/2024,148.29,43070.6,USD,Sea,In Transit,Houston,20,5,6,0,Failed,0,3,COD,Paid,Medium,0.85,-1210
+ORD100917,Sunrise Traders,Industrial Paint,200,1/15/2024,4/15/2024,2024.03.22,250.22,43070.6,EUR,Sea,Delivered,Chicago,100,10,5,2,Passed,0,3,Net 30,Unpaid,Medium,0.86,-1788
+ORD100918,Blue Ocean Ltd.,Packaging Boxes,167,1/15/2024,2024.03.20,2024.03.22,382.16,43070.6,USD,Road,shipped,Miami,50,20,7,5,Passed,0,3,COD,Paid,Medium,0.85,-1503
+ORD100919,Global Supplies Inc.,Plastic Sheets,167,1/15/2024,2024.03.20,1/24/2024,71.35,43070.6,USD,Sea,Shipped,New York,20,10,5,2,Failed,1,2,COD,Pending,High,1,-1210
+ORD100920,Sunrise Traders,Industrial Paint,200,1/15/2024,2024.03.20,1/24/2024,250.22,43070.6,USD,Rail,Delayed,New York,100,5,3,2,Failed,1,1,COD,Paid,Medium,0.75,-1788
+ORD100921,Acme Corp.,Copper Wire,167,1/15/2024,4/15/2024,1/24/2024,250.22,43070.6,USD,Road,Cancelled,Houston,20,15,3,5,Passed,2,3,Net 30,Pending,High,0.85,-1788
+ORD100922,Nova Supply Co.,Industrial Paint,100,15/02/2024,1/25/2024,2024.03.22,250.22,43070.6,EUR,Road,In Transit,Miami,10,10,6,1,Passed,2,2,COD,Unpaid,High,0.86,-1788
+ORD100923,Nova Supply Co.,Packaging Boxes,100,2024.03.10,2024.03.20,1/24/2024,250.22,43070.6,EUR,Sea,shipped,Los Angeles,50,10,10,2,Passed,2,2,COD,Paid,Medium,0.85,-1503
+ORD100924,Blue Ocean Ltd.,Industrial Paint,10,4/5/2024,1/25/2024,4/18/2024,213.47,2134.7,USD,Air,Cancelled,Miami,0,20,10,2,Passed,0,3,Net 30,Unpaid,Medium,0.75,-1788
+ORD100925,Acme Corp.,Industrial Paint,500,1/15/2024,25/02/2024,2024.03.22,250.22,43070.6,USD,Road,In Transit,Los Angeles,0,15,7,0,Passed,1,4,COD,Paid,Low,0.75,-1503
+ORD100926,Nova Supply Co.,Steel Rods,10,4/5/2024,25/02/2024,1/24/2024,135.44,1354.4,EUR,Road,Delayed,Los Angeles,50,10,6,0,Failed,2,3,COD,Unpaid,High,0.75,-1788
+ORD100927,Acme Corp.,Copper Wire,167,4/5/2024,2024.03.20,26/02/2024,250.22,43070.6,EUR,Sea,shipped,New York,50,10,6,2,Passed,0,5,Net 30,Pending,Medium,0.86,-1503
+ORD100928,Acme Corp.,Rubber Tires,10,1/15/2024,1/25/2024,4/18/2024,317.29,3172.9,USD,Rail,Shipped,Miami,50,10,7,0,Failed,1,1,COD,Paid,Medium,1,-1210
+ORD100929,Acme Corp.,Industrial Paint,200,4/5/2024,2024.03.20,4/18/2024,250.22,43070.6,USD,Sea,shipped,Miami,36,20,10,5,Failed,1,4,COD,Paid,Medium,0.75,-1503
+ORD100930,Nova Supply Co.,Plastic Sheets,10,15/02/2024,2024.03.20,1/24/2024,70.97,709.7,USD,Air,In Transit,New York,0,20,7,2,Passed,1,3,COD,Unpaid,Medium,0.85,-1210
+ORD100931,Acme Corp.,Copper Wire,167,4/5/2024,4/15/2024,1/24/2024,250.22,43070.6,USD,Sea,Pending,Chicago,100,5,5,5,Failed,1,3,COD,Unpaid,High,0.85,-1503
+ORD100932,Acme Corp.,Industrial Paint,100,1/15/2024,2024.03.20,1/24/2024,492.22,49222,EUR,Road,Delivered,Miami,10,20,10,2,Failed,1,1,Net 30,Paid,High,1,-1503
+ORD100933,Nova Supply Co.,Electronic Components,200,1/15/2024,1/25/2024,1/24/2024,250.22,43070.6,EUR,Sea,Shipped,Miami,100,10,5,2,Passed,2,3,Net 60,Pending,High,0.75,-1503
+ORD100934,Prime Logistics,Electronic Components,10,2024.03.10,,2024.03.22,87.08,870.8,EUR,Sea,Cancelled,New York,100,5,7,2,Passed,0,3,Net 60,Unpaid,High,0.75,-1210
+ORD100935,Sunrise Traders,Rubber Tires,200,1/15/2024,25/02/2024,1/24/2024,250.22,43070.6,EUR,Rail,shipped,New York,10,10,10,2,Passed,1,3,COD,Paid,High,0.85,-1210
+ORD100936,Nova Supply Co.,Electronic Components,200,4/5/2024,4/15/2024,4/18/2024,250.22,43070.6,EUR,Sea,Delivered,New York,36,15,6,1,Passed,0,2,Net 30,Pending,Low,0.75,-1210
+ORD100937,Prime Logistics,Rubber Tires,167,1/15/2024,4/15/2024,26/02/2024,250.22,43070.6,EUR,Air,Delivered,Chicago,0,15,6,5,Failed,1,5,COD,Paid,Low,1,-1503
+ORD100938,Nova Supply Co.,Rubber Tires,50,1/15/2024,2024.03.20,1/24/2024,250.22,43070.6,USD,Sea,Delayed,Los Angeles,0,5,3,2,Passed,0,4,COD,Pending,Low,0.86,-1210
+ORD100939,Prime Logistics,Rubber Tires,200,15/02/2024,1/25/2024,1/24/2024,288.89,57778,USD,Air,Delayed,Los Angeles,36,10,3,2,Failed,1,1,COD,Pending,High,0.85,-1210
+ORD100940,Nova Supply Co.,Rubber Tires,200,15/02/2024,4/15/2024,4/18/2024,250.22,43070.6,USD,Rail,Delayed,Houston,36,20,3,2,Passed,2,3,COD,Paid,High,0.75,-1788
+ORD100941,Acme Corp.,Rubber Tires,10,15/02/2024,25/02/2024,2024.03.22,250.22,43070.6,USD,Rail,In Transit,New York,20,20,10,5,Passed,1,5,COD,Paid,Medium,1,-1788
+ORD100942,Nova Supply Co.,Electronic Components,10,2024.03.10,4/15/2024,4/18/2024,326.23,3262.3,USD,Sea,Pending,Chicago,100,5,6,5,Passed,0,3,COD,Paid,High,0.85,-1210
+ORD100943,Nova Supply Co.,Packaging Boxes,167,2024.03.10,4/15/2024,1/24/2024,415.13,43070.6,EUR,Rail,Cancelled,Miami,50,10,7,2,Passed,1,4,COD,Paid,Medium,0.75,-1210
+ORD100944,Sunrise Traders,Industrial Paint,10,2024.03.10,1/25/2024,4/18/2024,104.4,1044,USD,Rail,Shipped,Miami,50,10,5,5,Failed,1,1,Net 30,Paid,Medium,0.85,-1503
+ORD100945,Prime Logistics,Copper Wire,167,1/15/2024,2024.03.20,26/02/2024,6.98,43070.6,USD,Air,Delayed,New York,36,10,5,5,Passed,1,2,COD,Pending,High,0.75,-1788
+ORD100946,Prime Logistics,Electronic Components,167,2024.03.10,1/25/2024,4/18/2024,250.22,43070.6,USD,Rail,In Transit,New York,50,10,6,1,Failed,1,1,COD,Pending,High,0.85,-1210
+ORD100947,Blue Ocean Ltd.,Electronic Components,10,1/15/2024,1/25/2024,2024.03.22,450.16,4501.6,USD,Rail,Delayed,Miami,36,10,10,2,Passed,2,5,COD,Paid,High,0.75,-1503
+ORD100948,Global Supplies Inc.,Copper Wire,10,1/15/2024,25/02/2024,2024.03.22,437.13,4371.3,EUR,Road,Delayed,Miami,20,20,6,1,Failed,1,4,Net 60,Pending,High,0.75,-1210
+ORD100949,Acme Corp.,Industrial Paint,500,4/5/2024,4/15/2024,1/24/2024,299.31,149655,USD,Road,shipped,Miami,10,10,3,2,Passed,1,3,COD,Unpaid,High,0.85,-1210
+ORD100950,Sunrise Traders,Industrial Paint,50,15/02/2024,2024.03.20,1/24/2024,300.86,15043,USD,Road,Delivered,New York,20,10,3,2,Failed,0,1,Net 30,Paid,High,0.86,-1210
+ORD100951,Nova Supply Co.,Electronic Components,167,1/15/2024,25/02/2024,1/24/2024,333.02,43070.6,USD,Air,In Transit,Chicago,0,15,7,1,Failed,1,1,COD,Unpaid,Low,0.86,-1503
+ORD100952,Sunrise Traders,Electronic Components,500,1/15/2024,4/15/2024,1/24/2024,250.22,43070.6,USD,Sea,Pending,Chicago,0,20,10,2,Passed,2,2,COD,Paid,Low,0.75,-1503
+ORD100953,Global Supplies Inc.,Industrial Paint,10,1/15/2024,2024.03.20,1/24/2024,250.22,43070.6,USD,Rail,Cancelled,New York,36,15,10,2,Passed,2,5,COD,Pending,Medium,0.75,-1788
+ORD100954,Prime Logistics,Copper Wire,100,1/15/2024,2024.03.20,2024.03.22,210.26,21026,EUR,Sea,Cancelled,Los Angeles,20,20,5,2,Failed,0,5,COD,Paid,High,0.85,-1503
+ORD100955,Nova Supply Co.,Steel Rods,100,15/02/2024,25/02/2024,2024.03.22,192.49,19249,USD,Rail,Cancelled,Houston,10,20,5,1,Failed,1,3,COD,Paid,Low,0.85,-1788
+ORD100956,Nova Supply Co.,Copper Wire,10,1/15/2024,1/25/2024,4/18/2024,260.18,2601.8,EUR,Air,Shipped,Miami,0,10,6,0,Failed,0,4,Net 60,Pending,Low,0.86,-1210
+ORD100957,Nova Supply Co.,Plastic Sheets,10,15/02/2024,25/02/2024,26/02/2024,24.91,249.1,USD,Sea,Delayed,New York,0,15,7,2,Failed,1,4,Net 60,Paid,Low,0.85,-1503
+ORD100958,Global Supplies Inc.,Rubber Tires,167,2024.03.10,4/15/2024,1/24/2024,84.39,43070.6,USD,Sea,Delayed,Chicago,0,10,3,5,Passed,0,2,COD,Pending,Medium,0.86,-1210
+ORD100959,Global Supplies Inc.,Plastic Sheets,200,15/02/2024,,1/24/2024,250.22,43070.6,EUR,Road,Cancelled,New York,10,20,5,5,Passed,2,3,COD,Paid,Medium,1,-1788
+ORD100960,Nova Supply Co.,Electronic Components,200,2024.03.10,4/15/2024,2024.03.22,250.22,43070.6,USD,Road,In Transit,New York,36,10,6,0,Failed,1,1,COD,Pending,Medium,0.85,-1788
+ORD100961,Prime Logistics,Copper Wire,200,15/02/2024,,26/02/2024,302.17,60434,EUR,Sea,Delayed,Houston,36,10,7,0,Passed,1,1,Net 60,Unpaid,Medium,0.85,-1788
+ORD100962,Acme Corp.,Electronic Components,50,4/5/2024,,2024.03.22,250.22,43070.6,EUR,Sea,Shipped,Los Angeles,50,5,6,2,Passed,2,3,Net 30,Unpaid,Low,0.86,-1788
+ORD100963,Blue Ocean Ltd.,Electronic Components,50,2024.03.10,,1/24/2024,195.56,9778,EUR,Air,Delayed,Miami,20,20,7,0,Passed,1,5,COD,Paid,High,0.75,-1503
+ORD100964,Prime Logistics,Plastic Sheets,500,15/02/2024,1/25/2024,2024.03.22,145.41,72705,EUR,Sea,Cancelled,Chicago,100,10,3,5,Failed,2,3,Net 60,Unpaid,Low,0.75,-1503
+ORD100965,Nova Supply Co.,Electronic Components,50,1/15/2024,1/25/2024,1/24/2024,178.8,8940,EUR,Rail,Delayed,New York,20,5,10,5,Passed,1,1,COD,Paid,High,0.86,-1788
+ORD100966,Nova Supply Co.,Steel Rods,100,1/15/2024,4/15/2024,2024.03.22,250.22,43070.6,EUR,Sea,Delayed,New York,20,10,7,0,Failed,1,1,COD,Paid,Low,0.85,-1503
+ORD100967,Sunrise Traders,Steel Rods,50,1/15/2024,,1/24/2024,250.22,43070.6,EUR,Air,Shipped,Miami,50,20,10,2,Passed,2,5,Net 30,Paid,Medium,0.75,-1210
+ORD100968,Prime Logistics,Steel Rods,50,4/5/2024,,26/02/2024,283.85,14192.5,USD,Sea,shipped,Los Angeles,20,5,10,1,Passed,0,3,Net 60,Paid,Medium,0.86,-1210
+ORD100969,Prime Logistics,Industrial Paint,100,1/15/2024,,1/24/2024,250.22,43070.6,USD,Road,Delivered,Houston,36,20,6,0,Failed,1,5,Net 30,Unpaid,Medium,0.86,-1503
+ORD100970,Prime Logistics,Packaging Boxes,167,15/02/2024,2024.03.20,4/18/2024,250.22,43070.6,USD,Air,Shipped,New York,100,10,7,2,Failed,1,1,Net 60,Paid,Medium,0.85,-1210
+ORD100971,Acme Corp.,Electronic Components,10,2024.03.10,4/15/2024,2024.03.22,468.51,4685.1,USD,Road,Delayed,Houston,20,15,3,2,Failed,1,4,COD,Paid,Low,0.75,-1210
+ORD100972,Acme Corp.,Copper Wire,100,15/02/2024,,1/24/2024,250.22,43070.6,USD,Sea,Cancelled,Miami,10,20,7,2,Failed,1,3,COD,Unpaid,Medium,0.85,-1788
+ORD100973,Blue Ocean Ltd.,Industrial Paint,50,1/15/2024,25/02/2024,26/02/2024,108.65,5432.5,USD,Air,Delayed,New York,10,5,7,2,Passed,2,4,Net 30,Paid,Low,0.85,-1503
+ORD100974,Nova Supply Co.,Copper Wire,167,1/15/2024,,1/24/2024,250.22,43070.6,USD,Sea,Pending,New York,100,20,5,5,Failed,0,1,Net 60,Pending,Medium,0.86,-1788
+ORD100975,Nova Supply Co.,Industrial Paint,500,15/02/2024,2024.03.20,4/18/2024,132.24,66120,USD,Rail,Delayed,New York,36,15,10,5,Failed,2,2,Net 30,Paid,High,0.85,-1503
+ORD100976,Acme Corp.,Copper Wire,100,2024.03.10,2024.03.20,1/24/2024,250.22,43070.6,USD,Road,Shipped,New York,50,15,5,2,Passed,0,5,COD,Paid,Low,1,-1788
+ORD100977,Blue Ocean Ltd.,Rubber Tires,100,1/15/2024,1/25/2024,26/02/2024,250.22,43070.6,USD,Sea,Pending,Los Angeles,10,10,3,1,Failed,0,4,Net 60,Pending,High,0.75,-1788
+ORD100978,Nova Supply Co.,Copper Wire,500,1/15/2024,,4/18/2024,250.22,43070.6,EUR,Road,shipped,New York,20,15,7,2,Passed,1,2,COD,Unpaid,Low,0.85,-1210
+ORD100979,Nova Supply Co.,Industrial Paint,50,1/15/2024,1/25/2024,2024.03.22,250.22,43070.6,USD,Air,shipped,Houston,0,20,10,2,Passed,2,3,COD,Unpaid,High,1,-1210
+ORD100980,Sunrise Traders,Industrial Paint,200,1/15/2024,25/02/2024,1/24/2024,168.12,33624,EUR,Sea,Delayed,Miami,20,10,6,2,Passed,1,3,Net 60,Unpaid,Medium,1,-1788
+ORD100981,Nova Supply Co.,Steel Rods,200,1/15/2024,1/25/2024,26/02/2024,385.8,77160,USD,Rail,Cancelled,Houston,0,10,5,2,Passed,0,3,COD,Pending,High,0.75,-1210
+ORD100982,Prime Logistics,Industrial Paint,50,1/15/2024,,2024.03.22,250.22,43070.6,USD,Rail,Delayed,Houston,100,10,7,5,Passed,1,4,COD,Unpaid,High,0.85,-1788
+ORD100983,Blue Ocean Ltd.,Industrial Paint,200,15/02/2024,2024.03.20,2024.03.22,250.22,43070.6,USD,Road,In Transit,Chicago,0,20,10,1,Passed,0,5,COD,Paid,Medium,0.75,-1503
+ORD100984,Sunrise Traders,Industrial Paint,100,4/5/2024,,2024.03.22,364.5,36450,USD,Sea,Shipped,Chicago,50,10,3,1,Failed,1,2,COD,Paid,High,1,-1503
+ORD100985,Global Supplies Inc.,Rubber Tires,100,15/02/2024,2024.03.20,26/02/2024,250.22,43070.6,EUR,Sea,Shipped,New York,50,10,10,2,Passed,1,3,COD,Paid,High,0.75,-1503
+ORD100986,Prime Logistics,Steel Rods,100,2024.03.10,,1/24/2024,250.22,43070.6,USD,Sea,Pending,Los Angeles,20,5,3,2,Failed,1,1,Net 60,Paid,Low,0.75,-1503
+ORD100987,Blue Ocean Ltd.,Electronic Components,10,2024.03.10,25/02/2024,26/02/2024,250.22,43070.6,USD,Sea,Pending,Chicago,0,10,5,5,Failed,2,5,COD,Paid,Medium,0.85,-1210
+ORD100988,Acme Corp.,Steel Rods,167,1/15/2024,25/02/2024,1/24/2024,250.22,43070.6,EUR,Sea,Delivered,Houston,20,10,6,2,Passed,0,3,Net 60,Paid,Low,0.85,-1210
+ORD100989,Sunrise Traders,Rubber Tires,10,15/02/2024,,2024.03.22,409.82,4098.2,EUR,Rail,shipped,Houston,0,10,10,2,Passed,1,1,Net 60,Pending,Low,0.75,-1210
+ORD100990,Blue Ocean Ltd.,Electronic Components,10,15/02/2024,1/25/2024,1/24/2024,400.01,4000.1,USD,Road,shipped,New York,50,5,10,1,Passed,0,5,Net 30,Paid,High,0.86,-1210
+ORD100991,Prime Logistics,Industrial Paint,100,4/5/2024,2024.03.20,1/24/2024,250.22,43070.6,USD,Air,shipped,New York,50,5,6,2,Passed,0,4,Net 60,Paid,Medium,0.86,-1788
+ORD100992,Acme Corp.,Packaging Boxes,50,1/15/2024,25/02/2024,2024.03.22,137.16,6858,EUR,Air,Delivered,New York,100,20,3,2,Passed,0,3,Net 60,Unpaid,High,1,-1503
+ORD100993,Blue Ocean Ltd.,Electronic Components,50,1/15/2024,2024.03.20,1/24/2024,250.22,43070.6,USD,Rail,Shipped,Houston,50,10,5,1,Passed,1,2,COD,Paid,Low,0.86,-1788
+ORD100994,Global Supplies Inc.,Packaging Boxes,200,1/15/2024,1/25/2024,26/02/2024,250.22,43070.6,EUR,Road,Pending,Miami,10,20,7,1,Passed,0,5,COD,Paid,Medium,0.86,-1210
+ORD100995,Nova Supply Co.,Packaging Boxes,200,2024.03.10,2024.03.20,2024.03.22,250.22,43070.6,USD,Rail,In Transit,Houston,0,15,7,2,Failed,1,3,Net 60,Pending,Low,0.85,-1210
+ORD100996,Acme Corp.,Rubber Tires,10,4/5/2024,2024.03.20,26/02/2024,458.78,4587.8,EUR,Rail,shipped,Miami,50,15,10,2,Failed,2,5,Net 60,Paid,Low,0.85,-1788
+ORD100997,Sunrise Traders,Industrial Paint,500,1/15/2024,2024.03.20,1/24/2024,250.22,43070.6,USD,Sea,shipped,New York,36,20,7,2,Passed,0,3,Net 30,Pending,High,0.85,-1503
+ORD100998,Acme Corp.,Plastic Sheets,50,2024.03.10,,1/24/2024,250.22,43070.6,USD,Sea,In Transit,New York,100,10,7,0,Passed,1,4,Net 60,Paid,High,0.75,-1210
+ORD100999,Acme Corp.,Industrial Paint,500,4/5/2024,25/02/2024,4/18/2024,223.83,111915,USD,Road,Delivered,Houston,100,10,5,0,Failed,2,2,COD,Pending,Medium,0.86,-1788
